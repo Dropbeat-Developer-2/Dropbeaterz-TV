@@ -131,7 +131,7 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/main/VPxRb6/dl_1080p.m3u8
 
-#EXTINF:-1 tvg-id="BernamaTV" ch-number="502" group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.png",Bernama TV
+#EXTINF:-1 tvg-id="BernamaTV" ch-number="502" group-title="Malaysia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTLtU9fOdsBfWlL5SlUPANlYlQE0kTTvQxDQ&s",Bernama TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1406bbf218ca14f967034fcf4abf7710:39a27aa2cc84a29b665fcc4dbf9c54b6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
@@ -214,7 +214,7 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_250000=100
 #EXTINF:-1 tvg-id="Voice.Of.Palestine.ae" group-title="World" tvg-logo="https://www.pbc.ps/wp-content/uploads/2021/09/صوت-فلسطين.webp",Voice of Palestine
 https://pbc.furrera.ps/PalLive/VOPTV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="RTP.Internacional.pt" group-title="World" tvg-logo="",RTP Mundo
+#EXTINF:-1 tvg-id="RTP.Internacional.pt" group-title="World" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd4I3PGypdjsc4woyUlrg-KakPDJO06lwgqA&s",RTP Mundo
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
