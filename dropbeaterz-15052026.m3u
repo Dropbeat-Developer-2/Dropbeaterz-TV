@@ -22,7 +22,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=TV3
 
 #EXTINF:-1 tvg-id="103.astro" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png",TV3 (FHD from Tonton)
-https://live-ssar-02.tonton.com.my/1778840449/a9a79227186b730566bc50bcd41c2b14fd1b904c1a462920de3df237e5c83c88/tv3/04.m3u8?bpkio_serviceid=6c0958d82a830a0201685a5b17521fbd&bpkio_sessionid=10b3f162b113-1f18c97f-ece8-4993-aa1a-7ff95a30504f&category=all&did=7cb06e16-7fbe-7b46-16d9-764a54004675&dnt=0&ifatype=sessionid&lot_auds&mm_sp&plt=web&ttd_uid2=A4AAADYBpERB1unOdQuPYRxHiyLu8xlOqwDjKTCyuqcMalDqLDzr2N7hllYhTZ7FwhiaFTo0M8PUH5950BHokenlscadp94q8XeUnDbRhZSUD1ctCfg_xUfsB8F9Q6-UKQCKmOEHVCjc9op-xuK5Y_l1hnCrs7li1PXxIQLYONX3KCfLLFILR8Sw0qr4WApkGCIUYDymZHpDcluHcjtWBqsp1g
+https://live-ssar-02.tonton.com.my/1778840449/a9a79227186b730566bc50bcd41c2b14fd1b904c1a462920de3df237e5c83c88/tv3/04.m3u8
 
 #EXTINF:-1 tvg-id="114.astro" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png",TV Alhijrah
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -256,4 +256,4 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #######################################################TEST#######################################################
 
 #EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE
-https://rr1---sn-uh-3jie.googlevideo.com/videoplayback?expire=1778851350&ei=tskGaucDyIHaug_hvLL5DA&ip=175.143.57.165&id=9w7y3SQqQeo.1&source=yt_live_broadcast&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1778829750%2C&mh=LQ&mm=44%2C29&mn=sn-uh-3jie%2Csn-30a7ynek&ms=lva%2Crdu&mv=m&mvi=1&pcm2cms=yes&pl=21&rms=lva%2Clva&initcwndbps=2362500&ss=1&ssa=1&siu=1&spc=96Xrv_A_dvffIODvnOI7wf75Jr1t_Z8YgyIpDZzTDx8F3LGVTJSl&live=1&hang=1&noclen=1&svpuc=1&ns=e8zEdmHbZaHQkQXubVMwoM4V&sabr=1&rqh=1&reg=0&mt=1778829162&fvip=5&keepalive=yes&fexp=51565115%2C51565681&c=WEB&n=qhYHd9-kSgRtnw&sparams=expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Css%2Cssa%2Csiu%2Cspc%2Clive%2Chang%2Cnoclen%2Csvpuc%2Cns%2Csabr%2Crqh%2Creg&sig=AHEqNM4wRQIgOwPIlL0OojfayA61Wx-AXqCxBDShw0N8k6evDncUFdQCIQCdWnpdBfoqSfvuBr3DaUn7o86y2474RCNhxp1WURnG0A%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgRjRNmSfGC2u2Z19xJ9zJS_m1JBj2VULkPPg9Cc4ly3wCIQCSBnV-KaaoJK8iL8wFABXFtM_4k1upUwMfYW2yL0lRjQ%3D%3D&cpn=Fxs6hU0ii2NC6K_I&cver=2.20260514.01.00&rn=10&alr=yes
+https://www.rtp.pt/play/livechannelonair.php?channel=120&howmanynext=0&howmanybefore=0
