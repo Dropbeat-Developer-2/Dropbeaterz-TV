@@ -212,12 +212,6 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_250000=100
 #EXTINF:-1 tvg-id="Voice.Of.Palestine.ae" group-title="World" tvg-logo="https://www.pbc.ps/wp-content/uploads/2021/09/صوت-فلسطين.webp",Voice of Palestine
 https://pbc.furrera.ps/PalLive/VOPTV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="RTP.Internacional.pt" group-title="World" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd4I3PGypdjsc4woyUlrg-KakPDJO06lwgqA&s",RTP Mundo (M3U8)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
-
-#EXTINF:-1 tvg-id="RTP.Internacional.pt" group-title="World" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd4I3PGypdjsc4woyUlrg-KakPDJO06lwgqA&s",RTP Mundo (HLS)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/media_b1290000_slpt_178862.ts
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="DramaHebat" group-title="Malaysia" group-logo="https://sooka.my/assets/images/png/SOOKA_LOGO.png" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/fbc3fcDramaHebat_v1.png",Drama Hebat
@@ -256,4 +250,4 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #######################################################TEST#######################################################
 
 #EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE
-https://www.rtp.pt/play/livechannelonair.php?channel=120&howmanynext=0&howmanybefore=0
+https://edge.kuzeykibrissmart.tv/brt1hd/bant1/chunks.m3u8
