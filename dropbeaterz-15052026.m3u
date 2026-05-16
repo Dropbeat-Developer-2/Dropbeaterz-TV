@@ -95,7 +95,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Malaysia" tvg-id="Dewan Negara.my" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/7.png", RTM Dewan Negara
+#EXTINF:-1 group-title="Malaysia" tvg-id="Dewan Negara.my" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/7.png",RTM Dewan Negara
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/SNAP_CHANNEL.jpg" group-title="Malaysia",RTM Snap
