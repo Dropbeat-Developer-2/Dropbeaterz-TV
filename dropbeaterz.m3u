@@ -38,22 +38,22 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
 #EXTINF:-1 tvg-id="TV6.mana2" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv6_Trans.png" group-title="Malaysia",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
-#EXTINF:-1  group-logo="https://da.gd/ffliqsg" group-title="Singapore" tvg-id="Ch 5" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhmQ2IxttWA0gdpoTDufWxA5Gbsl2U3liSDI7MyrMswUfNSNUa53mH0g7eM5-KwFHhkPHa6UY34XiBmpoPzOBXJiV-hZPQwFA5JWSL-YZN_AentgXX_26ybc2FU0m8zPbk-kkAOCR24-avbDuojjXaOGjQ1LcwVkKcnAnREwKM1-TwHpf1DN_0r-wVjxFJS",Channel 5
+#EXTINF:-1  group-title="Singapore" tvg-id="Ch 5" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhmQ2IxttWA0gdpoTDufWxA5Gbsl2U3liSDI7MyrMswUfNSNUa53mH0g7eM5-KwFHhkPHa6UY34XiBmpoPzOBXJiV-hZPQwFA5JWSL-YZN_AentgXX_26ybc2FU0m8zPbk-kkAOCR24-avbDuojjXaOGjQ1LcwVkKcnAnREwKM1-TwHpf1DN_0r-wVjxFJS",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c7b6aaca62d4dc59567656b371eaa21:253951f121461cbb6b8aac526438b368
 https://tglmp02.akamaized.net/out/v1/8e5c0396bfbc4a668fac323649dc6aa1/manifest.mpd
 
-#EXTINF:-1  group-logo="https://da.gd/ffliqsg" group-title="Singapore"  tvg-id="Ch 8" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhkYmEBCS4Sd6TiaeVJyBiZ7IV43qFA6LzUWEMH0MrCLnakxVm-Ul7Zoj8Ihhykr07lSWcR--kMQM6gjyaP_o2won7qUxPVlKS_uCm5dZbmuX98NQ_HOUC88m2ZONXSn5bSiVRHjoA36GotAcVNPzffpwbX1jWBr30CHsuq2sT4cFgzTU0SBh8S18Vg5Sp8",Channel 8
+#EXTINF:-1  group-title="Singapore"  tvg-id="Ch 8" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhkYmEBCS4Sd6TiaeVJyBiZ7IV43qFA6LzUWEMH0MrCLnakxVm-Ul7Zoj8Ihhykr07lSWcR--kMQM6gjyaP_o2won7qUxPVlKS_uCm5dZbmuX98NQ_HOUC88m2ZONXSn5bSiVRHjoA36GotAcVNPzffpwbX1jWBr30CHsuq2sT4cFgzTU0SBh8S18Vg5Sp8",Channel 8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6b1efb9b83f94e589f2be1c27482672b:74c937b533a2ba10e51b90abe159af7b
 https://tglmp01.akamaized.net/out/v1/41d401729c5d4ce3b15eb7db9147d7bc/manifest.mpd
 
-#EXTINF:-1  group-logo="https://da.gd/ffliqsg" group-title="Singapore" tvg-id="Ch U" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjOqE7JYixtnRJ4NWsS61X79T5XNtMo0zEM2zQFMyC8pbMxE2ZZa4DZSIME7UPtuVGzgxC9f_vi3g3TAmv3H1VADK2jAKN2ESIzalJEp54imInEZVBZRtoLjR2zh8rbrCgfiTDFBiEzvNQUR2Ct_v9T9IjDqlmOe2r7AMMNnUq_sZA9-eTcBxo1ARqGmJZn",Channel U
+#EXTINF:-1  group-title="Singapore" tvg-id="Ch U" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjOqE7JYixtnRJ4NWsS61X79T5XNtMo0zEM2zQFMyC8pbMxE2ZZa4DZSIME7UPtuVGzgxC9f_vi3g3TAmv3H1VADK2jAKN2ESIzalJEp54imInEZVBZRtoLjR2zh8rbrCgfiTDFBiEzvNQUR2Ct_v9T9IjDqlmOe2r7AMMNnUq_sZA9-eTcBxo1ARqGmJZn",Channel U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5729b2b5324c4031aa619d00ee9e5612:6b347db25682e0545a9239ee45dcbb66
 https://tglmp04.akamaized.net/out/v1/884798cc688345d780dc58e4eb56d726/manifest.mpd
 
-#EXTINF:-1  group-logo="https://da.gd/ffliqsg" group-title="Singapore" tvg-id="Suria" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEge39o55xzV57n7j5s--_MBS1X-XWFmDRU2_wYFjWP9sTw3_z_eBOeL2pq3p5RL4dxsBywJ7j7KvMjClzNsIGGuc7lFKIT97nX5KtCSroxYy6rRjNz5tGnhYxRi2v11gUjwqj86XYfxHVpQwuFJ04u00Ah7aBktRFkDAtWKu5Gr9caO_Dm6zuZ3plmx5QP0",Suria
+#EXTINF:-1  group-title="Singapore" tvg-id="Suria" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEge39o55xzV57n7j5s--_MBS1X-XWFmDRU2_wYFjWP9sTw3_z_eBOeL2pq3p5RL4dxsBywJ7j7KvMjClzNsIGGuc7lFKIT97nX5KtCSroxYy6rRjNz5tGnhYxRi2v11gUjwqj86XYfxHVpQwuFJ04u00Ah7aBktRFkDAtWKu5Gr9caO_Dm6zuZ3plmx5QP0",Suria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee8f2493cd55453d917222c1a85212fd:07f5c76b976657fbdcc2085861f649bd
 https://tglmp02.akamaized.net/out/v1/0fa7dd7d7b6447478f26db79ea7c5779/manifest.mpd
@@ -123,7 +123,7 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/main/VPxRb6/dl_1080p.m3u8
 
-#EXTINF:-1 tvg-id="BernamaTV" ch-number="502" group-title="Malaysia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTLtU9fOdsBfWlL5SlUPANlYlQE0kTTvQxDQ&s",Bernama TV
+#EXTINF:-1 tvg-id="BernamaTV" group-title="Malaysia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTLtU9fOdsBfWlL5SlUPANlYlQE0kTTvQxDQ&s",Bernama TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1406bbf218ca14f967034fcf4abf7710:39a27aa2cc84a29b665fcc4dbf9c54b6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
