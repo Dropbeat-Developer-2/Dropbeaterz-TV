@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTM3U url-tvg="https://github.com/zultan-m/astro-epg/raw/main/astro.xml,https://github.com/AqFad2811/epg/raw/main/sooka.xml,https://github.com/AqFad2811/epg/raw/main/unifitv.xml,https://walpak1.github.io/epg/mana2.xml,https://walpak1.github.io/epg/starhub.xml,https://walpak1.github.io/epg/mewatch.xml,https://www.open-epg.com/files/indonesia.xml.gz,https://epg.pw/xmltv/epg.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" refresh="1440" vod_library="https://github.com/ediey7523017/IPTV/raw/main/NewVOD,https://github.com/ediey7523017/IPTV/raw/main/HBOMAX,https://github.com/ediey7523017/IPTV/raw/main/AstroVOD,https://github.com/ediey7523017/IPTV/raw/main/CollectionVOD,https://github.com/ediey7523017/IPTV/raw/main/AseanVOD,https://github.com/ediey7523017/IPTV/raw/main/EnglishVOD,https://github.com/ediey7523017/IPTV/raw/main/IndianVOD,https://github.com/ediey7523017/IPTV/raw/main/KidsVOD" billed-msg="Dropbeaterz IPTV (under construction)"
 
-#EXTINF:-1 group-title="Info" group-logo="https://cdn-icons-png.flaticon.com/512/1/1176.png",UPDATED 23 MAY 2026, 13:04PM
+#EXTINF:-1 group-title="Info" group-logo="https://cdn-icons-png.flaticon.com/512/1/1176.png",UPDATED 23 MAY 2026, 15:54PM
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -629,10 +629,20 @@ https://c16.radioboss.fm:8450/stream
 https://n09.rcs.revma.com/axht8yawe1bwv?rj-ttl=5&rj-tok=AAABnlLxACkAnOt3hlvINPglcw
 
 #EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 3
-https://npo-fsly-2.cdn.streamgate.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3Nzk0NDc5MDEsInVyaSI6IlwvbGl2ZVwvbnBvXC91XzNfNFwvbnBvcGx1c1wvZHJtXC9kYXNoX2NlbmNcL25wby0xXC8wXC8wXC8wXC9ucG8tMS5pc21sIiwidmlld2VyIjoidmlld2VyIiwicmlkIjoiNTJhNTRlNSJ9.1nTIB3v1KbgTueu1E-OKBFNRK0xw8SXmrTFe5QArMxk/live/npo/u_3_4/npoplus/drm/dash_cenc/npo-1/0/0/0/npo-1.isml/stream.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wadukbau.my.id/Waduktv/license.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://wadukbau.my.id/V1/stream.php?link=aHR0cHM6Ly9jZG5qa3Q5MTMudHJhbnN2aXNpb24uY28uaWQ6MTAwMC9saXZlL21hc3Rlci80LzQwMjhjNjg1NjVmYTc5Y2UwMTY2NTg2ODA0MGEzNDNmL21hbmlmZXN0Lm1wZA==&code=777
 
 #EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 4
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w677492154_b192000_sleng.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
+https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 
 #EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 5
 https://cdn-spotify-247.zm.io.vn/download/1XmLPHkuv95o5NUodggzfv?name=My%20System&artist=FELICIA&duration=183&release_year=2026
@@ -797,10 +807,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/122/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/118/default_primary.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/Era_Sarawak_2018.png" radio="true" group-title="Radio",Era Sarawak
-https://n44a-eu.rcs.revma.com/bkqfqkrbv4uvv/68_p7vhxushjqmj02/main/178225403.aac
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Era_Sabah_2018.png" radio="true" group-title="Radio",Era Sabah
-https://n12a-eu.rcs.revma.com/4p3nqmmbv4uvv/18_1oxzafird6r4w02/main/178225403.aac
+
 
 #EXTINF:-1 tvg-id="857.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Sinar_v1.png" radio="true" group-title="Radio",Sinar FM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
