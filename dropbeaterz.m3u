@@ -54,12 +54,15 @@ https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&ch
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Enjoy_TV5.png" tvg-name="EnjoyTV5" group-title="Malaysia",Enjoy TV5 (A)
-http://uutvs.cc/46b9gmvm/6551
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
+https://live.catvod.com/catvod_com.php?id=Dsangat&token=3b1fa1f216f61e7b1d14cde31264c5b71cd03a5f7302d8781db0fa7d750e1210%3A1757
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="TV5ENJOYTV.mana2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Enjoy_TV5.png/revision/latest?cb=20230717140509" group-title="Malaysia",Enjoy TV5 (B)
-https://get.perfecttv.net/mytv.m3u8?channel=tv5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1779529979-5584be57dfb9452f884dcf832e4d63ef-0-441698b4364dd14c84adffe646d213e6&token=1779529979-5584be57dfb9452f884dcf832e4d63ef-0-441698b4364dd14c84adffe646d213e6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0
+https://live.mana2.my/Tv5/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -254,7 +257,7 @@ https://tv-trtworld.medya.trt.com.tr/master_1440.m3u8
 https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/chunklist_b4128000.m3u8
 
 #EXTINF:-1 tvg-id="TVRI.id" group-title="World" tvg-logo="https://yt3.googleusercontent.com/cZVbLx5HjtRTvtmfZLO91BQG3c33v-1LY-ewGyA7TveUg3TMWUTE79Qst-_T9QHvR3nLbKxt=s900-c-k-c0x00ffffff-no-rj",TVRI World
-https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_250000=10000-mp4a_64000=20001.m3u8
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_2500000=10004-mp4a_96000=20002.m3u8
 
 #EXTINF:-1 tvg-id="Voice.Of.Palestine.ae" group-title="World" tvg-logo="https://www.pbc.ps/wp-content/uploads/2021/09/صوت-فلسطين.webp",Voice of Palestine
 https://pbc.furrera.ps/PalLive/VOPTV/tracks-v1a1/mono.m3u8
