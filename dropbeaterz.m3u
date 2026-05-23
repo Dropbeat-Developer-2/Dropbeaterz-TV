@@ -311,12 +311,24 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
 
-#EXTINF:-1 tvg-id="ANTV.id" group-title="Indonesia" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/a32fd488-4e64-434b-b94b-e016e3087d91-profile_image-300x300.png",ANTV
+#EXTINF:-1 tvg-id="ANTV.id" group-title="Indonesia" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/a32fd488-4e64-434b-b94b-e016e3087d91-profile_image-300x300.png",ANTV (DTT FEED)
+https://wahyu1ptv.pages.dev/AnTV-HD.m3u8
+
+#EXTINF:-1 tvg-id="ANTV.id" group-title="Indonesia" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/a32fd488-4e64-434b-b94b-e016e3087d91-profile_image-300x300.png",ANTV (INTERNET FEED)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://fta1-cdn-flr.visionplus.id/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
+
+#EXTINF:-1 tvg-id="ANTV.id" group-title="Indonesia" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/a32fd488-4e64-434b-b94b-e016e3087d91-profile_image-300x300.png",ANTV (SATELLITE FEED)
+KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/108/2c9f9082998232e0019b35e7220c5b63/manifest.mpd
 
 #EXTINF:-1 tvg-id="TVRI.id" group-title="Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRElesU7nNgMNtdxuh0UU-9kw0b5Q8kcU9IEzdWwThqJ8JOXf2ry50iVhk&s=10",TVRI HD
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
@@ -629,8 +641,27 @@ https://cdn-spotify-247.zm.io.vn/download/1XmLPHkuv95o5NUodggzfv?name=My%20Syste
 https://n04-us.rcs.revma.com/vx54zkbwe1bwv?rj-ttl=5&rj-tok=AAABnlLulcwAHQFR3MwgcBtVgQ
 
 ###############################################################RADIO###################################################################
-#EXTINF:-1 tvg-id="" group-title="Radio" radio="true" tvg-logo="https://www.catsfm.my/img/logo.png",Cats FM 
+
+#EXTINF:-1 tvg-id="" group-title="Radio" radio="true" tvg-logo="https://www.catsfm.my/img/logo.png",🆙TODAY'S ADMIN FAVOURITE SONG🆙
+https://cdn-spotify-247.zm.io.vn/download/1XmLPHkuv95o5NUodggzfv?name=My%20System&artist=FELICIA&duration=183&release_year=2026
+
+#EXTINF:-1 tvg-id="" group-title="Radio" radio="true" tvg-logo="https://www.catsfm.my/img/logo.png",Cats FM
 https://n12.rcs.revma.com/51qe53rv0y3vv.m4a
+
+#EXTINF:-1 tvg-id="" group-title="Radio" radio="true" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/434/anf-radio.20903d87.png",ANF Radio
+https://c16.radioboss.fm:8450/stream
+
+#EXTINF:-1 tvg-id="" group-title="Radio" radio="true" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQawUm_3dmVGYc5NLzpY4bZuq255T7bkAxBzHO2eOD7kPGOynaO7ZQVB94&s=10",KupiKupi FM 96.3 (Sabah)
+https://n09.rcs.revma.com/axht8yawe1bwv?rj-ttl=5&rj-tok=AAABnlLxACkAnOt3hlvINPglcw
+
+#EXTINF:-1 tvg-id="" group-title="Radio" radio="true" tvg-logo="https://assets-kupikupifm-sarawak.audioplus.audio/media/Logo/profile_photo_1000x1000-27.jpg",KupiKupi FM 92.5 (Sarawak)
+https://n04-us.rcs.revma.com/vx54zkbwe1bwv?rj-ttl=5&rj-tok=AAABnlLulcwAHQFR3MwgcBtVgQ
+
+#EXTINF:-1 tvg-id="" group-title="Radio" radio="true" tvg-logo="https://www.voices.my/wp-content/uploads/2019/07/VOICE-fm-01-300x96.jpg",VOSJ (Voice of Subang Jaya)
+https://listen.radioking.com/radio/224413/stream/267892
+
+#EXTINF:-1 tvg-id="" group-title="Radio" radio="true" tvg-logo="https://liveonlineradio.net/wp-content/uploads/2019/11/RADIOROSAK.webp", RADIOROSAK
+https://free.rcast.net/68127
 
 #EXTINF:-1 tvg-id="SURIAFM.mana2" group-title="Radio" radio="true" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2013/05/Logo-Radio-Suria-fm-New2013.png",Suria FM 
 https://playerservices.streamtheworld.com/api/livestream-redirect/SURIA_FMAAC
@@ -659,19 +690,19 @@ https://28103.live.streamtheworld.com/NASIONAL_FMAAC.aac
 #EXTINF:-1 tvg-id="TRAXXFM.mana2" group-title="Radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-traxx.0a686746.jpg",Traxx FM
 https://22273.live.streamtheworld.com/TRAXX_FMAAC.aac
 
-#EXTINF:-1 tvg-id="AIFM.mana2" group-title="Radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-ai.028c2b41.jpg",AI FM 
+#EXTINF:-1 tvg-id="AIFM.mana2" group-title="Radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-ai.028c2b41.jpg",Ai FM 
 https://28093.live.streamtheworld.com/AI_FMAAC.aac
 
-#EXTINF:-1 tvg-id="MINNALFM.mana2" group-title="Radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-minnal.891948ec.jpg",MINNAL FM 
+#EXTINF:-1 tvg-id="MINNALFM.mana2" group-title="Radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-minnal.891948ec.jpg",Minnal FM 
 https://28093.live.streamtheworld.com/MINNAL_FMAAC.aac
 
 #EXTINF:-1 tvg-id="ASYIKFM.mana2" group-title="Radio" radio="true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/310_144.png",Radio Asyik
 https://22273.live.streamtheworld.com/ASYIK_FMAAC.aac
 
-#EXTINF:-1 tvg-id="BESTFM.mana2" group-title="Radio" radio="true" radio="true" tvg-logo="https://pictr.com/images/2023/02/26/E1smsv.png",BEST FM
+#EXTINF:-1 tvg-id="BESTFM.mana2" group-title="Radio" radio="true" radio="true" tvg-logo="https://pictr.com/images/2023/02/26/E1smsv.png",Best FM
 https://stream.rcs.revma.com/h34x4kgg9hhvv
 
-#EXTINF:-1 tvg-id="MANISFM.mana2" group-title="Radio" radio="true" radio="true" tvg-logo="https://pictr.com/images/2023/02/26/E1sUo5.md.png",MANIS FM
+#EXTINF:-1 tvg-id="MANISFM.mana2" group-title="Radio" radio="true" radio="true" tvg-logo="https://pictr.com/images/2023/02/26/E1sUo5.md.png",Manis FM
 https://stream.rcs.revma.com/nzgauqq1v7zuv
 
 #EXTINF:-1 tvg-id="IKIMfm.mana2" group-title="Radio" radio="true" tvg-logo="https://telegra.ph/file/3bd2712a70950607fa779.png",IKIM FM
