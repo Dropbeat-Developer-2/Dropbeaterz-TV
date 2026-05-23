@@ -496,7 +496,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5113/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
 
-
 #EXTINF:-1 tvg-id="814.astro" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroFootball_2024.png",814 Astro Football (B)
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
@@ -595,14 +594,14 @@ https://npo-fsly-2.cdn.streamgate.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleH
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w677492154_b192000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 5
-https://feliciaofficial.se/tracks/FELICIA%20-%20My%20System%20(Snippet30sec).mp3
+https://cdn-spotify-247.zm.io.vn/download/1XmLPHkuv95o5NUodggzfv?name=My%20System&artist=FELICIA&duration=183&release_year=2026
 
 #EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 6
 https://n04-us.rcs.revma.com/vx54zkbwe1bwv?rj-ttl=5&rj-tok=AAABnlLulcwAHQFR3MwgcBtVgQ
 
 ###############################################################RADIO###################################################################
 #EXTINF:-1 tvg-id="" group-title="Radio" radio="true" tvg-logo="https://www.catsfm.my/img/logo.png",Cats FM 
-https://n12.rcs.revma.com/51qe53rv0y3vv.m4a?rj-ttl=5&rj-tok=AAABnlLJAswAIcUO2v7kdT2G-Q&1779504754=
+https://n12.rcs.revma.com/51qe53rv0y3vv.m4a
 
 #EXTINF:-1 tvg-id="SURIAFM.mana2" group-title="Radio" radio="true" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2013/05/Logo-Radio-Suria-fm-New2013.png",Suria FM 
 https://playerservices.streamtheworld.com/api/livestream-redirect/SURIA_FMAAC
