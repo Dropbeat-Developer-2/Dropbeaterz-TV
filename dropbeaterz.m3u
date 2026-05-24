@@ -2,10 +2,10 @@
 #EXTM3U url-tvg="https://github.com/zultan-m/astro-epg/raw/main/astro.xml,https://github.com/AqFad2811/epg/raw/main/sooka.xml,https://github.com/AqFad2811/epg/raw/main/unifitv.xml,https://walpak1.github.io/epg/mana2.xml,https://walpak1.github.io/epg/starhub.xml,https://walpak1.github.io/epg/mewatch.xml,https://www.open-epg.com/files/indonesia.xml.gz,https://epg.pw/xmltv/epg.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://epg.946985.filegear-sg.me/t.xml.gz" catchup="append" refresh="2140" vod_library="https://github.com/ediey7523017/IPTV/raw/main/NewVOD,https://github.com/ediey7523017/IPTV/raw/main/HBOMAX,https://github.com/ediey7523017/IPTV/raw/main/AstroVOD,https://github.com/ediey7523017/IPTV/raw/main/CollectionVOD,https://github.com/ediey7523017/IPTV/raw/main/AseanVOD,https://github.com/ediey7523017/IPTV/raw/main/EnglishVOD,https://github.com/ediey7523017/IPTV/raw/main/IndianVOD,https://github.com/ediey7523017/IPTV/raw/main/KidsVOD" billed-msg="Dropbeaterz IPTV (under construction)"
 
 #EXTINF:-1 group-title="Info" group-logo="https://cdn-icons-png.flaticon.com/512/1/1176.png",UPDATED 23 MAY 2026, 15:54PM
-https://cdn-spotify-247.zm.io.vn/download/1XmLPHkuv95o5NUodggzfv?name=My%20System&artist=FELICIA&duration=183&release_year=2026
+https://fine.sunproxy.net/file/U3BsTUtta0pkbE5SRXNvb09pdjVNOUpXYXUxazlXbDlYYXBpR0haQmZUQUZPTHE4RWQ2UmJuR0p3Q296N1BTTzBIMEhpSUNqeTl5T09DT2ZzVEdTYms0VHFIK1BDR1lndWFaUnB4VnJSbXc9/Felicia_Sweden_2026_-_My_System_(SkySound.cc).mp3
 
 #EXTINF:-1 group-title="Info" group-logo="https://cdn-icons-png.flaticon.com/512/1/1176.png",Contact me in Telegram: https://t.me/+VdEstMMnFZ9iYmU1
-https://x-minus.pro/dl/redirect?minusid=m773692&u=https%3A%2F%2Fm4.xmst.cc%2Fdl%2Fminus%2F773692%3Ft668%3Dbd50dzyxwz773692.9z3h8q70ez1945%26trackname%3DFelicia%2520-%2520My%2520System%2520(minus%25202)
+https://fine.sunproxy.net/file/U3BsTUtta0pkbE5SRXNvb09pdjVNOUpXYXUxazlXbDlYYXBpR0haQmZUQUZPTHE4RWQ2UmJuR0p3Q296N1BTTzBIMEhpSUNqeTl5T09DT2ZzVEdTYms0VHFIK1BDR1lndWFaUnB4VnJSbXc9/Felicia_Sweden_2026_-_My_System_(SkySound.cc).mp3
 
 #EXTINF:-1 tvg-id="TV1.mana2" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1 (50FPS/END 1ST JULY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -557,7 +557,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5076/default_primary.mpd
 
 #EXTINF:-1 tvg-id="819.astro" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSportsPlus_2024.png",Astro Sports Plus 3 (L/E)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-###KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"C4shb2xjd83gF2iBaseOTw","kid":"Vs8wpOzNaCQdyyr6J7pyEA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"C4shb2xjd83gF2iBaseOTw","kid":"Vs8wpOzNaCQdyyr6J7pyEA"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.license_key=56cf30a4eccd68241dcb2afa27ba7210:0b8b216f6c6377cde01768816ac78e4f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5187/default_primary.mpd
@@ -603,7 +603,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5117/default_primary.mpd
 #######################################################TEST#######################################################
 
 #EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 1
-https://on.soundcloud.com/pPhKXaBuKXQ8r8ompG
+https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 2
 https://n09.rcs.revma.com/axht8yawe1bwv?rj-ttl=5&rj-tok=AAABnlLxACkAnOt3hlvINPglcw
@@ -628,7 +628,7 @@ https://fine.sunproxy.net/file/U3BsTUtta0pkbE5SRXNvb09pdjVNOUpXYXUxazlXbDlYYXBpR
 ###############################################################RADIO###################################################################
 
 #EXTINF:-1 tvg-id="" group-title="Radio" radio="true" tvg-logo="https://www.catsfm.my/img/logo.png",🆙TODAY'S ADMIN FAVOURITE SONG🆙
-https://cdn-spotify-247.zm.io.vn/download/1XmLPHkuv95o5NUodggzfv?name=My%20System&artist=FELICIA&duration=183&release_year=2026
+https://fine.sunproxy.net/file/U3BsTUtta0pkbE5SRXNvb09pdjVNOUpXYXUxazlXbDlYYXBpR0haQmZUQUZPTHE4RWQ2UmJuR0p3Q296N1BTTzBIMEhpSUNqeTl5T09DT2ZzVEdTYms0VHFIK1BDR1lndWFaUnB4VnJSbXc9/Felicia_Sweden_2026_-_My_System_(SkySound.cc).mp3
 
 #EXTINF:-1 tvg-id="" group-title="Radio" radio="true" tvg-logo="https://www.catsfm.my/img/logo.png",Cats FM
 https://n12.rcs.revma.com/51qe53rv0y3vv.m4a
