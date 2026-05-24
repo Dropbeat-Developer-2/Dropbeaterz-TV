@@ -5,7 +5,7 @@
 https://cdn-spotify-247.zm.io.vn/download/1XmLPHkuv95o5NUodggzfv?name=My%20System&artist=FELICIA&duration=183&release_year=2026
 
 #EXTINF:-1 group-title="Info" group-logo="https://cdn-icons-png.flaticon.com/512/1/1176.png",Contact me in Telegram: https://t.me/+VdEstMMnFZ9iYmU1
-https://share.zight.com/JruRJ8Bp
+https://dragon.video2edit.com/download-file/99adf67b-7949-474a-b4b8-e6189c6e42d7/3ba3ec7b-a328-443f-88c8-db8c59aad395
 
 #EXTINF:-1 tvg-id="TV1.mana2" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1 (50FPS/END 1ST JULY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -604,18 +604,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5117/default_primary.mpd
 #######################################################TEST#######################################################
 
 #EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 1
-https://share.zight.com/JruRJ8Bp
+https://dragon.video2edit.com/download-file/99adf67b-7949-474a-b4b8-e6189c6e42d7/3ba3ec7b-a328-443f-88c8-db8c59aad395
 
 #EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 2
 https://n09.rcs.revma.com/axht8yawe1bwv?rj-ttl=5&rj-tok=AAABnlLxACkAnOt3hlvINPglcw
 
 #EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://wadukbau.my.id/Waduktv/license.php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://wadukbau.my.id/V1/stream.php?link=aHR0cHM6Ly9jZG5qa3Q5MTMudHJhbnN2aXNpb24uY28uaWQ6MTAwMC9saXZlL21hc3Rlci80LzQwMjhjNjg1NjVmYTc5Y2UwMTY2NTg2ODA0MGEzNDNmL21hbmlmZXN0Lm1wZA==&code=777
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36
@@ -629,7 +624,7 @@ https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 https://cdn-spotify-247.zm.io.vn/download/1XmLPHkuv95o5NUodggzfv?name=My%20System&artist=FELICIA&duration=183&release_year=2026
 
 #EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 6
-https://n04-us.rcs.revma.com/vx54zkbwe1bwv?rj-ttl=5&rj-tok=AAABnlLulcwAHQFR3MwgcBtVgQ
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
 ###############################################################RADIO###################################################################
 
