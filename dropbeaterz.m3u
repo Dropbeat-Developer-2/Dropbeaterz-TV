@@ -5,7 +5,7 @@
 https://cdn-spotify-247.zm.io.vn/download/1XmLPHkuv95o5NUodggzfv?name=My%20System&artist=FELICIA&duration=183&release_year=2026
 
 #EXTINF:-1 group-title="Info" group-logo="https://cdn-icons-png.flaticon.com/512/1/1176.png",Contact me in Telegram: https://t.me/+VdEstMMnFZ9iYmU1
-https://dragon.video2edit.com/download-file/99adf67b-7949-474a-b4b8-e6189c6e42d7/3ba3ec7b-a328-443f-88c8-db8c59aad395
+https://x-minus.pro/track/773692/my-system
 
 #EXTINF:-1 tvg-id="TV1.mana2" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1 (50FPS/END 1ST JULY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -604,13 +604,16 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5117/default_primary.mpd
 #######################################################TEST#######################################################
 
 #EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 1
-https://dragon.video2edit.com/download-file/99adf67b-7949-474a-b4b8-e6189c6e42d7/3ba3ec7b-a328-443f-88c8-db8c59aad395
+https://x-minus.pro/track/773692/my-system
 
 #EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 2
 https://n09.rcs.revma.com/axht8yawe1bwv?rj-ttl=5&rj-tok=AAABnlLxACkAnOt3hlvINPglcw
 
 #EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 3
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
+https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36
