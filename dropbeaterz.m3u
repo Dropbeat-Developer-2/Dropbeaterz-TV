@@ -11,7 +11,7 @@
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-#EXTINF:-1 group-title="Info" tvg-logo="https://thumbs.dreamstime.com/b/update-logo-template-software-upgrade-icon-vector-logotype-gear-arrow-technology-concept-cogwheel-up-symbol-ui-web-258277291.jpg",UPDATED 24 MAY 2026, 21:45PM
+#EXTINF:-1 group-title="Info" tvg-logo="https://thumbs.dreamstime.com/b/update-logo-template-software-upgrade-icon-vector-logotype-gear-arrow-technology-concept-cogwheel-up-symbol-ui-web-258277291.jpg",UPDATED 26 MAY 2026, 17:22PM
 https://fine.sunproxy.net/file/U3BsTUtta0pkbE5SRXNvb09pdjVNOUpXYXUxazlXbDlYYXBpR0haQmZUQUZPTHE4RWQ2UmJuR0p3Q296N1BTTzBIMEhpSUNqeTl5T09DT2ZzVEdTYms0VHFIK1BDR1lndWFaUnB4VnJSbXc9/Felicia_Sweden_2026_-_My_System_(SkySound.cc).mp3
 
 #EXTINF:-1 group-title="Info" tvg-logo="https://png.pngtree.com/png-clipart/20250102/original/pngtree-contact-us-button-with-call-icon-vector-png-image_9803507.png",Contact me in Telegram: https://t.me/+5zUEaddRGo40NDc1
@@ -19,7 +19,7 @@ https://fine.sunproxy.net/file/U3BsTUtta0pkbE5SRXNvb09pdjVNOUpXYXUxazlXbDlYYXBpR
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`````
 
-#EXTINF:-1 tvg-id="TV1.mana2" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1 (50FPS/END 1ST JULY)
+#EXTINF:-1 tvg-id="101.astro" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1 (50FPS/END 1ST JULY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=912760c409eb5aff3e060422c502f410:bea2d0f89fb3fbafa1fc9f34ba8734a6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
@@ -82,6 +82,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 #EXTINF:-1  group-title="Singapore" tvg-id="Ch 5" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhmQ2IxttWA0gdpoTDufWxA5Gbsl2U3liSDI7MyrMswUfNSNUa53mH0g7eM5-KwFHhkPHa6UY34XiBmpoPzOBXJiV-hZPQwFA5JWSL-YZN_AentgXX_26ybc2FU0m8zPbk-kkAOCR24-avbDuojjXaOGjQ1LcwVkKcnAnREwKM1-TwHpf1DN_0r-wVjxFJS",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c7b6aaca62d4dc59567656b371eaa21:253951f121461cbb6b8aac526438b368
@@ -101,6 +103,23 @@ https://tglmp04.akamaized.net/out/v1/884798cc688345d780dc58e4eb56d726/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee8f2493cd55453d917222c1a85212fd:07f5c76b976657fbdcc2085861f649bd
 https://tglmp02.akamaized.net/out/v1/0fa7dd7d7b6447478f26db79ea7c5779/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b08559f2efb4075b6b31666b412932d:f574a17ae1805bf390b58d2bf814c062
+#EXTINF:-1 tvg-id="AstroWarnaHD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/118_1920x1080_HTV.png?w=272?13404" group-title="Singapore",Astro/Starhub Warna
+https://ucdn.starhubgo.com/bpk-tv/Astro_warna_new/output/manifest.mpd|X-Forwarded-For=119.56.77.101
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0510cd2f13504601956fb58167de6beb:bdd71968a15b634b3e097173a8b7ea7b
+#EXTINF:-1 tvg-id="AstroSensasiHD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/123_1920x1080_HTV.png?w=272?13404" group-title="Singapore",Astro/Starhub Sensasi
+https://ucdn.starhubgo.com/bpk-tv/HubSensasiHD/output/manifest.mpd|X-Forwarded-For=119.56.77.101
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5f3a6256209f40028a2954d02f3de31d:15e506cc2530e5e7c0a71d5561dc4d02
+#EXTINF:-1 tvg-id="Karisma.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/116_1920x1080_HTV.png?w=272?13404" group-title="Singapore",Starhub Karisma
+https://ucdn.starhubgo.com/bpk-tv/Karisma/output/manifest.mpd|X-Forwarded-For=119.56.77.101
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 #EXTINF:-1 tvg-id="Okey.rtm" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/467_144.png", TV Okey (50FPS/END 1ST JULY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -136,14 +155,6 @@ https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&ch
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=eea0828c38d74407a5c384ad730d7224:250605c3d9734f7777e9c46fe5a6b176
 https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=TV9
-
-#EXTINF:-1 tvg-id="parlimenmalaysia" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/85286732-64A6-4885-B02A-ED0383F4319D/0-16x9.png?width=530" group-title="Malaysia",Parlimen Malaysia
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.6972359084 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=dce6cb3389014684b2abc82f6a478bff:086c0ad70d90bbd9e39478dd0c2460b0
-https://sghost.mobileads.uno/uni5/uni5.mpd?id=parlimen&provider=mytech
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -186,53 +197,15 @@ https://d25tgymtnqzu8s.cloudfront.net/main/VPxRb6/dl_1080p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_primary.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UlUQz6Y0vWMK+MlfqTV2yg", "kid":"bwbzs898utDMiyHiyU37EA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="501.astro" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Astro_Awani_%282025%29.png",Astro Awani
-#EXTVLCOPT:http-user-agent=(Linux; U; Android 9; Build/)
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
-
-~~~~~~~~~ASTRO TV~~~~~~~~~~~~
-
-#EXTINF:-1 tvg-id="104.astro" group-title="Malaysia" tvg-logo="https://i.ibb.co/mC58vXXY/Astro-Ria-2024.png",Ria (A)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.aqfadtv.xyz/?username=HishamKamarul&channelid=1004
-https://linears2-playback.astro.com.my/vsg/41_qFj3Bk-JjV0oDqk6apuuCAjXU4rgRaaBSzlIdnt-to=eBEw/dash-wv/jitp-linearwm/1004/default_ott.mpd
-
-#EXTINF:-1 tvg-id="104.astro" group-title="Malaysia" tvg-logo="https://i.ibb.co/mC58vXXY/Astro-Ria-2024.png",Ria (B)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.aqfadtv.xyz/?username=HishamKamarul&channelid=1004
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://live.aqfadtv.xyz/ria/index.mpd
-
-#EXTINF:-1 tvg-id="104.astro" group-title="Malaysia" tvg-logo="https://i.ibb.co/mC58vXXY/Astro-Ria-2024.png",Ria (C)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-http://ktpremium.site:2095/itv263/9189/1058818
-
-#EXTINF:-1 tvg-id="104.astro" group-title="Malaysia" tvg-logo="https://i.ibb.co/mC58vXXY/Astro-Ria-2024.png",Ria (D)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
-#EXTVLCOPT:http-user-agent=(Linux; U; Android 9; Build/)
-https://bozzku.xyz/victus/1446/AstroRia.mpd
-
-#EXTINF:-1 tvg-id="104.astro" tvg-logo="https://i.ibb.co/mC58vXXY/Astro-Ria-2024.png" group-title="Malaysia", Ria (E)
-http://217.216.110.49:8000/riay70
-
-#EXTINF:-1 tvg-id="104.astro" tvg-logo="https://i.ibb.co/mC58vXXY/Astro-Ria-2024.png" group-title="Malaysia", Ria (F)
-http://uutvs.cc/46b9gmvm/6565
+#KODIPROP:inputstream.adaptive.license_key=6f06f3b3cf7cbad0cc8b21e2c94dfb10:525510cfa634bd630af8c95fa93576ca
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="RTMAsean" group-title="World" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/RTM_World_%282026%29.png/revision/latest/scale-to-width-down/1000?cb=20260331093002",RTM World (International Feed)
+#EXTINF:-1 tvg-id="BERITARTM.mana2" group-title="World" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/RTM_World_%282026%29.png/revision/latest/scale-to-width-down/1000?cb=20260331093002",RTM World (International Feed)
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/manifest.mpd
 
 #EXTINF:-1 tvg-id="PressTV.ir" group-title="World" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKd2x8VhCsahJaQQKF7vAShkbPvSZuxmvycw&s",Press TV
@@ -670,21 +643,16 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5117/default_primary.mpd
 https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 2
-https://n09.rcs.revma.com/axht8yawe1bwv?rj-ttl=5&rj-tok=AAABnlLxACkAnOt3hlvINPglcw
+http://uutvs.cc/46b9gmvm/4772
 
 #EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 3
 https://pal6.short.gy/skyspt1nz
 
 #EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
-https://tvratu.my.id/vid/index.mpd?id=205&type=dash
+http://uutvs.cc/46b9gmvm/4756
 
 #EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 5
-https://x-minus.pro/dl/redirect?minusid=m773692&u=https%3A%2F%2Fm4.xmst.cc%2Fdl%2Fminus%2F773692%3Ft668%3Dbd50dzyxwz773692.9z3h8q70ez1945%26trackname%3DFelicia%2520-%2520My%2520System%2520(minus%25202)
+https://storage.cdnframe.com/cdn-yt-g634mnkhf/eeQrmUHB9F8/best.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=NoxBld6j6hfLPRSadWnB%2F20260526%2Fnl-east-host02%2Fs3%2Faws4_request&X-Amz-Date=20260526T091813Z&X-Amz-Expires=600&X-Amz-Signature=314d1b575645cc0b89f6139119c2bb5aa667c318e40beaf0a7275a9db8948dab&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22%5BFIKTIF%5D%20Opening%20Enews%20Petang%20%2828%2F4%2F2026%29.mp4%22&x-amz-checksum-mode=ENABLED&x-id=GetObject
 
 #EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 6
 https://fine.sunproxy.net/file/U3BsTUtta0pkbE5SRXNvb09pdjVNOUpXYXUxazlXbDlYYXBpR0haQmZUQUZPTHE4RWQ2UmJuR0p3Q296N1BTTzBIMEhpSUNqeTl5T09DT2ZzVEdTYms0VHFIK1BDR1lndWFaUnB4VnJSbXc9/Felicia_Sweden_2026_-_My_System_(SkySound.cc).mp3
@@ -696,9 +664,6 @@ https://fine.sunproxy.net/file/U3BsTUtta0pkbE5SRXNvb09pdjVNOUpXYXUxazlXbDlYYXBpR
 
 #EXTINF:-1 tvg-id="" group-title="Radio" radio="true" tvg-logo="https://www.catsfm.my/img/logo.png",Cats FM
 https://n12.rcs.revma.com/51qe53rv0y3vv.m4a
-
-#EXTINF:-1 tvg-id="" group-title="Radio" radio="true" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/434/anf-radio.20903d87.png",ANF Radio
-https://c16.radioboss.fm:8450/stream
 
 #EXTINF:-1 tvg-id="" group-title="Radio" radio="true" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQawUm_3dmVGYc5NLzpY4bZuq255T7bkAxBzHO2eOD7kPGOynaO7ZQVB94&s=10",KupiKupi FM 96.3 (Sabah)
 https://n09.rcs.revma.com/axht8yawe1bwv?rj-ttl=5&rj-tok=AAABnlLxACkAnOt3hlvINPglcw
