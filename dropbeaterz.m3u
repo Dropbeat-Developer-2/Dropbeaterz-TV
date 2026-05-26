@@ -100,7 +100,6 @@ https://ucdn.starhubgo.com/bpk-tv/HubSensasiHD/output/manifest.mpd|X-Forwarded-F
 #KODIPROP:inputstream.adaptive.license_key=5f3a6256209f40028a2954d02f3de31d:15e506cc2530e5e7c0a71d5561dc4d02
 #EXTINF:-1 tvg-id="Karisma.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/116_1920x1080_HTV.png?w=272?13404" group-title="Singapore",Starhub Karisma
 https://ucdn.starhubgo.com/bpk-tv/Karisma/output/manifest.mpd|X-Forwarded-For=119.56.77.101
-
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 #EXTINF:-1 tvg-id="Okey.rtm" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/467_144.png", TV Okey (50FPS/END 1ST JULY)
@@ -353,6 +352,65 @@ https://cdnjkt913.transvision.co.id:1000/live/master/108/2c9f9082998232e0019b35e
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
 https://tvratu.my.id/vid/index.mpd?id=205&type=dash
+
+#EXTINF:-1 tvg-id="CNBCINDONESIA.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/CNBC_Indonesia_2025.svg/960px-CNBC_Indonesia_2025.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Indonesia",CNBC Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="Indonesia",Trans TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-id="Trans7.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_Trans7.png/1280px-Logo_Trans7.png",Trans 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w577694934_b744100_sleng.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-id="SCTV.id" tvg-logo="https://images.seeklogo.com/logo-png/33/1/sctv-logo-png_seeklogo-338230.png",SCTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://203.77.246.58:4500/udp/239.1.1.108:5000
+
+#EXTINF:-1 tvg-id="Kompas.TV.id" tvg-logo="https://images.seeklogo.com/logo-png/45/2/kompas-tv-logo-png_seeklogo-456291.png" group-title="Indonesia",Kompas TV
+https://smart.dxjc.pp.ua/smart.php?id=Kompass&token=tmxk
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/250px-RCTI_logo_2015.svg.png" group-title="Indonesia",RCTI
+https://smart.dxjc.pp.ua/smart.php?id=Rcti&token=tmxk
+
+#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-logo="https://play-lh.googleusercontent.com/LmxH3ouzCgYRO7UpACZAI8h74blPbooCcSaEk7Qb26G_49BX2jrr2xx5ohLBcFl_oStL=w240-h480-rw" group-title="Indonesia",Berita Satu
+https://smart.dxjc.pp.ua/smart.php?id=BeritaSatu_eko&token=tmxk
+
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="Indonesia",MNC TV
+https://smart.dxjc.pp.ua/smart.php?id=Mnctv&token=tmxk
+
+#EXTINF:-1 tvg-id="JTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/JtvRek%21.jpg" group-title="Indonesia",JTV
+https://smart.dxjc.pp.ua/smart.php?id=JTV_eko&token=tmxk
+
+#EXTINF:-1 tvg-id="Metro.TV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Metro_%28MetroTV%29_2023_logo.png/960px-Metro_%28MetroTV%29_2023_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Indonesia",Metro TV
+https://smart.dxjc.pp.ua/smart.php?id=metrotv_eko&token=tmxk
+
+#EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://i.ytimg.com/vi/yNKvkPJl-tg/maxresdefault.jpg" group-title="Indonesia",TV-ONE
+https://smart.dxjc.pp.ua/smart.php?id=Tvone&token=tmxk
+
+#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://cdn.techinasia.com/data/images/FoSthAf9VYB8KEHxQ1xB6gkc2bihFdf2HlhMjzyK.jpeg" group-title="Indonesia",GTV
+https://smart.dxjc.pp.ua/smart.php?id=Gtv&token=tmxk
+
+#EXTINF:-1 tvg-id="RTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/rKoPKInYTUfXPOors1NKHXiAHnw=/640x198/filters:quality(70)/vidio-web-prod-user/uploads/user/cover/909920/WhatsAppImage2023-05-25at173519-94f5e5d4afa82ef4.jpeg" group-title="Indonesia",RTV (Rajawali Televisi)
+https://smart.dxjc.pp.ua/smart.php?id=Rtv&token=tmxk
+
+#EXTINF:-1 tvg-id="JAKTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/ry8jx68KXH20EOlagfUd2pr85FQ=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5415/jaktv-72a5da.jpg" group-title="Indonesia",Jak TV
+https://smart.dxjc.pp.ua/smart.php?id=JakTV&token=tmxk
+
+#EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="Indonesia",iNews
+https://smart.dxjc.pp.ua/smart.php?id=Inewstv&token=tmxk
+
+#EXTINF:-1 tvg-id="Daai.TV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/DAAI_TV_Jakarta.png" group-title="Indonesia",Daai TV
+https://smart.dxjc.pp.ua/smart.php?id=DaaiTV&token=tmxk
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/bwUEILb_i5ngA1tmC0WaTOP9gCc=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg" tvg-name="Moji.id" group-title="Indonesia",Moji (A)
+http://uutvs.cc/46b9gmvm/6338
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/bwUEILb_i5ngA1tmC0WaTOP9gCc=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg" tvg-name="Moji.id" group-title="Indonesia",Moji (B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
 #######################################################Sports#######################################################
 
