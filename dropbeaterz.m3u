@@ -804,9 +804,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/122/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/118/default_primary.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/Era_Sarawak_2018.png" radio="true" group-title="Radio",Era Sarawak
+https://n44a-eu.rcs.revma.com/bkqfqkrbv4uvv/68_p7vhxushjqmj02/main/178253954.aac
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Era_Sabah_2018.png" radio="true" group-title="Radio",Era Sabah
-
+https://n12a-eu.rcs.revma.com/4p3nqmmbv4uvv/18_1oxzafird6r4w02/main/178253951.aac
 
 #EXTINF:-1 tvg-id="857.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Sinar_v1.png" radio="true" group-title="Radio",Sinar FM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
