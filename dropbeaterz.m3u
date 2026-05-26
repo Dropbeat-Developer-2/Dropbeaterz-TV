@@ -468,13 +468,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9747cb0f074483e5e46949db6b96fb10:3ee4350bc09280599c2df65e1869ed18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/5101/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5101/default_primary.mpd
 
 #EXTINF:-1 tvg-id="808.astro" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola4_2024.png",Astro Arena Bola 4 (L/E)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2cb9e74464744126a406b04bb92070bf:8a6b59d0bf43e1265fceefe321840061
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/5102/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5102/default_primary.mpd
 
 #EXTINF:-1 tvg-id="810.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroGrandstand_2024.png" group-title="Sports",Astro Grandstand (A)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -689,7 +689,7 @@ https://stream.rcs.revma.com/qp0xrd9mtd3vv
 #EXTINF:-1 tvg-id="MOLEKFM.mana2" group-title="Radio" radio="true" tvg-logo="https://i.ibb.co/Ms7nftD/MolekFM.png",Molek FM
 https://stream.rcs.revma.com/z56xa78mtd3vv
 
-#EXTINF:-1 tvg-id="RADIOKLASIK.mana2"" group-title="Radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-klasik.c7b4564b.jpg",Radio Klasik
+#EXTINF:-1 tvg-id="RADIOKLASIK.mana2" group-title="Radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-klasik.c7b4564b.jpg",Radio Klasik
 https://28103.live.streamtheworld.com/RADIO_KLASIKAAC.aac
 
 #EXTINF:-1 tvg-id="NASIONALFM.mana2" group-title="Radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-nasional.21cbcdbf.jpg",Nasional FM
