@@ -1,10 +1,13 @@
 #EXTM3U
 #EXTM3U url-tvg="https://github.com/zultan-m/astro-epg/raw/main/astro.xml,https://github.com/AqFad2811/epg/raw/main/sooka.xml,https://github.com/AqFad2811/epg/raw/main/unifitv.xml,https://walpak1.github.io/epg/mana2.xml,https://walpak1.github.io/epg/starhub.xml,https://walpak1.github.io/epg/mewatch.xml,https://www.open-epg.com/files/indonesia.xml.gz,https://epg.pw/xmltv/epg.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://epg.946985.filegear-sg.me/t.xml.gz" catchup="append" refresh="2140" vod_library="https://github.com/ediey7523017/IPTV/raw/main/NewVOD,https://github.com/ediey7523017/IPTV/raw/main/HBOMAX,https://github.com/ediey7523017/IPTV/raw/main/AstroVOD,https://github.com/ediey7523017/IPTV/raw/main/CollectionVOD,https://github.com/ediey7523017/IPTV/raw/main/AseanVOD,https://github.com/ediey7523017/IPTV/raw/main/EnglishVOD,https://github.com/ediey7523017/IPTV/raw/main/IndianVOD,https://github.com/ediey7523017/IPTV/raw/main/KidsVOD" billed-msg="Dropbeaterz IPTV (under construction)"
 
-#EXTINF:-1 group-title="Info" group-logo="https://cdn-icons-png.flaticon.com/512/1/1176.png",UPDATED 24 MAY 2026, 21:45PM
+#EXTINF:-1 group-title="Info" group-logo="https://cdn-icons-png.flaticon.com/512/1/1176.png"
+#EXTINF:-1 group-title="Malaysia" group-logo="https://cdn-icons-png.flaticon.com/512/1/1176.png"
+
+#EXTINF:-1 group-title="Info" tvg-logo="https://thumbs.dreamstime.com/b/update-logo-template-software-upgrade-icon-vector-logotype-gear-arrow-technology-concept-cogwheel-up-symbol-ui-web-258277291.jpg",UPDATED 24 MAY 2026, 21:45PM
 https://fine.sunproxy.net/file/U3BsTUtta0pkbE5SRXNvb09pdjVNOUpXYXUxazlXbDlYYXBpR0haQmZUQUZPTHE4RWQ2UmJuR0p3Q296N1BTTzBIMEhpSUNqeTl5T09DT2ZzVEdTYms0VHFIK1BDR1lndWFaUnB4VnJSbXc9/Felicia_Sweden_2026_-_My_System_(SkySound.cc).mp3
 
-#EXTINF:-1 group-title="Info" group-logo="https://cdn-icons-png.flaticon.com/512/1/1176.png",Contact me in Telegram: https://t.me/+5zUEaddRGo40NDc1
+#EXTINF:-1 group-title="Info" tvg-logo="https://png.pngtree.com/png-clipart/20250102/original/pngtree-contact-us-button-with-call-icon-vector-png-image_9803507.png,Contact me in Telegram: https://t.me/+5zUEaddRGo40NDc1
 https://fine.sunproxy.net/file/U3BsTUtta0pkbE5SRXNvb09pdjVNOUpXYXUxazlXbDlYYXBpR0haQmZUQUZPTHE4RWQ2UmJuR0p3Q296N1BTTzBIMEhpSUNqeTl5T09DT2ZzVEdTYms0VHFIK1BDR1lndWFaUnB4VnJSbXc9/Felicia_Sweden_2026_-_My_System_(SkySound.cc).mp3
 
 #EXTINF:-1 tvg-id="TV1.mana2" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1 (50FPS/END 1ST JULY)
@@ -355,11 +358,19 @@ KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/108/2c9f9082998232e0019b35e7220c5b63/manifest.mpd
 
-#EXTINF:-1 tvg-id="TVRI.id" group-title="Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRElesU7nNgMNtdxuh0UU-9kw0b5Q8kcU9IEzdWwThqJ8JOXf2ry50iVhk&s=10",TVRI HD
+#EXTINF:-1 tvg-id="TVRI.id" group-title="Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRElesU7nNgMNtdxuh0UU-9kw0b5Q8kcU9IEzdWwThqJ8JOXf2ry50iVhk&s=10",TVRI (HD)
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
-#EXTINF:-1 tvg-id="TVRI.id" group-title="Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRElesU7nNgMNtdxuh0UU-9kw0b5Q8kcU9IEzdWwThqJ8JOXf2ry50iVhk&s=10",TVRI SD
+#EXTINF:-1 tvg-id="TVRI.id" group-title="Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRElesU7nNgMNtdxuh0UU-9kw0b5Q8kcU9IEzdWwThqJ8JOXf2ry50iVhk&s=10",TVRI (SD)
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_900000=10002-mp4a_96000_eng=20000.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Indonesia" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8f7fbe3d-3f9e-4e67-8c96-0a9ef26e9024/dix00j7-d56ae9e8-5def-464e-a9bb-95b1943f09ae.png/v1/fill/w_1280,h_325/logo_indosiar_watermark_1_by_feud1995_dix00j7-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzI1IiwicGF0aCI6Ii9mLzhmN2ZiZTNkLTNmOWUtNGU2Ny04Yzk2LTBhOWVmMjZlOTAyNC9kaXgwMGo3LWQ1NmFlOWU4LTVkZWYtNDY0ZS1hOWJiLTk1YjE5NDNmMDlhZS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.0xVNuhtbB1iWH_7-UDqhnObl2jblRojEOb9K68ovdik",Indosiar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
+https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 
 #######################################################Sports#######################################################
 
@@ -549,7 +560,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5111/default_primary.mpd
 
-#EXTINF:-1 tvg-id="809.astro" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague5_2024.png",809 Astro Premier League 5
+#EXTINF:-1 tvg-id="809.astro" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague5_2024.png",Astro Premier League 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=229670469469aa6f78bc5bbe10071810:3b3ede68e8bb9d0d4e3b4517c422cccf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
@@ -561,7 +572,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5113/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
 
-#EXTINF:-1 tvg-id="814.astro" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroFootball_2024.png",814 Astro Football (B)
+#EXTINF:-1 tvg-id="814.astro" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroFootball_2024.png",Astro Football (B)
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
@@ -630,14 +641,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
 
-#EXTINF:-1 tvg-id="834.astro" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroGolf_2025.png",Astro Golf (L/E)
+#EXTINF:-1 tvg-id="834.astro" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroGolf_2025.png",Astro Golf Plus(L/E)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 ###KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"B9s6DSCdgsc7u-xLouGqTQ","kid":"b2AX7_CBQ5oGPF_PlfpKEA"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.license_key=6f6017eff081439a063c5fcf95fa4a10:07db3a0d209d82c73bbbecbbaae1aa4d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5140/default_primary.mpd
 
-#EXTINF:-1 tvg-id="835.astro" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Cricbuzz.png",Cricbuzz (L/E)
+#EXTINF:-1 tvg-id="835.astro" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Cricbuzz.png",Cricbuzz Plus (L/E)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=581698bd7d049a4877227553e2902410:e39e223d3679e533b8144a6241f794ba
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
