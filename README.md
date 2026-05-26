@@ -1,2 +1,2 @@
 # Dropbeaterz-TV
-This playlist is only for testing, not public!
+This playlist is under contruction. So, some channels can't be accessible.
