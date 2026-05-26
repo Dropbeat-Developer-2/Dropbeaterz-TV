@@ -1,19 +1,9 @@
 #EXTM3U
 #EXTM3U url-tvg="https://github.com/zultan-m/astro-epg/raw/main/astro.xml,https://github.com/AqFad2811/epg/raw/main/sooka.xml,https://github.com/AqFad2811/epg/raw/main/unifitv.xml,https://walpak1.github.io/epg/mana2.xml,https://walpak1.github.io/epg/starhub.xml,https://walpak1.github.io/epg/mewatch.xml,https://www.open-epg.com/files/indonesia.xml.gz,https://epg.pw/xmltv/epg.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://epg.946985.filegear-sg.me/t.xml.gz" refresh="8340" vod_library="https://github.com/ediey7523017/IPTV/raw/main/NewVOD,https://github.com/ediey7523017/IPTV/raw/main/HBOMAX,https://github.com/ediey7523017/IPTV/raw/main/AstroVOD,https://github.com/ediey7523017/IPTV/raw/main/CollectionVOD,https://github.com/ediey7523017/IPTV/raw/main/AseanVOD,https://github.com/ediey7523017/IPTV/raw/main/EnglishVOD,https://github.com/ediey7523017/IPTV/raw/main/IndianVOD,https://github.com/ediey7523017/IPTV/raw/main/KidsVOD" billed-msg="Dropbeaterz IPTV (under construction)"
 
-#######################################GROUP LOGO######################################################
+#######################################################################################################################################################################
 
 #EXTINF:-1 group-title="Info" group-logo="https://static.vecteezy.com/system/resources/thumbnails/026/161/911/small_2x/information-icon-illustration-in-flat-style-isolated-on-blue-background-with-long-shadow-speech-symbol-for-web-site-design-logo-app-ui-vector.jpg"
-
-#EXTINF:-1 group-title="Malaysia" group-logo="https://ychef.files.bbci.co.uk/1920x1080/p0g712th.png"
-
-#EXTINF:-1 group-title="Indonesia" group-logo="https://images.theconversation.com/files/688631/original/file-20250902-76-tgm8l3.jpg"
-
-#EXTINF:-1 group-title="Test Centre" group-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif"
-
-#EXTINF:-1 group-title="World" group-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Rotating_earth_animated.gif"
-
-################################################################
 
 #EXTINF:-1 group-title="Info" tvg-logo="https://thumbs.dreamstime.com/b/update-logo-template-software-upgrade-icon-vector-logotype-gear-arrow-technology-concept-cogwheel-up-symbol-ui-web-258277291.jpg",UPDATED 26 MAY 2026, 18:07PM
 https://fine.sunproxy.net/file/U3BsTUtta0pkbE5SRXNvb09pdjVNOUpXYXUxazlXbDlYYXBpR0haQmZUQUZPTHE4RWQ2UmJuR0p3Q296N1BTTzBIMEhpSUNqeTl5T09DT2ZzVEdTYms0VHFIK1BDR1lndWFaUnB4VnJSbXc9/Felicia_Sweden_2026_-_My_System_(SkySound.cc).mp3
@@ -22,6 +12,8 @@ https://fine.sunproxy.net/file/U3BsTUtta0pkbE5SRXNvb09pdjVNOUpXYXUxazlXbDlYYXBpR
 https://fine.sunproxy.net/file/U3BsTUtta0pkbE5SRXNvb09pdjVNOUpXYXUxazlXbDlYYXBpR0haQmZUQUZPTHE4RWQ2UmJuR0p3Q296N1BTTzBIMEhpSUNqeTl5T09DT2ZzVEdTYms0VHFIK1BDR1lndWFaUnB4VnJSbXc9/Felicia_Sweden_2026_-_My_System_(SkySound.cc).mp3
 
 ################################################################################################
+
+#EXTINF:-1 group-title="Malaysia" group-logo="https://ychef.files.bbci.co.uk/1920x1080/p0g712th.png"
 
 #EXTINF:-1 tvg-id="101.astro" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1 (50FPS/END 1ST JULY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -71,6 +63,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
 
 ##############################################################################################################
+
+#EXTINF:-1 group-title="Singapore" group-logo="https://images.goway.com/production/featured_images/Aerial%20view%20of%20Singapore%20skyline%20at%20night%20near%20Marina%20Bay%2C%20Singapore_shutterstock_1116483092.jpg"
 
 #EXTINF:-1  group-title="Singapore" tvg-id="Ch 5" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhmQ2IxttWA0gdpoTDufWxA5Gbsl2U3liSDI7MyrMswUfNSNUa53mH0g7eM5-KwFHhkPHa6UY34XiBmpoPzOBXJiV-hZPQwFA5JWSL-YZN_AentgXX_26ybc2FU0m8zPbk-kkAOCR24-avbDuojjXaOGjQ1LcwVkKcnAnREwKM1-TwHpf1DN_0r-wVjxFJS",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -190,6 +184,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=6f06f3b3cf7cbad0cc8b21e2c94dfb10:525510cfa634bd630af8c95fa93576ca
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_primary.mpd
+
+######################################################################################################################
+
+#EXTINF:-1 group-title="World" group-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Rotating_earth_animated.gif"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -311,6 +309,8 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 
 ####################################################################################################################################
 
+#EXTINF:-1 group-title="Indonesia" group-logo="https://images.theconversation.com/files/688631/original/file-20250902-76-tgm8l3.jpg"
+
 #EXTINF:-1 tvg-id="ANTV.id" group-title="Indonesia" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/a32fd488-4e64-434b-b94b-e016e3087d91-profile_image-300x300.png",ANTV (DTT FEED)
 https://wahyu1ptv.pages.dev/AnTV-HD.m3u8
 
@@ -345,6 +345,8 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_900000=10002
 https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 
 #######################################################Sports#######################################################
+
+#EXTINF:-1 group-title="Sports" https://img.magnific.com/free-vector/soccer-volleyball-baseball-rugby-equipment_1441-4026.jpg
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -628,6 +630,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5117/default_primary.mpd
 
 
 #######################################################TEST#######################################################
+
+#EXTINF:-1 group-title="Test Centre" group-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif"
 
 #EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 1
 https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
