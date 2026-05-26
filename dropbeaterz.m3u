@@ -1,14 +1,21 @@
 #EXTM3U
 #EXTM3U url-tvg="https://github.com/zultan-m/astro-epg/raw/main/astro.xml,https://github.com/AqFad2811/epg/raw/main/sooka.xml,https://github.com/AqFad2811/epg/raw/main/unifitv.xml,https://walpak1.github.io/epg/mana2.xml,https://walpak1.github.io/epg/starhub.xml,https://walpak1.github.io/epg/mewatch.xml,https://www.open-epg.com/files/indonesia.xml.gz,https://epg.pw/xmltv/epg.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://epg.946985.filegear-sg.me/t.xml.gz" refresh="8340" vod_library="https://github.com/ediey7523017/IPTV/raw/main/NewVOD,https://github.com/ediey7523017/IPTV/raw/main/HBOMAX,https://github.com/ediey7523017/IPTV/raw/main/AstroVOD,https://github.com/ediey7523017/IPTV/raw/main/CollectionVOD,https://github.com/ediey7523017/IPTV/raw/main/AseanVOD,https://github.com/ediey7523017/IPTV/raw/main/EnglishVOD,https://github.com/ediey7523017/IPTV/raw/main/IndianVOD,https://github.com/ediey7523017/IPTV/raw/main/KidsVOD" billed-msg="Dropbeaterz IPTV (under construction)"
 
-#EXTINF:-1 group-title="Info" group-logo="https://cdn-icons-png.flaticon.com/512/1/1176.png"
-#EXTINF:-1 group-title="Malaysia" group-logo="https://cdn-icons-png.flaticon.com/512/1/1176.png"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GROUP LOGO~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+#EXTINF:-1 group-title="Info" group-logo="https://static.vecteezy.com/system/resources/thumbnails/026/161/911/small_2x/information-icon-illustration-in-flat-style-isolated-on-blue-background-with-long-shadow-speech-symbol-for-web-site-design-logo-app-ui-vector.jpg"
+#EXTINF:-1 group-title="Malaysia" group-logo="https://ychef.files.bbci.co.uk/1920x1080/p0g712th.png"
+#EXTINF:-1 group-title="Indonesia" group-logo="https://images.theconversation.com/files/688631/original/file-20250902-76-tgm8l3.jpg'
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 #EXTINF:-1 group-title="Info" tvg-logo="https://thumbs.dreamstime.com/b/update-logo-template-software-upgrade-icon-vector-logotype-gear-arrow-technology-concept-cogwheel-up-symbol-ui-web-258277291.jpg",UPDATED 24 MAY 2026, 21:45PM
 https://fine.sunproxy.net/file/U3BsTUtta0pkbE5SRXNvb09pdjVNOUpXYXUxazlXbDlYYXBpR0haQmZUQUZPTHE4RWQ2UmJuR0p3Q296N1BTTzBIMEhpSUNqeTl5T09DT2ZzVEdTYms0VHFIK1BDR1lndWFaUnB4VnJSbXc9/Felicia_Sweden_2026_-_My_System_(SkySound.cc).mp3
 
 #EXTINF:-1 group-title="Info" tvg-logo="https://png.pngtree.com/png-clipart/20250102/original/pngtree-contact-us-button-with-call-icon-vector-png-image_9803507.png",Contact me in Telegram: https://t.me/+5zUEaddRGo40NDc1
 https://fine.sunproxy.net/file/U3BsTUtta0pkbE5SRXNvb09pdjVNOUpXYXUxazlXbDlYYXBpR0haQmZUQUZPTHE4RWQ2UmJuR0p3Q296N1BTTzBIMEhpSUNqeTl5T09DT2ZzVEdTYms0VHFIK1BDR1lndWFaUnB4VnJSbXc9/Felicia_Sweden_2026_-_My_System_(SkySound.cc).mp3
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`````
 
 #EXTINF:-1 tvg-id="TV1.mana2" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1 (50FPS/END 1ST JULY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
