@@ -346,7 +346,7 @@ https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 
 #######################################################Sports#######################################################
 
-#EXTINF:-1 group-title="Sports" https://img.magnific.com/free-vector/soccer-volleyball-baseball-rugby-equipment_1441-4026.jpg
+#EXTINF:-1 group-title="Sports" group-logo="https://img.magnific.com/free-vector/soccer-volleyball-baseball-rugby-equipment_1441-4026.jpg"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
