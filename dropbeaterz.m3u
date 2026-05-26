@@ -707,19 +707,19 @@ https://28093.live.streamtheworld.com/MINNAL_FMAAC.aac
 #EXTINF:-1 tvg-id="ASYIKFM.mana2" group-title="Radio" radio="true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/310_144.png",Radio Asyik
 https://22273.live.streamtheworld.com/ASYIK_FMAAC.aac
 
-#EXTINF:-1 tvg-id="BESTFM.mana2" group-title="Radio" radio="true" radio="true" tvg-logo="https://pictr.com/images/2023/02/26/E1smsv.png",Best FM
+#EXTINF:-1 tvg-id="BESTFM.mana2" group-title="Radio" radio="true" tvg-logo="https://pictr.com/images/2023/02/26/E1smsv.png",Best FM
 https://stream.rcs.revma.com/h34x4kgg9hhvv
 
-#EXTINF:-1 tvg-id="MANISFM.mana2" group-title="Radio" radio="true" radio="true" tvg-logo="https://pictr.com/images/2023/02/26/E1sUo5.md.png",Manis FM
+#EXTINF:-1 tvg-id="MANISFM.mana2" group-title="Radio" radio="true" tvg-logo="https://pictr.com/images/2023/02/26/E1sUo5.md.png",Manis FM
 https://stream.rcs.revma.com/nzgauqq1v7zuv
 
 #EXTINF:-1 tvg-id="IKIMfm.mana2" group-title="Radio" radio="true" tvg-logo="https://telegra.ph/file/3bd2712a70950607fa779.png",IKIM FM
 https://ais-sa8.cdnstream1.com/5035/playlist.m3u8
 
-#EXTINF:-1 tvg-id="988FM.mana2" group-title="Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/988_Logo_-_Transparent.png",988 FM
+#EXTINF:-1 tvg-id="988FM.mana2" group-title="Radio" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/988_Logo_-_Transparent.png",988 FM
 http://28093.live.streamtheworld.com/988_FM_SC
 
-#EXTINF:-1 tvg-id="RAKITAFM.mana2" group-title="Radio" tvg-logo="https://i.ibb.co/Gk429L1/logo-t.png",RAKITA FM
+#EXTINF:-1 tvg-id="RAKITAFM.mana2" group-title="Radio" radio="true" tvg-logo="https://i.ibb.co/Gk429L1/logo-t.png",RAKITA FM
 https://23683.live.streamtheworld.com/RAKITAAAC.aac
 
 #EXTINF:-1 tvg-id="WAIFM.mana2" group-title="Radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-wai.c98b98ac.jpg",Wai FM
