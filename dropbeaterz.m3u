@@ -5,7 +5,7 @@
 
 #EXTINF:-1 group-title="Info" group-logo="https://static.vecteezy.com/system/resources/thumbnails/026/161/911/small_2x/information-icon-illustration-in-flat-style-isolated-on-blue-background-with-long-shadow-speech-symbol-for-web-site-design-logo-app-ui-vector.jpg"
 
-#EXTINF:-1 group-title="Info" tvg-logo="https://thumbs.dreamstime.com/b/update-logo-template-software-upgrade-icon-vector-logotype-gear-arrow-technology-concept-cogwheel-up-symbol-ui-web-258277291.jpg",UPDATED 28 MAY 2026 | 21:10MYT | 13:10UTC
+#EXTINF:-1 group-title="Info" tvg-logo="https://thumbs.dreamstime.com/b/update-logo-template-software-upgrade-icon-vector-logotype-gear-arrow-technology-concept-cogwheel-up-symbol-ui-web-258277291.jpg",UPDATED 28 MAY 2026 | 21:40MYT | 13:40UTC
 https://fine.sunproxy.net/file/U3BsTUtta0pkbE5SRXNvb09pdjVNOUpXYXUxazlXbDlYYXBpR0haQmZUQUZPTHE4RWQ2UmJuR0p3Q296N1BTTzBIMEhpSUNqeTl5T09DT2ZzVEdTYms0VHFIK1BDR1lndWFaUnB4VnJSbXc9/Felicia_Sweden_2026_-_My_System_(SkySound.cc).mp3
 
 #EXTINF:-1 group-title="Info" tvg-logo="https://cdn.pixabay.com/photo/2021/12/27/10/50/telegram-6896827_1280.png",Contact me in Telegram: https://t.me/+5zUEaddRGo40NDc1
@@ -15,7 +15,7 @@ https://fine.sunproxy.net/file/U3BsTUtta0pkbE5SRXNvb09pdjVNOUpXYXUxazlXbDlYYXBpR
 
 #EXTINF:-1 group-title="Malaysia" group-logo="https://ychef.files.bbci.co.uk/1920x1080/p0g712th.png"
 
-#EXTINF:-1 tvg-id="101.astro" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1 (50FPS/END 1ST JULY)
+#EXTINF:-1 tvg-id="101.astro" group-title="Malaysia" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv1_Trans.png",TV1 (50FPS/END 1ST JULY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=912760c409eb5aff3e060422c502f410:bea2d0f89fb3fbafa1fc9f34ba8734a6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
@@ -26,7 +26,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 #EXTINF:-1 tvg-id="TV1.mana2" group-title="Malaysia" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv1_Trans.png",TV1 (MYTV MM2)
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
-#EXTINF:-1 tvg-id="TV2.mana2" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png",TV2 (50FPS/END 1ST JULY)
+#EXTINF:-1 tvg-id="TV1.rtm" group-title="Malaysia" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv1_Trans.png",TV1 (RTMKLIK)
+#EXTVLCOPT:http-origin=https://rtmklik.rtm.gov.my
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+https://d25tgymtnqzu8s.cloudfront.net/main/A0jyR3/dl_1080p.m3u8
+
+#EXTINF:-1 tvg-id="TV2.mana2" group-title="Malaysia" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv2_Trans.png",TV2 (50FPS/END 1ST JULY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f885481fe053e544096532c1dcb9710:24a9b17859862887f28f63c7c29bcaa5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
@@ -36,6 +41,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="TV2.mana2" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv2_Trans.png" group-title="Malaysia",TV2 (MYTV MM2)
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+
+#EXTINF:-1 tvg-id="TV2.rtm" group-title="Malaysia" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv2_Trans.png",TV2 (RTMKLIK)
+#EXTVLCOPT:http-origin=https://rtmklik.rtm.gov.my
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=2
 
 #EXTINF:-1 tvg-id="103.astro" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png",TV3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -51,10 +61,10 @@ https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&ch
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="TV6.mana2" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv6_Trans.png" group-title="Malaysia",TV6
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+#EXTVLCOPT:http-origin=https://rtmklik.rtm.gov.my
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
 
 #EXTINF:-1 tvg-id="122.astro" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TVS.png",TVS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -102,16 +112,21 @@ https://ucdn.starhubgo.com/bpk-tv/HubSensasiHD/output/manifest.mpd|X-Forwarded-F
 https://ucdn.starhubgo.com/bpk-tv/Karisma/output/manifest.mpd|X-Forwarded-For=119.56.77.101
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-#EXTINF:-1 tvg-id="Okey.rtm" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/467_144.png", TV Okey (50FPS/END 1ST JULY)
+#EXTINF:-1 tvg-id="146.astro" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/467_144.png", TV Okey (50FPS/END 1ST JULY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60f202b16407fedd8e369c32af57dd10:c8475231c09dc1b639886976b6fc7575
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_primary.mpd
 
-#EXTINF:-1 tvg-id="Okey.rtm" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/467_144.png", TV Okey (MYTV MM2)
+#EXTINF:-1 tvg-id="TVOKEY.mana2" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/467_144.png", TV Okey (MYTV MM2)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+
+#EXTINF:-1 tvg-id="Okey.rtm" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/467_144.png",TV Okey (RTMKLIK)
+#EXTVLCOPT:http-origin=https://rtmklik.rtm.gov.my
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/media-uci9fj1qh_b2596000_slENG_117878.ts?id=3
 
 #EXTINF:-1 tvg-id="DidikTVKPM" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/4504543C-34AB-456E-940F-72431972DC9C/0-16x9.png?width=530" group-title="Malaysia",DidikTV KPM
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -169,8 +184,9 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8
 https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
 
 #EXTINF:-1 tvg-id="Berita RTM.rtm" group-title="Malaysia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Berita_Perdana_April_2026.png",Berita RTM/RTM World
-#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
-https://d25tgymtnqzu8s.cloudfront.net/main/VPxRb6/dl_1080p.m3u8
+#EXTVLCOPT:http-origin=https://rtmklik.rtm.gov.my
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+https://d25tgymtnqzu8s.cloudfront.net/main/VPxRb6/1080p_origin01_20260527227470.ts
 
 #EXTINF:-1 tvg-id="BERNAMA.mana2" group-title="Malaysia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTLtU9fOdsBfWlL5SlUPANlYlQE0kTTvQxDQ&s",Bernama TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -190,7 +206,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="BERITARTM.mana2" group-title="World" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/RTM_World_%282026%29.png/revision/latest/scale-to-width-down/1000?cb=20260331093002",RTM World (International Feed)
+#EXTINF:-1 tvg-id="Preview Channel.rtm" group-title="World" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/RTM_World_%282026%29.png/revision/latest/scale-to-width-down/1000?cb=20260331093002",RTM World (International Feed)
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/manifest.mpd
 
 #EXTINF:-1 tvg-id="PressTV.ir" group-title="World" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKd2x8VhCsahJaQQKF7vAShkbPvSZuxmvycw&s",Press TV
@@ -359,7 +375,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/108/2c9f9082998232e0019b35e
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
 https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 
-#EXTINF:-1 tvg-id="CNBCINDONESIA.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/CNBC_Indonesia_2025.svg/960px-CNBC_Indonesia_2025.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Indonesia",CNBC Indonesia
+#EXTINF:-1 tvg-id="CNBC.Indonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/CNBC_Indonesia_2025.svg/960px-CNBC_Indonesia_2025.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Indonesia",CNBC Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
@@ -372,8 +388,7 @@ https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w577694934_b744100_sleng.m3u8
 
 #EXTINF:-1 group-title="Indonesia" tvg-id="SCTV.id" tvg-logo="https://images.seeklogo.com/logo-png/33/1/sctv-logo-png_seeklogo-338230.png",SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://203.77.246.58:4500/udp/239.1.1.108:5000
+http://103.107.198.46:8080/live/vip_3klp0es8/wg3piwEs/2699.ts
 
 #EXTINF:-1 tvg-id="Kompas.TV.id" tvg-logo="https://images.seeklogo.com/logo-png/45/2/kompas-tv-logo-png_seeklogo-456291.png" group-title="Indonesia",Kompas TV
 https://smart.dxjc.pp.ua/smart.php?id=Kompass&token=tmxk
@@ -971,7 +986,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5117/default_primary.mpd
 
 #EXTINF:-1 group-title="Test Centre" group-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif"
 
-#EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 1
+#EXTINF:-1 tvg-id="Preview Channel.rtm" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 1
 https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 2
