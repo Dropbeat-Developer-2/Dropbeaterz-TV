@@ -458,6 +458,30 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5186/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
 
+#EXTINF:-1 tvg-id="degup" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/07A79742-0FA2-4DD8-8F98-929157AE96DF/0-16x9.png?width=530" group-title="Movies",Unifi Degup
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.6972359084 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=a1623b766e4b48eb88cea29e1c309cc7:c21b36991b29928a80dc0a146beeac90
+https://get.perfecttv.net/myunifi.mpd?channel=DEGUP&kid=a1623b76-6e4b-48eb-88ce-a29e1c309cc7
+
+#EXTINF:-1 tvg-id="siar" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F101B330-8D9C-4670-9DE3-2C53E8866EA0/0-16x9.png?width=530" group-title="Movies",Unifi Siar
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.6972359084 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=5489f58c64ad40dba471c8b1c2693e2a:24acd49fa8aa6a5532dd045bab1f53e4
+https://get.perfecttv.net/myunifi.mpd?channel=SIAR&kid=5489f58c-64ad-40db-a471-c8b1c2693e2a
+
+#EXTINF:-1 tvg-id="duniasinemahd" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/66BD76C5-BEFD-476A-9688-87AFCE8E8526/0-16x9.png?width=530" group-title="Movies",Unifi Dunia Sinema
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.6972359084 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=01a17625701e4734b02aa22c8657bd6f:975a483df422455dbc29a1d83ed6f154
+https://get.perfecttv.net/myunifi.mpd?channel=DuniaSin&kid=01a17625-701e-4734-b02a-a22c8657bd6f
+
 #EXTINF:-1 tvg-id="414.astro" group-title="Movies" tvg-logo="https://linear-poster.astro.com.my/prod/logo/RockAction.png",ROCK Action
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=54f2fbfaf5295c8344809d24dca91b10:a2816e5a7725d6adf9fbf2c04ccba0fb
@@ -472,18 +496,27 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5143/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5144/default_primary.mpd
 
-#EXTINF:-1 tvg-id="416.astro" group-title="Movies" tvg-logo="https://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png",tvN Movies 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8e269c8aa32ad77eb83068312343d610:d12ccebafbba2a535d88a3087f884252
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
-
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="ROCKEntertainmentHD.sg" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae5b/67ad5259c6e804a40b4baf29_ENT_LOGO_GOLD_NoShadow.webp" group-title="Movies",ROCK Entertainment
 #KODIPROP:inputstream.adaptive.license_key=5468e719846d4dd4adc59e85312375e8:98566155c257462809a8705f5efd7819
 https://atemecdnbalancer-voe.sysln.id/live/eds/RockEntertainmentHD/mediampd/RockEntertainmentHD.mpd
+
+#EXTINF:-1 tvg-id="416.astro" group-title="Movies" tvg-logo="https://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png",tvN Movies 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e269c8aa32ad77eb83068312343d610:d12ccebafbba2a535d88a3087f884252
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=32
+#EXTINF:-1 tvg-id="Sony.Pix.HD.in" group-title="Movies" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_SonyPix.png",Sony Pix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
+
+#EXTINF:-1 tvg-id="FreeMovies" group-title="Movies" tvg-logo="https://aqfadtv.xyz/logos/FreeMovies.png",Sooka Free Movies
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-freemovies-dash-sooka-sooka/index.mpd
 
 #EXTINF:-1 tvg-id="hbohd" group-title="Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png",HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -675,8 +708,11 @@ https://sghost.mobileads.uno/uni5/uni5.mpd?id=CelestialC&provider=mytech
 #EXTINF:-1 tvg-id="wedotvMovies" group-title="Movies" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/647577WD_Movies.png",WeDoTV Movies
 https://amg00735-amg00735c46-astrosooka-singapore-7044.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedomoviesasia-astrosookasingapore/playlist.m3u8
 
-#EXTINF:-1 tvg-id="wedotvAmor" group-title="Movies" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/e09eceWD_Amor.png",WeDoTV Amor
+#EXTINF:-1 tvg-id="ES:.wedotv.Amor.be" group-title="Movies" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/e09eceWD_Amor.png",WeDoTV Amor
 https://amg00735-amg00735c15-astrosooka-singapore-6039.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedoamor-astrosookasingapore/playlist.m3u8
+
+#EXTINF:-1 tvg-id="InfamousTV" group-title="Movies" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/718984734b9a40688ab3fde72f27e7ee/version/0",InfamousTV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01324-infamousmedia-infamoustv-dash-sooka/index.mpd
 
 #EXTINF:-1 tvg-id="116.astro" group-title="Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ColorsHindi2025.png",Colors Hindi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -694,6 +730,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="TheIndonesiaChannel.mana2" tvg-logo="https://www.theindonesiachannel.world/logotic.png" group-title="Movies",The Indonesia Channel (TIC)
 https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221_output_0.m3u8?session=nbyNcn6zyXaUxFnXPYkdhw
+
+###########################################################################################################################
+
+#EXTINF:-1 group-title="Sports" group-logo="https://img.magnific.com/free-vector/soccer-volleyball-baseball-rugby-equipment_1441-4026.jpg"
 
 #EXTINF:-1 tvg-id="Sports - Fubo Sports Network" tvg-logo="https://i.ibb.co/0j0hFKfq/Fubo-Sports.webp" group-title="Sports", FUBO Sports 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0 
@@ -795,10 +835,6 @@ https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
-
-#######################################################Sports#######################################################
-
-#EXTINF:-1 group-title="Sports" group-logo="https://img.magnific.com/free-vector/soccer-volleyball-baseball-rugby-equipment_1441-4026.jpg"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1097,8 +1133,7 @@ https://pal6.short.gy/skyspt1nz
 http://uutvs.cc/46b9gmvm/4756
 
 #EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 5
-#EXTVLCOPT:http-referrer=https://r3---sn-npoe7nz7.googlevideo.com/videoplayback?expire=1779997812&ei=FEgYaqeLMrKiw-APg9HpmQw&ip=2a00%3A20%3A637e%3A9b48%3A3cf8%3Ae4ff%3Afeb4%3Abc6b&id=o-AO0qOd_TJcc6KeORvDoqHW3G1Cs27qD8QOBh0kQuXVzq&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&rms=au%2Cau&bui=AbKmrwo1YNrRFSUuQ4lQYdphKFue8qwjCEaTTZ6pH9SfSeufcGMFdNiXnfmlTlIGnTqN--FJ-3eeDs3N&spc=96Xrv1y85cze9-QpVKuxdwbYF2lASvoKwrC-46AIk29FJiT7g6eC&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=14184235&ratebypass=yes&dur=257.486&lmt=1777450504699152&fexp=51565115,51565681&c=ANDROID_VR&txp=5319224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AHEqNM4wRgIhANMVNskwzia14XhVnwmuoFama1hjP3_QWaTGP5YHtjCLAiEAo8uvIcJUSb_ePWv9tipfVoW1-z-8HGQMxrXwtNvw2j8%3D&pot=Ms4EwqZEsfPkeMrCmKZvwWMmUjFb6eHiYOJq6PL-RQBcdWhFvKavXOpW2dMyqQSslDLJ5hzw6o_oMQtFZ0yKvHD33L8PPJhpZ77IgqxxvNj9bjNm5niv1aJTF57c_VSmEmU6KwQFx3oKuU33z3oA_tMY70kMM2sW3V35bqS11Q3T49yYAP6i6azuvznQ7_aPpRDDq_ouGiyhqITbcuuQmlq-_z1xwkU-6x-pG-1YYikn_GE-hQneWywBEKagruQcFeLNflAnY3Z0KWqgGFuZiFAfl1_rXwdJjBRtoh5SJs_Ylmi1qZKaxNtjQ2tdGHYJ8Wc71gpcT7OZQyNuNFFTFf1gVNfSQlErrxZQfjaGjwjaWuiJkzPrn7RtE74RI-TUWgD5KChEv8d1v3DPZ0Dsw-SQGlypjn2ywh2z1ExXTZudtWkIgQapP7FdFwX3TnXtm8VtDiiUc2jGtSAa_zVLESn2hf50RD1LZrlGYywzLnRid7_CwwByIxn6IRR7f4WFjyZfnpXZLNAbcy0k8D8ttywuL8amSE0od1G1E7IiUAXux0eECKQTNhWuTT-k0N_2MkjzH-DHBaT1V4ID_KZkB3ZYqv_ryVdjRjI4N4nbRF0F5aclDbFMxqtX3TpPw_x7HHC3GA1emXSk2Z-aBvrpqaHXbgIKmyrxj734rM4ZBjpPaHC2-Q5gy5P203c3cY_NCH67LUvPDABkQ6r-wHN47vb6kZO9F3quulMOjfjzDUwH9PvsIq0Ninzob9pCqpBrZZZcu_fxxKpj49U5YLWG9TU=&cps=235&cm2rm=sn-uh-3jie7e,sn-30asl7l&rrc=191,191&req_id=bebaecdeaa88a3ee&redirect_counter=2&cms_redirect=yes&cmsv=e&met=1779976237,&mh=HC&mip=175.143.58.234&mm=34&mn=sn-npoe7nz7&ms=ltu&mt=1779975655&mv=m&mvi=3&pl=21&lsparams=cps,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms&lsig=APaTxxMwRAIgFi5WhD1f_nHhLDZ6NP8Pw7nQZcFqxCJ4-TmWA0mElMUCIADrGvpiVn4pGERdrCtO6BCYiZJxTCox0I8dc4IrXoPX
-https://r3---sn-npoe7nz7.googlevideo.com/videoplayback?expire=1779997812&ei=FEgYaqeLMrKiw-APg9HpmQw&ip=2a00%3A20%3A637e%3A9b48%3A3cf8%3Ae4ff%3Afeb4%3Abc6b&id=o-AO0qOd_TJcc6KeORvDoqHW3G1Cs27qD8QOBh0kQuXVzq&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&rms=au%2Cau&bui=AbKmrwo1YNrRFSUuQ4lQYdphKFue8qwjCEaTTZ6pH9SfSeufcGMFdNiXnfmlTlIGnTqN--FJ-3eeDs3N&spc=96Xrv1y85cze9-QpVKuxdwbYF2lASvoKwrC-46AIk29FJiT7g6eC&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=14184235&ratebypass=yes&dur=257.486&lmt=1777450504699152&fexp=51565115,51565681&c=ANDROID_VR&txp=5319224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AHEqNM4wRgIhANMVNskwzia14XhVnwmuoFama1hjP3_QWaTGP5YHtjCLAiEAo8uvIcJUSb_ePWv9tipfVoW1-z-8HGQMxrXwtNvw2j8%3D&pot=Ms4EwqZEsfPkeMrCmKZvwWMmUjFb6eHiYOJq6PL-RQBcdWhFvKavXOpW2dMyqQSslDLJ5hzw6o_oMQtFZ0yKvHD33L8PPJhpZ77IgqxxvNj9bjNm5niv1aJTF57c_VSmEmU6KwQFx3oKuU33z3oA_tMY70kMM2sW3V35bqS11Q3T49yYAP6i6azuvznQ7_aPpRDDq_ouGiyhqITbcuuQmlq-_z1xwkU-6x-pG-1YYikn_GE-hQneWywBEKagruQcFeLNflAnY3Z0KWqgGFuZiFAfl1_rXwdJjBRtoh5SJs_Ylmi1qZKaxNtjQ2tdGHYJ8Wc71gpcT7OZQyNuNFFTFf1gVNfSQlErrxZQfjaGjwjaWuiJkzPrn7RtE74RI-TUWgD5KChEv8d1v3DPZ0Dsw-SQGlypjn2ywh2z1ExXTZudtWkIgQapP7FdFwX3TnXtm8VtDiiUc2jGtSAa_zVLESn2hf50RD1LZrlGYywzLnRid7_CwwByIxn6IRR7f4WFjyZfnpXZLNAbcy0k8D8ttywuL8amSE0od1G1E7IiUAXux0eECKQTNhWuTT-k0N_2MkjzH-DHBaT1V4ID_KZkB3ZYqv_ryVdjRjI4N4nbRF0F5aclDbFMxqtX3TpPw_x7HHC3GA1emXSk2Z-aBvrpqaHXbgIKmyrxj734rM4ZBjpPaHC2-Q5gy5P203c3cY_NCH67LUvPDABkQ6r-wHN47vb6kZO9F3quulMOjfjzDUwH9PvsIq0Ninzob9pCqpBrZZZcu_fxxKpj49U5YLWG9TU=&cps=235&cm2rm=sn-uh-3jie7e,sn-30asl7l&rrc=191,191&req_id=bebaecdeaa88a3ee&redirect_counter=2&cms_redirect=yes&cmsv=e&met=1779976237,&mh=HC&mip=175.143.58.234&mm=34&mn=sn-npoe7nz7&ms=ltu&mt=1779975655&mv=m&mvi=3&pl=21&lsparams=cps,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms&lsig=APaTxxMwRAIgFi5WhD1f_nHhLDZ6NP8Pw7nQZcFqxCJ4-TmWA0mElMUCIADrGvpiVn4pGERdrCtO6BCYiZJxTCox0I8dc4IrXoPX
+https://smart.dxjc.pp.ua/smart.php?id=Antv&token=tmxk
 
 #EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 6
 https://fine.sunproxy.net/file/U3BsTUtta0pkbE5SRXNvb09pdjVNOUpXYXUxazlXbDlYYXBpR0haQmZUQUZPTHE4RWQ2UmJuR0p3Q296N1BTTzBIMEhpSUNqeTl5T09DT2ZzVEdTYms0VHFIK1BDR1lndWFaUnB4VnJSbXc9/Felicia_Sweden_2026_-_My_System_(SkySound.cc).mp3
