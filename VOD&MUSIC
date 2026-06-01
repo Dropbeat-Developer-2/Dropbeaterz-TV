@@ -2,15 +2,50 @@
 
 [MUSIC]
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Felicia_-_My_System_cover.png" group-title="Music", My System by Felicia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Felicia_-_My_System_cover.png" group-title="Music",My System by Felicia
 https://fine.sunproxy.net/file/U3BsTUtta0pkbE5SRXNvb09pdjVNOUpXYXUxazlXbDlYYXBpR0haQmZUQUZPTHE4RWQ2UmJuR0p3Q296N1BTTzBIMEhpSUNqeTl5T09DT2ZzVEdTYms0VHFIK1BDR1lndWFaUnB4VnJSbXc9/Felicia_Sweden_2026_-_My_System_(SkySound.cc).mp3
 
 [MOVIES]
 
-#EXTINF:-1 tvg-logo="https://pbcdnw.aoneroom.com/image/2026/01/26/9863e4ffd7469c4a2c89ff987cb86b18.jpg" group-title="Movies", We Bare Bears: The Movie
+#EXTINF:-1 tvg-logo="https://pbcdnw.aoneroom.com/image/2026/01/26/9863e4ffd7469c4a2c89ff987cb86b18.jpg" group-title="Movies",We Bare Bears: The Movie
 https://h5-api.aoneroom.com/playstream.m3u8?q=eyJ1cmwiOiJodHRwczovL3NhY2RuLmhha3VuYXltYXRhdGEuY29tL2hscy8yOTY1Njk2NTQzMDQ4NzQ2MDI0LTAtMC00ODAtOTY5L2xvY2FsLm0zdTg%2FUG9saWN5PWV5SlRkR0YwWlcxbGJuUWlPbHQ3SWxKbGMyOTFjbU5sSWpvaWFIUjBjSE02THk5ellXTmtiaTVvWVd0MWJtRjViV0YwWVhSaExtTnZiUzlvYkhNdk1qazJOVFk1TmpVME16QTBPRGMwTmpBeU5DMHdMVEF0TkRnd0xUazJPUzhxSWl3aVEyOXVaR2wwYVc5dUlqcDdJa1JoZEdWTVpYTnpWR2hoYmlJNmV5SkJWMU02UlhCdlkyaFVhVzFsSWpveE56Z3dOVFUyTWpZeWZYMTlYWDBfXHUwMDI2U2lnbmF0dXJlPWUxT3JwY1Y4S2JXTy03dGZWbkEybDExQktyWDBxTk5yODlabzRqNVlNfkpmc1JIYTZXcEVnWG5ZU3ZhWldza1FFVEVpckozTmRKZlZROXdrdFFDTjN%2Bc0p4cDVIZURuZGpVSkJOTVdkd0FWcTNxOE1KS2dIQ3E4OG5XRFN6a1lPWk9raFpIUjZ0b2w1c0l4NVBIfnpHeEdCQ0gyeW9la3VoRUFmaGZoNWxZQVlmY1lEcGdEN1FBcHhBMXJzWVhmY3pWdWtqcngtVTVWYjNIUmUxUmpYM3ExODZvYzdqUjZvTUlJSTUzQ09JMnc1Sk5vbkJGNFo2Z0tyaEVDZnhlVFRKaHgtVEIyUFhyLXVNS0lhREJIaExLTEY4dmVTNHl4SGE0QXRsMTY5eTVRTjRNU0E5ZUdtRVB%2BVGhxZGMxYm5kRHJwb0k3WkZSWWRTVVV5dDBOcGhNd19fXHUwMDI2S2V5LVBhaXItSWQ9S01ITjFMUTFIRVVQTCIsImZvcm1hdCI6IkhMUyIsImN0IjoxNzc5OTU0MjE3fQ%3D%3D
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=c2cc9e0e98b1a8d4b8779e3defc51a10:0a2ada1d3a692f5f2d679f04baf48e26
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_FHTZY_IVP_LAND_171x96_3CC3D_2024313_17712.jpg" group-title="Movies",Sikit Punya Gila
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/e2de0b81-f9e0-5397-b5d9-7d3cfc9bbed3/default_dash.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=6c596ae9db293dd5b33b07caf6a7ce10:db054c4271830fa7edcc4a248048fe2e
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_FVSBI_IVP_LAND_672x378_1FFDC_2024313_164628.jpg" group-title="Movies",Nasib Do Re Mi
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/a026dcac-d13e-5b98-a1cc-1592b07bed5a/default_dash.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=29d971e47542b2ef5589ff3d50ccb710:21644a9d9faeb420ff53874a6eaf7782
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GUCVR_IVP_LAND_672x378_1D43_2024313_154532.jpg" group-title="Movies",Ali Setan
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/d4083359-cfb0-5fab-8e85-42cfcd388742/default_dash.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=f86931a4fa7245209578c17794584910:943b54b6c636e65f3fb4d869e7159976
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_HRUPV_IVP_LAND_171x96_6F3BE_2024313_19626.jpg" group-title="Movies",Alien Janda Baik
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/7e440acb-09eb-58cb-88fe-cfadc409e0da/default_dash.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=c867b05db0da6743d6e7d67440175e10:ad303a2bbec2639964fd60422f900960
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JBBHV_IVP_LAND_171x96_39692_2024313_17352.jpg" group-title="Movies",Hantu Ustazah Supiah
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/62f06746-b85b-537f-b5a6-c4cfbe0462b6/default_dash.mpd
 
 [VIDEOS]
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/v_3pq8J3O3mr3ob0PRkjDbwAUiuR4P1iPPR4Zh88hj1ePZAVkc-b6-PJBNEyGG3uRHTgVD7T=s72-c-k-c0x00ffffff-no-rj" group-title="Videos", eNews
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/v_3pq8J3O3mr3ob0PRkjDbwAUiuR4P1iPPR4Zh88hj1ePZAVkc-b6-PJBNEyGG3uRHTgVD7T=s72-c-k-c0x00ffffff-no-rj" group-title="Videos",eNews
 https://www.dropbox.com/scl/fi/jho7uw8qrwx492yfuo4bp/YTDown_YouTube_FIKTIF-Opening-Enews-Petang-28-4-2026_Media_eeQrmUHB9F8_001_1080p.mp4?rlkey=v1957mmr4tk9fgy4v8lbnqc5m&st=go9mi4o6&dl=1
