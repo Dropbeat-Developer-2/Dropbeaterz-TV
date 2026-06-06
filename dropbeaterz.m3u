@@ -5,11 +5,14 @@
 
 #EXTINF:-1 group-title="Info" group-logo="https://static.vecteezy.com/system/resources/thumbnails/026/161/911/small_2x/information-icon-illustration-in-flat-style-isolated-on-blue-background-with-long-shadow-speech-symbol-for-web-site-design-logo-app-ui-vector.jpg"
 
-#EXTINF:-1 group-title="Info" tvg-logo="https://thumbs.dreamstime.com/b/update-logo-template-software-upgrade-icon-vector-logotype-gear-arrow-technology-concept-cogwheel-up-symbol-ui-web-258277291.jpg",UPDATED 03 JUNE 2026/WEDNESDAY | 22:23MYT | 14:23UTC
-https://fine.sunproxy.net/file/U3BsTUtta0pkbE5SRXNvb09pdjVNOUpXYXUxazlXbDlYYXBpR0haQmZUQUZPTHE4RWQ2UmJuR0p3Q296N1BTTzBIMEhpSUNqeTl5T09DT2ZzVEdTYms0VHFIK1BDR1lndWFaUnB4VnJSbXc9/Felicia_Sweden_2026_-_My_System_(SkySound.cc).mp3
+#EXTINF:-1 group-title="Info" tvg-logo="https://thumbs.dreamstime.com/b/update-logo-template-software-upgrade-icon-vector-logotype-gear-arrow-technology-concept-cogwheel-up-symbol-ui-web-258277291.jpg",UPDATED 06 JUNE 2026/SATURDAY | 22:44MYT | 14:44UTC
+https://www.dropbox.com/scl/fi/qwsriqebtkj3lbhv53vc2/Felicia_Sweden_2026_-_My_System_-SkySound.cc.mp3?rlkey=gcvzpaiddik1q9jzp7a1fb0y3&st=1hreeon7&dl=1
 
 #EXTINF:-1 group-title="Info" tvg-logo="https://cdn.pixabay.com/photo/2021/12/27/10/50/telegram-6896827_1280.png",Contact me in Telegram: https://t.me/+5zUEaddRGo40NDc1
-https://fine.sunproxy.net/file/U3BsTUtta0pkbE5SRXNvb09pdjVNOUpXYXUxazlXbDlYYXBpR0haQmZUQUZPTHE4RWQ2UmJuR0p3Q296N1BTTzBIMEhpSUNqeTl5T09DT2ZzVEdTYms0VHFIK1BDR1lndWFaUnB4VnJSbXc9/Felicia_Sweden_2026_-_My_System_(SkySound.cc).mp3
+https://www.dropbox.com/scl/fi/qwsriqebtkj3lbhv53vc2/Felicia_Sweden_2026_-_My_System_-SkySound.cc.mp3?rlkey=gcvzpaiddik1q9jzp7a1fb0y3&st=1hreeon7&dl=1
+
+#EXTINF:-1 group-title="Info" tvg-logo="https://cdn-icons-png.flaticon.com/512/4785/4785997.png",Contact me in Telegram: I'll disactive for a while for focusing my IRL matters. Ciao!
+https://www.dropbox.com/scl/fi/qwsriqebtkj3lbhv53vc2/Felicia_Sweden_2026_-_My_System_-SkySound.cc.mp3?rlkey=gcvzpaiddik1q9jzp7a1fb0y3&st=1hreeon7&dl=1
 
 ################################################################################################
 
@@ -370,6 +373,10 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 
+#EXTINF:-1 tvg-id="MDTV.id" group-title="Indonesia" tvg-logo="https://mdtelevision.com/wp-content/uploads/2025/03/MDTV-Primary-Logo.png",MDTV (B)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://fadhillah.serv00.net/scripts/vidiohls.php/stream.m3u8?id=875
+
 #EXTINF:-1 tvg-id="ANTV.id" group-title="Indonesia" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/a32fd488-4e64-434b-b94b-e016e3087d91-profile_image-300x300.png",ANTV (A)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
@@ -550,16 +557,17 @@ https://ratu77.adptv.workers.dev/index.mpd?id=206&type=dash
 https://tvratu.my.id/vid/index.mpd?id=206&type=dash
 
 #EXTINF:-1 tvg-id="MOJI.id" tvg-logo="https://object-streamo.emonaja.com/img/moji.png" group-title="Indonesia",Moji (C)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-origin=https://www.vidio.com
-https://nextgenz.my.id/event/pidio/play.mpd?id=206&type=dash
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
+https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
 #EXTINF:-1 tvg-id="MOJI.id" tvg-logo="https://object-streamo.emonaja.com/img/moji.png" group-title="Indonesia",Moji (D)
 http://opplextv.cyou:8080/nasir6160/nasir/350997
 
 #EXTINF:-1 tvg-id="MOJI.id" tvg-logo="https://object-streamo.emonaja.com/img/moji.png" group-title="Indonesia",Moji (E)
-https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C85t_z0_MBwZtd69IGhbSfdg/ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://popmi.my.id/tes.m3u8?id=206
 
 #EXTINF:-1 tvg-id="VTV.id" tvg-logo="https://object-streamo.emonaja.com/img/vtv.png" group-title="Indonesia",VTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -724,16 +732,10 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/RockEntertainmentHD/mediampd/Rock
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 
-#EXTINF:-1 tvg-id="Sony.Pix.HD.in" group-title="Movies" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_SonyPix.png",Sony Pix
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=32
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
-
 #EXTINF:-1 tvg-id="FreeMovies" group-title="Movies" tvg-logo="https://aqfadtv.xyz/logos/FreeMovies.png",Sooka Free Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-freemovies-dash-sooka-sooka/index.mpd
 
-#EXTINF:-1 tvg-id="hbohd" group-title="Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png",HBO
+#EXTINF:-1 tvg-id="HBO.HD.sg" group-title="Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png",HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -741,14 +743,11 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-freemovies-
 #KODIPROP:inputstream.adaptive.license_key=7ad888ee5dd6496a8c2c77a6284ff936:718716c435914901d2551930a256974e
 https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=HBO&kid=7ad888ee-5dd6-496a-8c2c-77a6284ff936
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv
-#KODIPROP:inputstream.adaptive.license_key=https://kelontong.semar.my.id/cumbudrm.php
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="HBOSignatureHD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png?w=272" group-title="Movies",HBO Signature
-https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.148.44.38:8000/play/a025/index.m3u8
 
-#EXTINF:-1 tvg-id="hbofamily" group-title="Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_Family.png",HBO Family
+#EXTINF:-1 tvg-id="HBO.Family.(HD).sg" group-title="Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_Family.png",HBO Family
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -756,7 +755,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e
 #KODIPROP:inputstream.adaptive.license_key=98e8255fae9b41aebb334645a916c82b:3b631ef06c2782808a6d53ff0e24d9e3
 https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=HBOF&kid=98e8255f-ae9b-41ae-bb33-4645a916c82b
 
-#EXTINF:-1 tvg-id="hbohits" group-title="Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_Hits.png",HBO Hits
+#EXTINF:-1 tvg-id="HBO.Hits.(HD).sg" group-title="Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_Hits.png",HBO Hits
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -764,7 +763,7 @@ https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&ch
 #KODIPROP:inputstream.adaptive.license_key=437a4a8dfb314f81883c7894c99e72bf:e95073f71af10f85067c5d8bc509f667
 https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=HBOH&kid=437a4a8d-fb31-4f81-883c-7894c99e72bf
 
-#EXTINF:-1 tvg-id="cinemax" group-title="Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png",Cinemax
+#EXTINF:-1 tvg-id="CINEMAX.(HD).sg" group-title="Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png",Cinemax
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -913,12 +912,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_primary.mpd
 
 #EXTINF:-1 tvg-id="321.astro" group-title="Movies" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/3/36/Celestial_Classic_Movies_%282008-.n.v.%29.png",CCM (B)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.6972359084 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=5dcc7b00add745619ff1dd29ac7e591c:cdab9ac07955a7a2ea78b03343b77fbd
-https://sghost.mobileads.uno/uni5/uni5.mpd?id=CelestialC&provider=mytech
+#KODIPROP:inputstream.adaptive.license_key=a642dd4bf3ea782e19202adefb604b10:3f59355e15eed1bb219ea1687d55cfbb
+https://get.perfecttv.net/dash2.mpd?username=vip_0qqkjlcn&password=WzTwvgxl&channel=ccm
 
 #EXTINF:-1 tvg-id="wedotvMovies" group-title="Movies" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/647577WD_Movies.png",WeDoTV Movies
 https://amg00735-amg00735c46-astrosooka-singapore-7044.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedomoviesasia-astrosookasingapore/playlist.m3u8
@@ -1509,19 +1505,23 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5117/default_primary.mpd
 #EXTINF:-1 group-title="Test Centre" group-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif"
 
 #EXTINF:-1 tvg-id="Preview Channel.rtm" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 1
-https://28093.live.streamtheworld.com/RAKITAAAC.aac
+KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=62f0fb29203c45419e2ea683c5c365e6:10b227a6ea7d65628f025e41318b927c
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://d2tjypxxy769fn.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/index.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 2
-https://v1.thetvapp.to/hls/HBO2East/tracks-v1a1/mono.m3u8?token=f81IG8mmGw_NfU_gns0Kgg&expires=1779881059&user_id=V2VyZGdwbXJJdTVEZkEwaUMwb0pRZW4xRWdCRGR4cVlWaXB6VUhCVg==
+https://xemzi.short.gy/1000001
 
 #EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 3
-https://drive.google.com/file/d/1JjW5TyBnyU7jS5iGOvxecuMEMV16xNdT/view?usp=sharing
+https://www.dropbox.com/scl/fi/7428n4gy3o5uglkz0ozxh/YouCut_20260606_165748151.mp4?rlkey=wz5jtg7isu3dufaj3yha4xu8s&st=pubhcc12&dl=0
 
 #EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 4
 http://uutvs.cc/46b9gmvm/4756
 
 #EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 5
-https://smart.dxjc.pp.ua/smart.php?id=Antv&token=tmxk
+https://fe.tring.al/delta/105/out/u/rdghfhsfhfshs.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 6
 https://www.dropbox.com/scl/fi/jho7uw8qrwx492yfuo4bp/YTDown_YouTube_FIKTIF-Opening-Enews-Petang-28-4-2026_Media_eeQrmUHB9F8_001_1080p.mp4?rlkey=v1957mmr4tk9fgy4v8lbnqc5m&st=go9mi4o6&dl=1 
@@ -1529,7 +1529,10 @@ https://www.dropbox.com/scl/fi/jho7uw8qrwx492yfuo4bp/YTDown_YouTube_FIKTIF-Openi
 ###############################################################RADIO###################################################################
 
 #EXTINF:-1 tvg-id="" group-title="Our Radio" radio="true" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/008/653/792/small/music-man-gamer-line-pop-art-potrait-logo-colorful-design-with-dark-background-abstract-illustration-isolated-black-background-for-t-shirt-poster-clothing-merch-apparel-badge-design-vector.jpg",🆙TODAY'S ADMIN FAVOURITE SONG🆙
-https://fine.sunproxy.net/file/U3BsTUtta0pkbE5SRXNvb09pdjVNOUpXYXUxazlXbDlYYXBpR0haQmZUQUZPTHE4RWQ2UmJuR0p3Q296N1BTTzBIMEhpSUNqeTl5T09DT2ZzVEdTYms0VHFIK1BDR1lndWFaUnB4VnJSbXc9/Felicia_Sweden_2026_-_My_System_(SkySound.cc).mp3
+https://www.dropbox.com/scl/fi/qwsriqebtkj3lbhv53vc2/Felicia_Sweden_2026_-_My_System_-SkySound.cc.mp3?rlkey=gcvzpaiddik1q9jzp7a1fb0y3&st=1hreeon7&dl=1
+
+#EXTINF:-1 tvg-id="" group-title="Our Radio" radio="true" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/008/653/792/small/music-man-gamer-line-pop-art-potrait-logo-colorful-design-with-dark-background-abstract-illustration-isolated-black-background-for-t-shirt-poster-clothing-merch-apparel-badge-design-vector.jpg",TODAY'S MEME
+https://www.dropbox.com/scl/fi/7428n4gy3o5uglkz0ozxh/YouCut_20260606_165748151.mp4?rlkey=wz5jtg7isu3dufaj3yha4xu8s&st=pubhcc12&dl=1
 
 #EXTINF:-1 tvg-url="https://www.revma.com/api/stations/51qe53rv0y3vv/now_playing/?callback=jQuery171015259794982393193_1779971483502&_=1779971504269" group-title="Borneo Radio" radio="true" tvg-logo="https://www.catsfm.my/img/logo.png",Cats FM
 #EXTVLCOPT:http-origin=https://www.catsfm.my/
