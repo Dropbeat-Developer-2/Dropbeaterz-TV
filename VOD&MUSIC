@@ -58,3 +58,7 @@ https://www.dropbox.com/scl/fi/xspg3edh0ub6p9k4foy2a/FWC26-4K.mp4?rlkey=ksa28c7e
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRph9zeE4VblVcLduJ1rN60xZOEypWjVrdJ84AnKwpBGudSBNw65QnOouQC&s=10" group-title="Videos",FWC26 Opening (FHD 60FPS)
 https://www.dropbox.com/scl/fi/6rspmx3uah7oh5kityy7r/FWC26-FHD.mp4?rlkey=o12mi4ran9icltdwbyei6kox8&st=e33r528i&dl=1
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/lyhwct94h6779hmo5j6fg/HnVideoEditor_2026_06_13_221315410.gif?rlkey=f7n25syaq7qaa2uys9c9gnnfd&st=lrlaqs1v&dl=1" group-title="Videos",Susun TV (Various Archives from Southern Asia)
+#EXTVLCOPT:http-referrer=https://susuntv.bamboo-cloud.com/
+https://vodcdn.bamboo-cloud.com/livehls/6901607706304423c1685213/master.m3u8
