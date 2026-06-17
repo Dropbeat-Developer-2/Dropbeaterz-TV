@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U url-tvg="https://github.com/zultan-m/astro-epg/raw/main/astro.xml,https://github.com/AqFad2811/epg/raw/main/sooka.xml,https://github.com/AqFad2811/epg/raw/main/unifitv.xml,https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml,https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml,https://walpak1.github.io/epg/mana2.xml,https://walpak1.github.io/epg/starhub.xml,https://walpak1.github.io/epg/mewatch.xml,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://epg.946985.filegear-sg.me/t.xml.gz,https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://warningfm.github.io/x1/epg/guide.xml.gz,https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml" refresh="1440" vod_library="https://raw.githubusercontent.com/ediey7523017/IPTV/refs/heads/main/AstroVOD,https://github.com/ediey7523017/IPTV/raw/main/NewVOD,https://github.com/ediey7523017/IPTV/raw/main/AstroVOD,https://github.com/ediey7523017/IPTV/raw/main/CollectionVOD,https://github.com/ediey7523017/IPTV/raw/main/AseanVOD,https://github.com/ediey7523017/IPTV/raw/main/EnglishVOD,https://github.com/ediey7523017/IPTV/raw/main/KidsVOD,https://github.com/Dropbeat-Developer-2/Dropbeaterz-TV/raw/refs/heads/General/VOD&MUSIC,https://raw.githubusercontent.com/DinasKegelapanKotaKonoha/romlah-gunadi/refs/heads/main/romlahvodwleowleowleo.m3u,http://balentv.xyz/get.php?username=KT814CGVGV8H3HC&password=R7fGnVn09A&type=vod&output=ts,http://balentv.xyz/get.php?username=KT814CGVGV8H3HC&password=R7fGnVn09A&type=series&output=ts" billed-msg="Dropbeaterz IPTV"
+#EXTM3U billed-msg="Dropbeaterz IPTV (Random update code: V^7D9P)" url-tvg="https://github.com/zultan-m/astro-epg/raw/main/astro.xml,https://github.com/AqFad2811/epg/raw/main/sooka.xml,https://github.com/AqFad2811/epg/raw/main/unifitv.xml,https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml,https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml,https://walpak1.github.io/epg/mana2.xml,https://walpak1.github.io/epg/starhub.xml,https://walpak1.github.io/epg/mewatch.xml,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://epg.946985.filegear-sg.me/t.xml.gz,https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://warningfm.github.io/x1/epg/guide.xml.gz,https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml" refresh="1440" vod_library="https://raw.githubusercontent.com/ediey7523017/IPTV/refs/heads/main/AstroVOD,https://github.com/ediey7523017/IPTV/raw/main/NewVOD,https://github.com/ediey7523017/IPTV/raw/main/AstroVOD,https://github.com/ediey7523017/IPTV/raw/main/CollectionVOD,https://github.com/ediey7523017/IPTV/raw/main/AseanVOD,https://github.com/ediey7523017/IPTV/raw/main/EnglishVOD,https://github.com/ediey7523017/IPTV/raw/main/KidsVOD,https://github.com/Dropbeat-Developer-2/Dropbeaterz-TV/raw/refs/heads/General/VOD&MUSIC,https://raw.githubusercontent.com/DinasKegelapanKotaKonoha/romlah-gunadi/refs/heads/main/romlahvodwleowleowleo.m3u,http://balentv.xyz/get.php?username=KT814CGVGV8H3HC&password=R7fGnVn09A&type=vod&output=ts,http://balentv.xyz/get.php?username=KT814CGVGV8H3HC&password=R7fGnVn09A&type=series&output=ts"
 
 #######################################################################################################################################################################
 
@@ -11,7 +11,7 @@ https://www.dropbox.com/scl/fi/7428n4gy3o5uglkz0ozxh/YouCut_20260606_165748151.m
 #EXTINF:-1 group-title="Info" tvg-logo="https://cdn.pixabay.com/photo/2021/12/27/10/50/telegram-6896827_1280.png",Contact me in Telegram: https://t.me/+5zUEaddRGo40NDc1
 https://www.dropbox.com/scl/fi/7428n4gy3o5uglkz0ozxh/YouCut_20260606_165748151.mp4?rlkey=wz5jtg7isu3dufaj3yha4xu8s&st=pubhcc12&dl=1
 
-#EXTINF:-1 group-title="Info" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-vFxF3XiuXi6kJvThkj9zrIgVz8cXhntQaw&s",FIFA World Cup 2026 also available here.
+#EXTINF:-1 group-title="Info" tvg-logo="https://cdn-icons-png.flaticon.com/512/1137/1137361.png",FIFA World Cup 2026 also available here.
 https://www.dropbox.com/scl/fi/6rspmx3uah7oh5kityy7r/FWC26-FHD.mp4?rlkey=o12mi4ran9icltdwbyei6kox8&st=e33r528i&dl=1
 
 ################################################################################################
@@ -290,10 +290,10 @@ https://tglmp03.akamaized.net/out/v1/a3992c3d704443c991a8586e01a4cc1c/manifest.m
 #EXTINF:-1 tvg-id="BERITARTM.mana2" group-title="World" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/RTM_World_%282026%29.png/revision/latest/scale-to-width-down/1000?cb=20260331093002",RTM World (International Feed)
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/manifest.mpd
 
-#EXTINF:-1 group-title="World" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKd2x8VhCsahJaQQKF7vAShkbPvSZuxmvycw&s",Press TV (EPG NOT FOUND)
+#EXTINF:-1 group-title="World" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKd2x8VhCsahJaQQKF7vAShkbPvSZuxmvycw&s",Press TV
 https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 
-#EXTINF:-1 tvg-id="Al.Arabiya.distro" group-title="World" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCf6RaoVPAxw2J7Wr6xvz3NbShQV-06-TRHw&s",Al-Arabiya
+#EXTINF:-1 tvg-id="en:.Al.Arabiya.HD.ae" group-title="World" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCf6RaoVPAxw2J7Wr6xvz3NbShQV-06-TRHw&s",Al-Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Russia.Today.za" group-title="World" tvg-logo="https://en.shop-rt.com/upload/iblock/b7e/b7e7a9e53280d43612db48a929a8bcf2.jpg",Russia Today (RT)
@@ -363,8 +363,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5020/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5075/default_primary.mpd
 
-#EXTINF:-1 group-title="World" tvg-logo="https://i.imgur.com/KsMTWYw.png" tvg-id="ERT.World.ca2",ERT World
-https://ertflix-ertworld.siliconweb.com/mpegts/618618_3479286/master_mpegts.m3u8
+#EXTINF:-1 tvg-id="Palestine.Live.HD.ae" group-title="World" tvg-logo="https://www.pbc.ps/wp-content/uploads/2021/09/قناة-فلسطين-مباشر.webp",Palestine Satellite TV
+https://pbc.furrera.ps/palestinelivehd/index.m3u8
+
+#EXTINF:-1 tvg-id="Voice.Of.Palestine.ae" group-title="World" tvg-logo="https://www.pbc.ps/wp-content/uploads/2021/09/صوت-فلسطين.webp",Voice of Palestine
+https://pbc.furrera.ps/PalLive/VOPTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Palestine.HD.ae" group-title="World" tvg-logo="https://www.pbc.ps/wp-content/uploads/2022/03/PALESTINE_BUMPER_LOGO.mov.00_00_05_28.Still001-e1646755719184.png",Palestine National TV
+https://pbc.furrera.ps/palestinehd/index.m3u8
 
 #EXTINF:-1 tvg-id="521.astro" group-title="World" tvg-logo="http://linear-poster.astro.com.my/prod/logo/DW_v1.png",DW English
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -389,9 +395,6 @@ https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.sm
 
 #EXTINF:-1 tvg-id="TVRI.id" group-title="World" tvg-logo="https://yt3.googleusercontent.com/cZVbLx5HjtRTvtmfZLO91BQG3c33v-1LY-ewGyA7TveUg3TMWUTE79Qst-_T9QHvR3nLbKxt=s900-c-k-c0x00ffffff-no-rj",TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_2500000=10004-mp4a_96000=20002.m3u8
-
-#EXTINF:-1 tvg-id="Voice.Of.Palestine.ae" group-title="World" tvg-logo="https://www.pbc.ps/wp-content/uploads/2021/09/صوت-فلسطين.webp",Voice of Palestine
-https://pbc.furrera.ps/PalLive/VOPTV/tracks-v1a1/mono.m3u8
 
 #######################################################################################################################################
 
@@ -762,6 +765,9 @@ https://jmp2.uk/rok-1db9c603bb4e5d87b015f9963da1093e.m3u8
 
 #EXTINF:-1 group-title="Movies" group-logo="https://img.magnific.com/free-vector/movie-time-neon-sign-sign_24908-55555.jpg"
 
+#EXTINF:-1 tvg-id="Musawa.HD.ae" group-title="Movies" tvg-logo="https://www.pbc.ps/wp-content/uploads/2021/09/قناة-مساواة.webp",Musawa (Palestine Retro Movies)
+https://pbc.furrera.ps/musawahd/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ff1febd7018d0dd711601e795e0d6210:38fbfb3a56e40ff92c9df8acbcba9ef6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
@@ -1107,7 +1113,7 @@ https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221_output_
 
 #EXTINF:-1 group-title="Sports" group-logo="https://img.magnific.com/free-vector/soccer-volleyball-baseball-rugby-equipment_1441-4026.jpg"
 
-#EXTINF:-1 group-title="Sports" group-logo="https://assets.goal.com/images/v3/blt9fe9569de0dcb5c3/FIFA_World_Cup_2026_brand.png?auto=webp&format=pjpg&width=3840&quality=60",If the channel have this ⚽️ (football symbol), the channel have broadcasting World Cup. After the World Cup ends, it will be declared as new channels.
+#EXTINF:-1 group-title="Sports" ch-name="If the channel have this ⚽️ (football symbol), the channel have broadcasting World Cup. After the World Cup ends, it will be declared as new channels." tvg-logo="https://assets.goal.com/images/v3/blt9fe9569de0dcb5c3/FIFA_World_Cup_2026_brand.png?auto=webp&format=pjpg&width=3840&quality=60",If the channel have this ⚽️ (football symbol), the channel have broadcasting World Cup. After the World Cup ends, it will be declared as new channels.
 https://www.dropbox.com/scl/fi/6rspmx3uah7oh5kityy7r/FWC26-FHD.mp4?rlkey=o12mi4ran9icltdwbyei6kox8&st=e33r528i&dl=1
 
 #EXTINF:-1 tvg-id="702" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9E7BD4A4-E920-4556-9C44-0A243C5024C7/0-16x9.jpg?width=530" group-title="Sports",Unifi FIFA World Cup™ 2026 (1) ⚽️
@@ -1164,28 +1170,24 @@ https://live-aburayhan1107.telewebion.ir/ek/varzesh/live/1080p/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
 #EXTINF:-1 tvg-id="TSN.2.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn2.png" group-title="Sports",TSN 2 ⚽️
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
 
 #EXTINF:-1 tvg-id="TSN.3.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn3.png" group-title="Sports",TSN 3 ⚽️
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd
 
 #EXTINF:-1 tvg-id="TSN.4.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn4.png" group-title="Sports",TSN 4 ⚽️
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
 
 #EXTINF:-1 tvg-id="TSN.5.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn5.png" group-title="Sports",TSN 5 ⚽️
@@ -1666,7 +1668,7 @@ https://www.dropbox.com/scl/fi/7428n4gy3o5uglkz0ozxh/YouCut_20260606_165748151.m
 https://www.dropbox.com/scl/fi/xspg3edh0ub6p9k4foy2a/FWC26-4K.mp4?rlkey=ksa28c7e0brjd0ne8vsm2tqvn&st=50vjulht&dl=1
 
 #EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 5
-
+https://live.mana2.my/Tv5/index.m3u8?auth_key=1781697714-1376471f688d431cb120ee1287fecd6d-0-09651ca7df111f48fcc6dcf334a34a2b&token=1781697714-1376471f688d431cb120ee1287fecd6d-0-09651ca7df111f48fcc6dcf334a34a2b
 
 #EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 6
 https://www.dropbox.com/scl/fi/jho7uw8qrwx492yfuo4bp/YTDown_YouTube_FIKTIF-Opening-Enews-Petang-28-4-2026_Media_eeQrmUHB9F8_001_1080p.mp4?rlkey=v1957mmr4tk9fgy4v8lbnqc5m&st=go9mi4o6&dl=1 
@@ -1685,11 +1687,14 @@ https://www.dropbox.com/scl/fi/la6rzflabw0zw6tjvcfov/0a8b0c19cf4c772446bef0de0a5
 
 ###############################################################RADIO###################################################################
 
-#EXTINF:-1 tvg-id="" group-title="Our Radio" radio="true" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/008/653/792/small/music-man-gamer-line-pop-art-potrait-logo-colorful-design-with-dark-background-abstract-illustration-isolated-black-background-for-t-shirt-poster-clothing-merch-apparel-badge-design-vector.jpg",🆙TODAY'S ADMIN FAVOURITE SONG🆙
+#EXTINF:-1 group-title="Our Radio" radio="true" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/008/653/792/small/music-man-gamer-line-pop-art-potrait-logo-colorful-design-with-dark-background-abstract-illustration-isolated-black-background-for-t-shirt-poster-clothing-merch-apparel-badge-design-vector.jpg",🆙TODAY'S ADMIN FAVOURITE SONG🆙
 https://www.dropbox.com/scl/fi/qwsriqebtkj3lbhv53vc2/Felicia_Sweden_2026_-_My_System_-SkySound.cc.mp3?rlkey=gcvzpaiddik1q9jzp7a1fb0y3&st=1hreeon7&dl=1
 
-#EXTINF:-1 tvg-id="" group-title="Our Radio" radio="true" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/008/653/792/small/music-man-gamer-line-pop-art-potrait-logo-colorful-design-with-dark-background-abstract-illustration-isolated-black-background-for-t-shirt-poster-clothing-merch-apparel-badge-design-vector.jpg",TODAY'S MEME
+#EXTINF:-1 group-title="Our Radio" radio="true" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/008/653/792/small/music-man-gamer-line-pop-art-potrait-logo-colorful-design-with-dark-background-abstract-illustration-isolated-black-background-for-t-shirt-poster-clothing-merch-apparel-badge-design-vector.jpg",TODAY'S MEME
 https://www.dropbox.com/scl/fi/7428n4gy3o5uglkz0ozxh/YouCut_20260606_165748151.mp4?rlkey=wz5jtg7isu3dufaj3yha4xu8s&st=pubhcc12&dl=1
+
+#EXTINF:-1 group-title="Others Radio" radio="true" tvg-id="Voice.Of.Palestine.ae" group-title="World" tvg-logo="https://www.pbc.ps/wp-content/uploads/2021/09/صوت-فلسطين.webp",Voice of Palestine
+https://pbc.furrera.ps/PalLive/VOPTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-url="https://www.revma.com/api/stations/51qe53rv0y3vv/now_playing/?callback=jQuery171015259794982393193_1779971483502&_=1779971504269" group-title="Borneo Radio" radio="true" tvg-logo="https://www.catsfm.my/img/logo.png",Cats FM
 #EXTVLCOPT:http-origin=https://www.catsfm.my/
