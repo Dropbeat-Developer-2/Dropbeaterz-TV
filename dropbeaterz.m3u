@@ -50,13 +50,18 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=2
 
-#EXTINF:-1 tvg-id="103.astro" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png",TV3
+#EXTINF:-1 tvg-id="103.astro" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png",TV3 (A)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=ce43641a061a44fb9d95d986cfc9a68f:3d63855ca5cdfcfb765f306b98bcc646
 https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=TV3
+
+#EXTINF:-1 tvg-id="103.astro" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png",TV3 (B)
+#EXTVLCOPT:http-origin=https://malaysia-tv.net
+#EXTVLCOPT:http-referrer=https://malaysia-tv.net/
+https://2bfd741e.b-cdn.net/streamer/PdKWXbWjYo5fuydB6K45z1.m3u8?expires=1781794928&token=AXYkfF4FRNxQ-_pdxMdh7DeZNPhm1VEUhjmPVGDSDuI
 
 #EXTINF:-1 tvg-id="114.astro" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png",TV Alhijrah
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -216,29 +221,29 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 
 #EXTINF:-1 group-title="Singapore" group-logo="https://images.goway.com/production/featured_images/Aerial%20view%20of%20Singapore%20skyline%20at%20night%20near%20Marina%20Bay%2C%20Singapore_shutterstock_1116483092.jpg"
 
-#EXTINF:-1 group-title="Singapore" tvg-id="Channel 5" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhmQ2IxttWA0gdpoTDufWxA5Gbsl2U3liSDI7MyrMswUfNSNUa53mH0g7eM5-KwFHhkPHa6UY34XiBmpoPzOBXJiV-hZPQwFA5JWSL-YZN_AentgXX_26ybc2FU0m8zPbk-kkAOCR24-avbDuojjXaOGjQ1LcwVkKcnAnREwKM1-TwHpf1DN_0r-wVjxFJS",Channel 5 (A
+#EXTINF:-1 group-title="Singapore" tvg-id="Ch.5.(HD).sg" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhmQ2IxttWA0gdpoTDufWxA5Gbsl2U3liSDI7MyrMswUfNSNUa53mH0g7eM5-KwFHhkPHa6UY34XiBmpoPzOBXJiV-hZPQwFA5JWSL-YZN_AentgXX_26ybc2FU0m8zPbk-kkAOCR24-avbDuojjXaOGjQ1LcwVkKcnAnREwKM1-TwHpf1DN_0r-wVjxFJS",Channel 5 (A
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc3767ece98a4bdeb39b9ad6b7b8d2fe:769e78dc02d8f73811c97e0f9d5f12fe
 https://tglmp02.akamaized.net/out/v1/a32e566460eb41ce9295b9c45fe25825/manifest.mpd
 
-#EXTINF:-1 group-title="Singapore" tvg-id="Channel 5" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhmQ2IxttWA0gdpoTDufWxA5Gbsl2U3liSDI7MyrMswUfNSNUa53mH0g7eM5-KwFHhkPHa6UY34XiBmpoPzOBXJiV-hZPQwFA5JWSL-YZN_AentgXX_26ybc2FU0m8zPbk-kkAOCR24-avbDuojjXaOGjQ1LcwVkKcnAnREwKM1-TwHpf1DN_0r-wVjxFJS",Channel 5 (B)
+#EXTINF:-1 group-title="Singapore" tvg-id="Ch.5.(HD).sg" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhmQ2IxttWA0gdpoTDufWxA5Gbsl2U3liSDI7MyrMswUfNSNUa53mH0g7eM5-KwFHhkPHa6UY34XiBmpoPzOBXJiV-hZPQwFA5JWSL-YZN_AentgXX_26ybc2FU0m8zPbk-kkAOCR24-avbDuojjXaOGjQ1LcwVkKcnAnREwKM1-TwHpf1DN_0r-wVjxFJS",Channel 5 (B)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b152e2ae339c477aa4821eafb9c83c8c:e862ceb5df4fb9efcb013999e200b5bb
 https://ucdn.starhubgo.com/bpk-tv/Mediacorp_CH5_DASH/output/manifest.mpd
 
-#EXTINF:-1 group-title="Singapore" tvg-id="Channel 8" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhkYmEBCS4Sd6TiaeVJyBiZ7IV43qFA6LzUWEMH0MrCLnakxVm-Ul7Zoj8Ihhykr07lSWcR--kMQM6gjyaP_o2won7qUxPVlKS_uCm5dZbmuX98NQ_HOUC88m2ZONXSn5bSiVRHjoA36GotAcVNPzffpwbX1jWBr30CHsuq2sT4cFgzTU0SBh8S18Vg5Sp8",Channel 8
+#EXTINF:-1 group-title="Singapore" tvg-id="Ch.8.(HD).sg" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhkYmEBCS4Sd6TiaeVJyBiZ7IV43qFA6LzUWEMH0MrCLnakxVm-Ul7Zoj8Ihhykr07lSWcR--kMQM6gjyaP_o2won7qUxPVlKS_uCm5dZbmuX98NQ_HOUC88m2ZONXSn5bSiVRHjoA36GotAcVNPzffpwbX1jWBr30CHsuq2sT4cFgzTU0SBh8S18Vg5Sp8",Channel 8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6b1efb9b83f94e589f2be1c27482672b:74c937b533a2ba10e51b90abe159af7b
 https://tglmp01.akamaized.net/out/v1/41d401729c5d4ce3b15eb7db9147d7bc/manifest.mpd
 
-#EXTINF:-1 group-title="Singapore" tvg-id="Channel U" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjOqE7JYixtnRJ4NWsS61X79T5XNtMo0zEM2zQFMyC8pbMxE2ZZa4DZSIME7UPtuVGzgxC9f_vi3g3TAmv3H1VADK2jAKN2ESIzalJEp54imInEZVBZRtoLjR2zh8rbrCgfiTDFBiEzvNQUR2Ct_v9T9IjDqlmOe2r7AMMNnUq_sZA9-eTcBxo1ARqGmJZn",Channel U
+#EXTINF:-1 group-title="Singapore" tvg-id="Ch.U.(HD).sg" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjOqE7JYixtnRJ4NWsS61X79T5XNtMo0zEM2zQFMyC8pbMxE2ZZa4DZSIME7UPtuVGzgxC9f_vi3g3TAmv3H1VADK2jAKN2ESIzalJEp54imInEZVBZRtoLjR2zh8rbrCgfiTDFBiEzvNQUR2Ct_v9T9IjDqlmOe2r7AMMNnUq_sZA9-eTcBxo1ARqGmJZn",Channel U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5729b2b5324c4031aa619d00ee9e5612:6b347db25682e0545a9239ee45dcbb66
 https://tglmp04.akamaized.net/out/v1/884798cc688345d780dc58e4eb56d726/manifest.mpd
 
-#EXTINF:-1 group-title="Singapore" tvg-id="Suria" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEge39o55xzV57n7j5s--_MBS1X-XWFmDRU2_wYFjWP9sTw3_z_eBOeL2pq3p5RL4dxsBywJ7j7KvMjClzNsIGGuc7lFKIT97nX5KtCSroxYy6rRjNz5tGnhYxRi2v11gUjwqj86XYfxHVpQwuFJ04u00Ah7aBktRFkDAtWKu5Gr9caO_Dm6zuZ3plmx5QP0",Suria
+#EXTINF:-1 group-title="Singapore" tvg-id="Suria.(HD).sg" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEge39o55xzV57n7j5s--_MBS1X-XWFmDRU2_wYFjWP9sTw3_z_eBOeL2pq3p5RL4dxsBywJ7j7KvMjClzNsIGGuc7lFKIT97nX5KtCSroxYy6rRjNz5tGnhYxRi2v11gUjwqj86XYfxHVpQwuFJ04u00Ah7aBktRFkDAtWKu5Gr9caO_Dm6zuZ3plmx5QP0",Suria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee8f2493cd55453d917222c1a85212fd:07f5c76b976657fbdcc2085861f649bd
 https://tglmp02.akamaized.net/out/v1/0fa7dd7d7b6447478f26db79ea7c5779/manifest.mpd
@@ -258,26 +263,26 @@ https://ucdn.starhubgo.com/bpk-tv/HubSensasiHD/output/manifest.mpd|X-Forwarded-F
 #EXTINF:-1 tvg-id="Karisma.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/116_1920x1080_HTV.png?w=272?13404" group-title="Singapore",Starhub Karisma
 https://ucdn.starhubgo.com/bpk-tv/Karisma/output/manifest.mpd|X-Forwarded-For=119.56.77.101
 
-#EXTINF:-1 group-title="Singapore" tvg-id="97096" tvg-logo="https://i.ibb.co.com/YR4kxxX/mvasantham.png",Vasantham
+#EXTINF:-1 group-title="Singapore" tvg-id="Vasantham.(HD).sg" tvg-logo="https://images.seeklogo.com/logo-png/46/2/mediacorp-vasantham-logo-png_seeklogo-469517.png",Vasantham
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fb3e1afa8ae545f5a99d40baefd8a8d8:6432f742cd17eb5aedc3d68a3a61079c
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
-#EXTINF:-1 group-title="Singapore" tvg-id="97073" tvg-logo="https://i.ibb.co.com/dbRJFB3/mlive1.png",MeLIVE 1
+#EXTINF:-1 group-title="Singapore" tvg-id="97073" tvg-logo="https://images.seeklogo.com/logo-png/47/2/mewatch-2023-logo-png_seeklogo-471684.png",MeLIVE 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 
-#EXTINF:-1 group-title="Singapore" tvg-id="97078" tvg-logo="https://i.ibb.co.com/9GmV2fF/mlive2.png",MeLIVE 2
+#EXTINF:-1 group-title="Singapore" tvg-id="97078" tvg-logo="https://images.seeklogo.com/logo-png/47/2/mewatch-2023-logo-png_seeklogo-471684.png",MeLIVE 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/232439/assetType/media/assetFileId/2808449/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
-#EXTINF:-1 group-title="Singapore" tvg-id="97078" tvg-logo="https://i.ibb.co.com/9GmV2fF/mlive2.png",MeLIVE 3
+#EXTINF:-1 group-title="Singapore" tvg-id="97078" tvg-logo="https://images.seeklogo.com/logo-png/47/2/mewatch-2023-logo-png_seeklogo-471684.png",MeLIVE 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
-#EXTINF:-1 group-title="Singapore" tvg-logo="https://i.ibb.co.com/M59Xq8f/mcrop.png",TG Junior
+#EXTINF:-1 group-title="Singapore" tvg-logo="https://img.static-ottera.com/prod/tg/linear_channel/thumbnails/widescreen/tgjr_1.png",TG Junior
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://tglmp03.akamaized.net/out/v1/a3992c3d704443c991a8586e01a4cc1c/manifest.mpd
 
@@ -767,6 +772,10 @@ https://jmp2.uk/rok-1db9c603bb4e5d87b015f9963da1093e.m3u8
 
 #EXTINF:-1 tvg-id="Musawa.HD.ae" group-title="Movies" tvg-logo="https://www.pbc.ps/wp-content/uploads/2021/09/قناة-مساواة.webp",Musawa (Palestine Retro Movies)
 https://pbc.furrera.ps/musawahd/index.m3u8
+
+#EXTINF:-1 tvg-id="plex.tv.Miramax.Movie.Channel.plex" group-title="Movies" tvg-logo="https://deadline.com/wp-content/uploads/2017/04/miramax-logo.jpg",Miramax
+#EXTVLCOPT:http-referrer=https://malaysia-tv.net/
+https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ff1febd7018d0dd711601e795e0d6210:38fbfb3a56e40ff92c9df8acbcba9ef6
