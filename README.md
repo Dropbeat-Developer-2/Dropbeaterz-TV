@@ -6,7 +6,7 @@ In this playlist, you can watch everything you like based on your command in our
 
 Contact us in [Telegram](https://t.me/+tDP6Zdhm9iQyMzll).
 
-***Disclaimer: This playlist is kinda unstable and only available in several areas. So, some channels can't be accessible.***
+***Disclaimer: This playlist is kinda unstable and only available in several locations and only available in OTT TV. So, some channels can't be accessible.***
 
 # Admin's Word
 
