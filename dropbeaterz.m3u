@@ -1687,7 +1687,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5117/default_primary.mpd
 
 #EXTINF:-1 group-title="Test Centre" group-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif"
 
-#EXTINF:-1 tvg-id="Preview Channel.rtm" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 1
+#EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 1
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 2
@@ -1700,7 +1700,7 @@ https://www.dropbox.com/scl/fi/7428n4gy3o5uglkz0ozxh/YouCut_20260606_165748151.m
 https://www.dropbox.com/scl/fi/xspg3edh0ub6p9k4foy2a/FWC26-4K.mp4?rlkey=ksa28c7e0brjd0ne8vsm2tqvn&st=50vjulht&dl=1
 
 #EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 5
-https://live.mana2.my/Tv5/index.m3u8?auth_key=1781697714-1376471f688d431cb120ee1287fecd6d-0-09651ca7df111f48fcc6dcf334a34a2b&token=1781697714-1376471f688d431cb120ee1287fecd6d-0-09651ca7df111f48fcc6dcf334a34a2b
+https://www.dropbox.com/scl/fi/la6rzflabw0zw6tjvcfov/0a8b0c19cf4c772446bef0de0a5866ca.mp4?rlkey=scv3t6rcvkm81pfvofibfd9a5&st=745dp6or&dl=1
 
 #EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 6
 https://www.dropbox.com/scl/fi/jho7uw8qrwx492yfuo4bp/YTDown_YouTube_FIKTIF-Opening-Enews-Petang-28-4-2026_Media_eeQrmUHB9F8_001_1080p.mp4?rlkey=v1957mmr4tk9fgy4v8lbnqc5m&st=go9mi4o6&dl=1 
@@ -1715,7 +1715,9 @@ https://www.dropbox.com/scl/fi/o3qsgr9tvd7re72269gm4/tmpgftrl12n.mp4?rlkey=4ke4c
 https://www.dropbox.com/scl/fi/6rspmx3uah7oh5kityy7r/FWC26-FHD.mp4?rlkey=o12mi4ran9icltdwbyei6kox8&st=e33r528i&dl=1
 
 #EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 10
-https://www.dropbox.com/scl/fi/la6rzflabw0zw6tjvcfov/0a8b0c19cf4c772446bef0de0a5866ca.mp4?rlkey=scv3t6rcvkm81pfvofibfd9a5&st=745dp6or&dl=1
+#EXTVLCOPT:http-origin=https://www.telemadrid.es
+#EXTVLCOPT:http-referrer=https://www.telemadrid.es/
+https://live.telemadrid.cross-media.es/6389768804112/eu-central-1/6416060453001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiajI5YjgyLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjQxNjA2MDQ1MzAwMSIsImVobiI6ImxpdmUudGVsZW1hZHJpZC5jcm9zcy1tZWRpYS5lcyIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiNjQxNjA2MDQ1MzAwMSJdLCJqdGkiOiI2Mzg5NzY4ODA0MTEyIn0.BFiWvnDeEhA-nK2xb_GTgSA9SW3E72vcdXuGHYkLx2U/playlist-hls.m3u8
 
 ###############################################################RADIO###################################################################
 
