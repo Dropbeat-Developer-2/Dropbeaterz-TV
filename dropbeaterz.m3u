@@ -54,13 +54,6 @@ https://d25tgymtnqzu8s.cloudfront.net/live/media0/tv2/DASH/tv2.mpd
 #EXTINF:-1 tvg-id="103.astro" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png",TV3 (A)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/unifilicense
-https://ptv2026.com/get_tonton_live.m3u8?username=vip_0qqkjlcn&password=WzTwvgxl&episode_id=642032&channel=tv3
-
-#EXTINF:-1 tvg-id="103.astro" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png"
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce43641a061a44fb9d95d986cfc9a68f:3d63855ca5cdfcfb765f306b98bcc646
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=TV3&kid=ce43641a-061a-44fb-9d95-d986cfc9a68f
@@ -87,6 +80,16 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
 
+#EXTINF:-1 tvg-id="TVS.mana2" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TVS.png",TVS (TVS INSPIRE)
+#EXTVLCOPT:http-origin=https://www.tvsarawak.my
+#EXTVLCOPT:http-referrer=https://www.tvsarawak.my/
+https://live-tvs.tvsarawak.my/live/tvs_1080p2628kbs/index.m3u8
+
+#EXTINF:-1 tvg-id="TVS.mana2" group-title="Malaysia" tvg-logo="https://s3.tvstv.my/wp-content/uploads/2024/11/TVS_Plus_Logo_v14.png",TVS+
+#EXTVLCOPT:http-origin=https://www.tvsarawak.my
+#EXTVLCOPT:http-referrer=https://www.tvsarawak.my/
+https://live-tvsplus.tvsarawak.my/live/tvsplus_1080p2628kbs/index.m3u8
+
 #EXTINF:-1 tvg-id="146.astro" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/467_144.png",TV Okey (50FPS/END 1ST JULY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60f202b16407fedd8e369c32af57dd10:c8475231c09dc1b639886976b6fc7575
@@ -111,29 +114,23 @@ https://d25tgymtnqzu8s.cloudfront.net/live/media0/okey1/DASH/okey1.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 #EXTINF:-1 tvg-id="DidikTVKPM" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/4504543C-34AB-456E-940F-72431972DC9C/0-16x9.png?width=530" group-title="Malaysia",DidikTV KPM
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6f9bd00304a34972a80e5ff79aff982f:95a9dfd543b897f8edebf6db32877d79
-https://ptv2026.com/myunifi.mpd?username=vip_0qqkjlcn&password=WzTwvgxl&channel=Didik&kid=6f9bd003-04a3-4972-a80e-5ff79aff982f
+#EXTVLCOPT:http-origin=https://unifaitv.space
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Didik)/master.mpd
 
 #EXTINF:-1 tvg-id="148.astro" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/8TV_v1.png",8TV (八度空间)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=da1cb24f55db4ae1b32319c365920539:721af66b9c3e8c4166b8b4586d1fbefd
-https://ptv2026.com/myunifi.mpd?username=vip_0qqkjlcn&password=WzTwvgxl&channel=8TV&kid=da1cb24f-55db-4ae1-b323-19c365920539
+#EXTVLCOPT:http-origin=https://unifaitv.space
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(8TV)/master.mpd
 
 #EXTINF:-1 tvg-id="149.astro" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV9_NEW.png",TV9 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=eea0828c38d74407a5c384ad730d7224:250605c3d9734f7777e9c46fe5a6b176
-https://ptv2026.com/myunifi.mpd?username=vip_0qqkjlcn&password=WzTwvgxl&channel=TV9&kid=eea0828c-38d7-4407-a5c3-84ad730d7224
+#EXTVLCOPT:http-origin=https://unifaitv.space
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(TV9)/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Malaysia" tvg-id="Dewan Rakyat.my" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/PDR_bckg.png ",RTM Dewan Rakyat
+#EXTINF:-1 group-title="Malaysia" tvg-id="Dewan Rakyat.my" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/PDR_bckg.png",RTM Dewan Rakyat
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1202,10 +1199,14 @@ https://live-aburayhan1113.telewebion.ir/ek/sport1/live/108050p/index.m3u8
 https://live-aburayhan1104.telewebion.ir/ek/sport2/live/108050p/index.m3u8
 
 #EXTINF:-1 tvg-id="4k_DIGITAL_Mono_AR.bein" tvg-logo="https://static.telewebion.ir/channelsLogo/7bc81b96-3a06-4d5a-9349-a3ed837e3f0f/default" group-title="Sports",Telewebion Sport 3 ⚽️
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-origin=https://telewebion.ir
 #EXTVLCOPT:http-referrer=https://telewebion.ir/
-https://live-aburayhan1108.telewebion.ir/ek/sport3/live/108050p/index.m3u8
+https://ncdn.telewebion.ir/sport3/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4k_DIGITAL_Mono_AR.bein" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_FARATAR_UHD.png/1280px-IRIB_FARATAR_UHD.png" group-title="Sports",IRIB Faratar 4K ⚽️
+#EXTVLCOPT:http-origin=https://telewebion.ir
+#EXTVLCOPT:http-referrer=https://telewebion.ir/
+https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="4k_DIGITAL_Mono_AR.bein" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Irib_varzesh_tv_logo.png" group-title="Sports",IRIB9 Varzesh ⚽️
 #EXTVLCOPT:http-origin=https://telewebion.ir
@@ -1228,7 +1229,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6445/inde
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6517/index.m3u8
 
 #EXTINF:-1 tvg-id="TSN.4K.ca2" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/bellmediainc/7KWPK7G32CGKFL7RTDWUMG5YKY.jpg" group-title="Sports",TSN 4K (Unstable) ⚽️
-http://77.90.60.172:55555/1
+http://hardcoremedia.xyz/rabdsbmz/3731346838/260805
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1276,7 +1277,7 @@ https://cors-everywhere-wc8b4.ondigitalocean.app/https://otte.live.fly.ww.aiv-cd
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 #EXTINF:-1 group-title="Sports" tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfH03NGMKIvM39OFPc9t0VSwprb7OZxCvUA&usqp=CAU",TNT Sports 1 (A)
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HBX28K5SXCR6EH/6566/index.m3u8
+http://49.232.7.89:6688/got/got.php?id=TNT_Sports_1
 
 #EXTINF:-1 group-title="Sports" tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfH03NGMKIvM39OFPc9t0VSwprb7OZxCvUA&usqp=CAU",TNT Sports 1 (B)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1286,7 +1287,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HBX28K5SXCR6EH/6566/inde
 https://ptv2026.com/dash2.mpd?username=vip_0qqkjlcn&password=WzTwvgxl&channel=tnt1
 
 #EXTINF:-1 group-title="Sports" tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfH03NGMKIvM39OFPc9t0VSwprb7OZxCvUA&usqp=CAU",TNT Sports 2 (A)
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HBX28K5SXCR6EH/2506/index.m3u8
+http://49.232.7.89:6688/got/got.php?id=TNT_Sports_2
 
 #EXTINF:-1 group-title="Sports" tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfH03NGMKIvM39OFPc9t0VSwprb7OZxCvUA&usqp=CAU",TNT Sports 2 (B)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1296,10 +1297,10 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HBX28K5SXCR6EH/2506/inde
 https://ptv2026.com/dash2.mpd?username=vip_0qqkjlcn&password=WzTwvgxl&channel=tnt2
 
 #EXTINF:-1 group-title="Sports" tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfH03NGMKIvM39OFPc9t0VSwprb7OZxCvUA&usqp=CAU",TNT Sports 3 
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HBX28K5SXCR6EH/6564/index.m3u8
+http://49.232.7.89:6688/got/got.php?id=TNT_Sports_3
 
 #EXTINF:-1 group-title="Sports" tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfH03NGMKIvM39OFPc9t0VSwprb7OZxCvUA&usqp=CAU",TNT Sports 4 
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HBX28K5SXCR6EH/19054/index.m3u8
+http://49.232.7.89:6688/got/got.php?id=TNT_Sports_4
 
 #EXTINF:-1 group-title="Sports" tvg-id="Hub.Premier.1.sg" tvg-logo="https://i.postimg.cc/hGszyVJ7/ezgif-51f1d228973424c5.png",Hub Premier 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1702,7 +1703,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5117/default_primary.mpd
 https://www.dropbox.com/scl/fi/n4rimpq9hqcg3gbhb0nxb/FIFA-AD-OFFICIAL.mp4?rlkey=euiqljk6isf5u7pa2n8gck319&st=ignzxvcb&dl=1
 
 #EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 2
-https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTVLCOPT:http-origin=https://telewebion.ir
+#EXTVLCOPT:http-referrer=https://telewebion.ir/
+https://cdn.faina.ir/faina-stream/tenants/3887e2cb-0766-419d-ac8a-6303ca2f09dc/videos/5e1b1da3-2fe5-4956-b5d3-e44431a859cc/hls/master.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 3
 https://www.dropbox.com/scl/fi/7428n4gy3o5uglkz0ozxh/YouCut_20260606_165748151.mp4?rlkey=wz5jtg7isu3dufaj3yha4xu8s&st=pubhcc12&dl=1
@@ -1726,7 +1729,9 @@ https://www.dropbox.com/scl/fi/o3qsgr9tvd7re72269gm4/tmpgftrl12n.mp4?rlkey=4ke4c
 https://www.dropbox.com/scl/fi/6rspmx3uah7oh5kityy7r/FWC26-FHD.mp4?rlkey=o12mi4ran9icltdwbyei6kox8&st=e33r528i&dl=1
 
 #EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 10
-https://www.dropbox.com/scl/fi/n4rimpq9hqcg3gbhb0nxb/FIFA-AD-OFFICIAL.mp4?rlkey=euiqljk6isf5u7pa2n8gck319&st=scr18hv0&dl=1
+#EXTVLCOPT:http-origin=https://telewebion.ir
+#EXTVLCOPT:http-referrer=https://telewebion.ir/
+https://ncdn.telewebion.ir/irinn/live/playlist.m3u8
 
 ###############################################################RADIO###################################################################
 
