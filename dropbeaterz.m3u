@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTM3U billed-msg="Dropbeaterz IPTV (Random update code: FF4FWC)" url-tvg="https://github.com/zultan-m/astro-epg/raw/main/astro.xml,https://github.com/AqFad2811/epg/raw/main/sooka.xml,https://github.com/AqFad2811/epg/raw/main/unifitv.xml,https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml,https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml,https://walpak1.github.io/epg/mana2.xml,https://walpak1.github.io/epg/starhub.xml,https://walpak1.github.io/epg/mewatch.xml,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://epg.946985.filegear-sg.me/t.xml.gz,https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://warningfm.github.io/x1/epg/guide.xml.gz,https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml" refresh="1440" vod_library="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/DewaNonton,https://raw.githubusercontent.com/ediey7523017/IPTV/refs/heads/main/AstroVOD,https://github.com/ediey7523017/IPTV/raw/main/NewVOD,https://github.com/ediey7523017/IPTV/raw/main/AstroVOD,https://github.com/ediey7523017/IPTV/raw/main/CollectionVOD,https://github.com/ediey7523017/IPTV/raw/main/AseanVOD,https://github.com/ediey7523017/IPTV/raw/main/EnglishVOD,https://github.com/ediey7523017/IPTV/raw/main/KidsVOD,https://github.com/Dropbeat-Developer-2/Dropbeaterz-TV/raw/refs/heads/General/VOD&MUSIC,https://raw.githubusercontent.com/DinasKegelapanKotaKonoha/romlah-gunadi/refs/heads/main/romlahvodwleowleowleo.m3u,http://balentv.xyz/get.php?username=KT814CGVGV8H3HC&password=R7fGnVn09A&type=vod&output=ts,http://balentv.xyz/get.php?username=KT814CGVGV8H3HC&password=R7fGnVn09A&type=series&output=ts"
+#EXTM3U billed-msg="Dropbeaterz IPTV (Random update code: J9N%KX)" url-tvg="https://github.com/zultan-m/astro-epg/raw/main/astro.xml,https://www.open-epg.com/files/malaysia2.xml,https://github.com/AqFad2811/epg/raw/main/unifitv.xml,https://walpak1.github.io/epg/mana2.xml,https://walpak1.github.io/epg/starhub.xml,https://www.open-epg.com/files/indonesia.xml,,https://walpak1.github.io/epg/starhub.xml,https://walpak1.github.io/epg/mewatch.xml,https://epg.946985.filegear-sg.me/t.xml.gz,https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://warningfm.github.io/x1/epg/guide.xml.gz,https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml" refresh="1440" vod_library="https://github.com/ediey7523017/IPTV/raw/main/NewVOD,https://github.com/Dropbeat-Developer-2/Dropbeaterz-TV/raw/refs/heads/General/VOD&MUSIC,https://github.com/ediey7523017/IPTV/raw/main/HBOMAX,https://github.com/ediey7523017/IPTV/raw/main/AstroVOD,https://github.com/ediey7523017/IPTV/raw/main/CollectionVOD,https://github.com/ediey7523017/IPTV/raw/main/AseanVOD,https://github.com/ediey7523017/IPTV/raw/main/EnglishVOD,https://github.com/ediey7523017/IPTV/raw/main/IndianVOD,https://github.com/ediey7523017/IPTV/raw/main/KidsVOD,https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/DewaNonton,https://raw.githubusercontent.com/DinasKegelapanKotaKonoha/romlah-gunadi/refs/heads/main/romlahvodwleowleowleo.m3u"
 
 #######################################################################################################################################################################
 
 #EXTINF:-1 group-title="Info" group-logo="https://static.vecteezy.com/system/resources/thumbnails/026/161/911/small_2x/information-icon-illustration-in-flat-style-isolated-on-blue-background-with-long-shadow-speech-symbol-for-web-site-design-logo-app-ui-vector.jpg"
 
-#EXTINF:-1 group-title="Info" tvg-logo="https://thumbs.dreamstime.com/b/update-logo-template-software-upgrade-icon-vector-logotype-gear-arrow-technology-concept-cogwheel-up-symbol-ui-web-258277291.jpg",UPDATED & FINISHED 21 JUNE 2026/SUNDAY | 18:13MYT | 10:13UTC (-8 from MYT) | 12:13CET (+2 from UTC)
+#EXTINF:-1 group-title="Info" tvg-logo="https://thumbs.dreamstime.com/b/update-logo-template-software-upgrade-icon-vector-logotype-gear-arrow-technology-concept-cogwheel-up-symbol-ui-web-258277291.jpg",UPDATED & FINISHED 23 JUNE 2026/MONDAY | 15:29MYT | 07:29UTC (-8 from MYT) | 09:29CET (+2 from UTC)
 https://www.dropbox.com/scl/fi/n4rimpq9hqcg3gbhb0nxb/FIFA-AD-OFFICIAL.mp4?rlkey=euiqljk6isf5u7pa2n8gck319&st=ignzxvcb&dl=1
 
 #EXTINF:-1 group-title="Info" tvg-logo="https://cdn.pixabay.com/photo/2021/12/27/10/50/telegram-6896827_1280.png",Contact me in Telegram: https://t.me/+5zUEaddRGo40NDc1
@@ -292,7 +292,7 @@ https://tglmp03.akamaized.net/out/v1/a3992c3d704443c991a8586e01a4cc1c/manifest.m
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="BERITARTM.mana2" group-title="World" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/RTM_World_%282026%29.png/revision/latest/scale-to-width-down/1000?cb=20260331093002",RTM World (International Feed)
+#EXTINF:-1 tvg-id="RTM World.rtm" group-title="World" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/RTM_World_%282026%29.png/revision/latest/scale-to-width-down/1000?cb=20260331093002",RTM World (International Feed)
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/manifest.mpd
 
 #EXTINF:-1 group-title="World" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKd2x8VhCsahJaQQKF7vAShkbPvSZuxmvycw&s",Press TV
@@ -1213,37 +1213,37 @@ https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://telewebion.ir/
 https://live-aburayhan1107.telewebion.ir/ek/varzesh/live/1080p/index.m3u8
 
-#EXTINF:-1 tvg-id="TSN.1.ca2" tvg-logo="https://mimipipi22.github.io/logo/png/tsn1.png" group-title="Sports",TSN 1 ⚽️
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn1.png" group-title="Sports",TSN 1 ⚽️
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6521/index.m3u8
 
-#EXTINF:-1 tvg-id="TSN.2.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn2.png" group-title="Sports",TSN 2 ⚽️
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn2.png" group-title="Sports",TSN 2 ⚽️
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6492/index.m3u8
 
-#EXTINF:-1 tvg-id="TSN.3.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn3.png" group-title="Sports",TSN 3 ⚽️
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn3.png" group-title="Sports",TSN 3 ⚽️
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6522/index.m3u8
 
-#EXTINF:-1 tvg-id="TSN.4.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn4.png" group-title="Sports",TSN 4 ⚽️
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn4.png" group-title="Sports",TSN 4 ⚽️
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6445/index.m3u8
 
-#EXTINF:-1 tvg-id="TSN.5.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn5.png" group-title="Sports",TSN 5 ⚽️
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn5.png" group-title="Sports",TSN 5 ⚽️
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6517/index.m3u8
 
-#EXTINF:-1 tvg-id="TSN.4K.ca2" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/bellmediainc/7KWPK7G32CGKFL7RTDWUMG5YKY.jpg" group-title="Sports",TSN 4K (Unstable) ⚽️
+#EXTINF:-1 tvg-id="TSN.4K.ca2" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/bellmediainc/7KWPK7G32CGKFL7RTDWUMG5YKY.jpg" group-title="Sports",TSN 4K ⚽️
 http://hardcoremedia.xyz/rabdsbmz/3731346838/260805
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Sukan RTM.rtm" tvg-logo="https://rtm-images.glueapi.io/720x0/system/FIFA-WC-1-Dolby.png" group-title="Sports",FIFA World Cup™ 2026 RTM (1) ⚽️
+#EXTINF:-1 tvg-id="FIFA WC 1.rtm" tvg-logo="https://rtm-images.glueapi.io/720x0/system/FIFA-WC-1-Dolby.png" group-title="Sports",FIFA World Cup™ 2026 RTM (1) ⚽️
 https://d30aylox5wvifh.cloudfront.net/live/media0/wc1/DASH/wc1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Sukan RTM.rtm" tvg-logo="https://rtm-images.glueapi.io/720x0/system/FIFA-WC-2-Dolby.png" group-title="Sports",FIFA World Cup™ 2026 RTM (2) ⚽️
+#EXTINF:-1 tvg-id="FIFA WC 2.rtm" tvg-logo="https://rtm-images.glueapi.io/720x0/system/FIFA-WC-2-Dolby.png" group-title="Sports",FIFA World Cup™ 2026 RTM (2) ⚽️
 https://d30aylox5wvifh.cloudfront.net/live/media0/wc2/DASH/wc2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Sukan RTM.rtm" tvg-logo="https://rtm-images.glueapi.io/720x0/system/Umobile.jpg" group-title="Sports",FIFA World Cup™ 2026 (Highlights) ⚽️
+#EXTINF:-1 tvg-id="FIFA WC 3.rtm" tvg-logo="https://rtm-images.glueapi.io/720x0/system/Umobile.jpg" group-title="Sports",FIFA World Cup™ 2026 (Highlights) ⚽️
 https://d30aylox5wvifh.cloudfront.net/live/media0/wc3/DASH/wc3.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1699,36 +1699,36 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5117/default_primary.mpd
 
 #EXTINF:-1 group-title="Test Centre" group-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif"
 
-#EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 1
+#EXTINF:-1 tvg-id="Demo Channel.rtm" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 1
 https://www.dropbox.com/scl/fi/n4rimpq9hqcg3gbhb0nxb/FIFA-AD-OFFICIAL.mp4?rlkey=euiqljk6isf5u7pa2n8gck319&st=ignzxvcb&dl=1
 
-#EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 2
+#EXTINF:-1 tvg-id="Test Event Epg.rtm" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 2
 #EXTVLCOPT:http-origin=https://telewebion.ir
 #EXTVLCOPT:http-referrer=https://telewebion.ir/
 https://cdn.faina.ir/faina-stream/tenants/3887e2cb-0766-419d-ac8a-6303ca2f09dc/videos/5e1b1da3-2fe5-4956-b5d3-e44431a859cc/hls/master.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 3
+#EXTINF:-1 tvg-id="Saluran 1.rtm" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 3
 https://www.dropbox.com/scl/fi/7428n4gy3o5uglkz0ozxh/YouCut_20260606_165748151.mp4?rlkey=wz5jtg7isu3dufaj3yha4xu8s&st=pubhcc12&dl=1
 
-#EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 4
+#EXTINF:-1 tvg-id="Saluran 2.rtm" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 4
 https://www.dropbox.com/scl/fi/5rpphvmtrmn1uah75qgg3/Official-FWC26-4K.mp4?rlkey=1nfrjy5sbg6g4lytd47ahclr0&st=lwzd8wnl&dl=1
 
-#EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 5
+#EXTINF:-1 tvg-id="Saluran 3.rtm" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 5
 https://www.dropbox.com/scl/fi/3tswa104qs0381ugsbcfr/Official-FWC26-HD.mp4?rlkey=m476f92xlq2rplk9vsewpz69b&st=sdc3z8ep&dl=1
 
-#EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 6
+#EXTINF:-1 tvg-id="Saluran 4.rtm" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 6
 https://www.dropbox.com/scl/fi/jho7uw8qrwx492yfuo4bp/YTDown_YouTube_FIKTIF-Opening-Enews-Petang-28-4-2026_Media_eeQrmUHB9F8_001_1080p.mp4?rlkey=v1957mmr4tk9fgy4v8lbnqc5m&st=go9mi4o6&dl=1 
 
-#EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 7
+#EXTINF:-1 tvg-id="Saluran 5.rtm" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 7
 https://www.dropbox.com/scl/fi/59oaoudjlb7l8hlzsuh95/Test-A.mp4?rlkey=dhybc2xgml1fsk0uj58xargb4&st=oq6dwg5p&dl=1
 
-#EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 8
+#EXTINF:-1 tvg-id="Black Clash.rtm" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 8
 https://www.dropbox.com/scl/fi/o3qsgr9tvd7re72269gm4/tmpgftrl12n.mp4?rlkey=4ke4cp9j5rxup7vrp7xbatgyy&st=2xip1qmo&dl=1
 
-#EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 9
+#EXTINF:-1 tvg-id="THRILL.tonton" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 9
 https://www.dropbox.com/scl/fi/6rspmx3uah7oh5kityy7r/FWC26-FHD.mp4?rlkey=o12mi4ran9icltdwbyei6kox8&st=e33r528i&dl=1
 
-#EXTINF:-1 tvg-id="" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 10
+#EXTINF:-1 tvg-id="FURY.tonton" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 10
 #EXTVLCOPT:http-origin=https://telewebion.ir
 #EXTVLCOPT:http-referrer=https://telewebion.ir/
 https://ncdn.telewebion.ir/irinn/live/playlist.m3u8
@@ -1759,7 +1759,10 @@ https://n09.rcs.revma.com/axht8yawe1bwv?rj-ttl=5&rj-tok=AAABnlLxACkAnOt3hlvINPgl
 #EXTVLCOPT:http-referrer=https://kupikupifm.audioplus.audio/
 https://n04-us.rcs.revma.com/vx54zkbwe1bwv?rj-ttl=5&rj-tok=AAABnlLulcwAHQFR3MwgcBtVgQ
 
-#EXTINF:-1 tvg-id="https://www.radioking.com/widgets/currenttrack.php?radio=224413&format=json" group-title="Web Radio" radio="true" tvg-logo="https://www.voices.my/wp-content/uploads/2019/07/VOICE-fm-01-300x96.jpg",VOSJ (Voice of Subang Jaya)
+#EXTINF:-1 tvg-id="Radio Bisnes.rtm" group-title="RTM Radio" radio="true" tvg-logo="https://rtm-images.glueapi.io/400x300/radio-asset/RADIOBISNES.png",Radio Bisnes
+https://22283.live.streamtheworld.com/RADIOBISNESAAC.aac
+
+#EXTINF:-1 tvg-url="https://www.radioking.com/widgets/currenttrack.php?radio=224413&format=json" group-title="Web Radio" radio="true" tvg-logo="https://www.voices.my/wp-content/uploads/2019/07/VOICE-fm-01-300x96.jpg",VOSJ (Voice of Subang Jaya)
 #EXTVLCOPT:http-referrer=https://www.voices.my/
 https://listen.radioking.com/radio/224413/stream/267892
 
