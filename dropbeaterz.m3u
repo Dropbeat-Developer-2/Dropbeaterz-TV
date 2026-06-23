@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U billed-msg="Dropbeaterz IPTV (Random update code: J9N%KX)" url-tvg="https://github.com/zultan-m/astro-epg/raw/main/astro.xml,https://www.open-epg.com/files/malaysia2.xml,https://github.com/AqFad2811/epg/raw/main/unifitv.xml,https://walpak1.github.io/epg/mana2.xml,https://walpak1.github.io/epg/starhub.xml,https://www.open-epg.com/files/indonesia.xml,,https://walpak1.github.io/epg/starhub.xml,https://walpak1.github.io/epg/mewatch.xml,https://epg.946985.filegear-sg.me/t.xml.gz,https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://warningfm.github.io/x1/epg/guide.xml.gz,https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml" refresh="1440" vod_library="https://github.com/ediey7523017/IPTV/raw/main/NewVOD,https://github.com/Dropbeat-Developer-2/Dropbeaterz-TV/raw/refs/heads/General/VOD&MUSIC,https://github.com/ediey7523017/IPTV/raw/main/HBOMAX,https://github.com/ediey7523017/IPTV/raw/main/AstroVOD,https://github.com/ediey7523017/IPTV/raw/main/CollectionVOD,https://github.com/ediey7523017/IPTV/raw/main/AseanVOD,https://github.com/ediey7523017/IPTV/raw/main/EnglishVOD,https://github.com/ediey7523017/IPTV/raw/main/IndianVOD,https://github.com/ediey7523017/IPTV/raw/main/KidsVOD,https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/DewaNonton,https://raw.githubusercontent.com/DinasKegelapanKotaKonoha/romlah-gunadi/refs/heads/main/romlahvodwleowleowleo.m3u"
+#EXTM3U billed-msg="Dropbeaterz IPTV (Random update code: GRV^7K)" url-tvg="https://github.com/zultan-m/astro-epg/raw/main/astro.xml,https://www.open-epg.com/files/malaysia2.xml,https://github.com/AqFad2811/epg/raw/main/unifitv.xml,https://walpak1.github.io/epg/mana2.xml,https://walpak1.github.io/epg/starhub.xml,https://www.open-epg.com/files/indonesia.xml,,https://walpak1.github.io/epg/starhub.xml,https://walpak1.github.io/epg/mewatch.xml,https://epg.946985.filegear-sg.me/t.xml.gz,https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://warningfm.github.io/x1/epg/guide.xml.gz,https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml" refresh="1440" vod_library="https://github.com/ediey7523017/IPTV/raw/main/NewVOD,https://github.com/Dropbeat-Developer-2/Dropbeaterz-TV/raw/refs/heads/General/VOD&MUSIC,https://github.com/ediey7523017/IPTV/raw/main/HBOMAX,https://github.com/ediey7523017/IPTV/raw/main/AstroVOD,https://github.com/ediey7523017/IPTV/raw/main/CollectionVOD,https://github.com/ediey7523017/IPTV/raw/main/AseanVOD,https://github.com/ediey7523017/IPTV/raw/main/EnglishVOD,https://github.com/ediey7523017/IPTV/raw/main/IndianVOD,https://github.com/ediey7523017/IPTV/raw/main/KidsVOD,https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/DewaNonton,https://raw.githubusercontent.com/DinasKegelapanKotaKonoha/romlah-gunadi/refs/heads/main/romlahvodwleowleowleo.m3u"
 
 #######################################################################################################################################################################
 
@@ -51,7 +51,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://d25tgymtnqzu8s.cloudfront.net/live/media0/tv2/DASH/tv2.mpd
 
-#EXTINF:-1 tvg-id="103.astro" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png",TV3 (A)
+#EXTINF:-1 tvg-id="103.astro" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png",TV3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -114,16 +114,19 @@ https://d25tgymtnqzu8s.cloudfront.net/live/media0/okey1/DASH/okey1.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 #EXTINF:-1 tvg-id="DidikTVKPM" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/4504543C-34AB-456E-940F-72431972DC9C/0-16x9.png?width=530" group-title="Malaysia",DidikTV KPM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-origin=https://unifaitv.space
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Didik)/master.mpd
 
 #EXTINF:-1 tvg-id="148.astro" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/8TV_v1.png",8TV (八度空间)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-origin=https://unifaitv.space
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(8TV)/master.mpd
 
 #EXTINF:-1 tvg-id="149.astro" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV9_NEW.png",TV9 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-origin=https://unifaitv.space
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(TV9)/master.mpd
