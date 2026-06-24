@@ -2,15 +2,15 @@
 
 ***Welcome To Dropbeaterz IPTV***
 
-In this playlist, you can watch everything you like based on your command in our [Telegram](https://t.me/+tDP6Zdhm9iQyMzll).
+In this playlist, you can watch everything you like based on your permission in [Telegram](https://t.me/+tDP6Zdhm9iQyMzll).
 
-Contact us in [Telegram](https://t.me/+tDP6Zdhm9iQyMzll).
+Contact admin in [Telegram](https://t.me/+tDP6Zdhm9iQyMzll).
 
 ***Disclaimer: This playlist is kinda unstable and only available in several locations and only available in OTT TV. So, some channels can't be accessible.***
 
 # Admin's Word
 
-The administrator of this playlist identities are private. Don't ask anything personal on [Telegram](https://t.me/+tDP6Zdhm9iQyMzll).
+The administrator of this playlist identities are private. Don't ask anything personal on the[Telegram](https://t.me/+tDP6Zdhm9iQyMzll).
 
 Only two things that admin allow to spread.
 
