@@ -10,7 +10,7 @@ Contact admin in [Telegram](https://t.me/+tDP6Zdhm9iQyMzll).
 
 # Admin's Word
 
-The administrator of this playlist identities are private. Don't ask anything personal on the[Telegram](https://t.me/+tDP6Zdhm9iQyMzll).
+The administrator of this playlist identities are private. Don't ask anything personal on the [Telegram](https://t.me/+tDP6Zdhm9iQyMzll).
 
 Only two things that admin allow to spread.
 
