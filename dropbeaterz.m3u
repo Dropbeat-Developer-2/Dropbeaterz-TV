@@ -53,17 +53,17 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/live/media0/tv2/DASH/tv2.mpd
 
 #EXTINF:-1 tvg-id="103.Unifi" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png",TV3
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce43641a061a44fb9d95d986cfc9a68f:3d63855ca5cdfcfb765f306b98bcc646
-https://ptv2026.com/myunifi.mpd?username=vip_0qqkjlcn&password=WzTwvgxl&channel=TV3&kid=ce43641a-061a-44fb-9d95-d986cfc9a68f
+#EXTVLCOPT:http-origin=https://styleanecdotes.blogspot.com
+https://on.3tv3.workers.dev/tv3.m3u8
 
 #EXTINF:-1 tvg-id="Draftkings.Network.DRAFTKINGS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/AwesomeTVMY.png" group-title="Malaysia",Awesome TV (Info)
 https://www.dropbox.com/scl/fi/r6bsfygltkzw6k8p8kt61/YouCut_20260705_212746135.mp4?rlkey=mpqouis6wsswqvojw0bexsnt6&st=z3clpocr&dl=1
 
 #EXTINF:-1 tvg-id="Draftkings.Network.DRAFTKINGS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/AwesomeTVMY.png" group-title="Malaysia",Awesome TV (Backup)
 http://31.42.187.37:25461/watchpad13158/1234/340
+
+#EXTINF:-1 tvg-id="Draftkings.Network.DRAFTKINGS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/AwesomeTVMY.png" group-title="Malaysia",Awesome TV (Backup 2)
+https://youtu.be/UbH5lZH4V6s
 
 #EXTINF:-1 tvg-id="26.ManaTV" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png",TV Alhijrah
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -100,25 +100,22 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/live/media0/okey1/DASH/okey1.mpd
 
 #EXTINF:-1 tvg-id="107.Unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/4504543C-34AB-456E-940F-72431972DC9C/0-16x9.png?width=530" group-title="Malaysia",DidikTV KPM
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6f9bd00304a34972a80e5ff79aff982f:95a9dfd543b897f8edebf6db32877d79
-https://ptv2026.com/myunifi.mpd?username=vip_0qqkjlcn&password=WzTwvgxl&channel=Didik&kid=6f9bd003-04a3-4972-a80e-5ff79aff982f
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e509735b5f89750d42ace2410ead7210:1726083509d570b5de4730ab9f338cc3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/707/default_primary.mpd
 
 #EXTINF:-1 tvg-id="108.Unifi" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/8TV_v1.png",8TV (八度空间)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=da1cb24f55db4ae1b32319c365920539:721af66b9c3e8c4166b8b4586d1fbefd
-https://ptv2026.com/myunifi.mpd?username=vip_0qqkjlcn&password=WzTwvgxl&channel=8TV&kid=da1cb24f-55db-4ae1-b323-19c365920539
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0cb7980e9d1d8957f9a293ed96342410:11da1ad368d0cacffe4824b6b35e22b7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default_primary.mpd
 
 #EXTINF:-1 tvg-id="109.Unifi" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV9_NEW.png",TV9
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=eea0828c38d74407a5c384ad730d7224:250605c3d9734f7777e9c46fe5a6b176
-https://ptv2026.com/myunifi.mpd?username=vip_0qqkjlcn&password=WzTwvgxl&channel=TV9&kid=eea0828c-38d7-4407-a5c3-84ad730d7224
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=27828727f0a3a0b4fbc668378ccf8c10:958e9cb7389e20948de5a542d2729ecf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1677,10 +1674,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5187/default_primary.mpd
 https://load.ptv2026.com/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&channel=ria
 
 #EXTINF:-1 tvg-id="254.StarHub" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hBL0RP++NQzy7OBR+RUukA","kid":"C2Uyau3j7b6B5vtAMX1TEA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://api.tvp.pl/tokenizer/token/94257114
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 OPR/132.0.0.0
+#EXTVLCOPT:http-origin=https://szczecin.tvp.pl
+#EXTVLCOPT:http-referrer=https://szczecin.tvp.pl/
+https://sdt-epix11-42.tvp.pl/token/video/vod/94257114/20260710/2944962272/YN6vsOyJRCgmyGPNJvOuXnXko_Hbf_DTdfnas2Jnj1KKHHiUSpOVu__7bFxQ-gEAMt9PQTQWsLfkxp7cClAg-MJD6cXZ0hjKwg-dyBshpIc4Z6I8WIsVzVSlroc6GaE84_c2347xEiZlFRGg6Rrl_iyTmtAS_CfK-u1YIp9THl0/video.ism/video-fmp4.m3u8
 
 #EXTINF:-1 tvg-id="48.VPlus" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 5
 https://box.djdoolky76.net/stream/udptv/gma/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
