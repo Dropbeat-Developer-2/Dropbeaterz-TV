@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTM3U billed-msg="Dropbeaterz IPTV (Random update code: K8L$PJ)" url-tvg="https://onm.rocket-ott.shop/test/astro_guide.xml,https://raw.githubusercontent.com/zultan-m/astro-epg/refs/heads/main/astro_old.xml,https://onm.rocket-ott.shop/test/rtmklik_guide.xml,https://onm.rocket-ott.shop/test/unifi_guide.xml,https://onm.rocket-ott.shop/test/manatv_guide.xml,https://onm.rocket-ott.shop/test/starhub_epg.xml,https://onm.rocket-ott.shop/test/visionplus_guide.xml,https://walpak1.github.io/epg/starhub.xml,https://walpak1.github.io/epg/mewatch.xml,https://onm.rocket-ott.shop/test/sooka_guide.xml,https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml,https://onm.rocket-ott.shop/test/cubmu_epg.xml,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://onm.rocket-ott.shop/test/vidio_epg.xml,https://warningfm.github.io/x1/epg/guide.xml.gz,https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml" refresh="1440" vod_library="https://github.com/Dropbeat-Developer-2/Dropbeaterz-TV/raw/refs/heads/General/VOD&MUSIC,https://github.com/Dropbeat-Developer-2/SERIES/raw/refs/heads/main/SERIES.m3u,https://github.com/ediey7523017/freetv/raw/main/HBO_MAX.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Others.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Astro.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Collection.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Asean.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_English.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Indian.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Kids.m3u,https://github.com/ediey7523017/freetv/raw/refs/heads/main/my2.m3u,https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/DewaNonton,https://raw.githubusercontent.com/DinasKegelapanKotaKonoha/romlah-gunadi/refs/heads/main/romlahvodwleowleowleo.m3u"
+#EXTM3U billed-msg="Dropbeaterz IPTV (Random update code: PV@LI5)" url-tvg="https://onm.rocket-ott.shop/test/astro_guide.xml,https://raw.githubusercontent.com/zultan-m/astro-epg/refs/heads/main/astro_old.xml,https://onm.rocket-ott.shop/test/rtmklik_guide.xml,https://onm.rocket-ott.shop/test/unifi_guide.xml,https://onm.rocket-ott.shop/test/manatv_guide.xml,https://onm.rocket-ott.shop/test/starhub_epg.xml,https://onm.rocket-ott.shop/test/visionplus_guide.xml,https://walpak1.github.io/epg/starhub.xml,https://walpak1.github.io/epg/mewatch.xml,https://onm.rocket-ott.shop/test/sooka_guide.xml,https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml,https://onm.rocket-ott.shop/test/cubmu_epg.xml,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://onm.rocket-ott.shop/test/vidio_epg.xml,https://warningfm.github.io/x1/epg/guide.xml.gz,https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml" refresh="1440" vod_library="https://github.com/Dropbeat-Developer-2/Dropbeaterz-TV/raw/refs/heads/General/VOD&MUSIC,https://github.com/Dropbeat-Developer-2/SERIES/raw/refs/heads/main/SERIES.m3u,https://github.com/ediey7523017/freetv/raw/main/HBO_MAX.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Others.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Astro.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Collection.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Asean.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_English.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Indian.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Kids.m3u,https://github.com/ediey7523017/freetv/raw/refs/heads/main/my2.m3u,https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/DewaNonton,https://raw.githubusercontent.com/DinasKegelapanKotaKonoha/romlah-gunadi/refs/heads/main/romlahvodwleowleowleo.m3u"
 
 #######################################################################################################################################################################
 
 #EXTINF:-1 group-title="Info" group-logo="https://static.vecteezy.com/system/resources/thumbnails/026/161/911/small_2x/information-icon-illustration-in-flat-style-isolated-on-blue-background-with-long-shadow-speech-symbol-for-web-site-design-logo-app-ui-vector.jpg"
 
-#EXTINF:-1 group-title="Info" tvg-logo="https://thumbs.dreamstime.com/b/update-logo-template-software-upgrade-icon-vector-logotype-gear-arrow-technology-concept-cogwheel-up-symbol-ui-web-258277291.jpg",UPDATED & FINISHED 10 JULY 2026/FRIDAY | 15:57MYT | 07:57UTC (-8 from MYT) | 09:57CET (+2 from UTC)
+#EXTINF:-1 group-title="Info" tvg-logo="https://thumbs.dreamstime.com/b/update-logo-template-software-upgrade-icon-vector-logotype-gear-arrow-technology-concept-cogwheel-up-symbol-ui-web-258277291.jpg",UPDATED & FINISHED 10 JULY 2026/FRIDAY | 21:42MYT | 13:42UTC (-8 from MYT) | 15:42CET (+2 from UTC)
 https://www.dropbox.com/scl/fi/r6bsfygltkzw6k8p8kt61/YouCut_20260705_212746135.mp4?rlkey=mpqouis6wsswqvojw0bexsnt6&st=z3clpocr&dl=1
 
 #EXTINF:-1 group-title="Info" tvg-logo="https://cdn.pixabay.com/photo/2021/12/27/10/50/telegram-6896827_1280.png",Contact me in Telegram: https://t.me/+5zUEaddRGo40NDc1
@@ -1213,29 +1213,19 @@ http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/120273.ts
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/1622
 
 #EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn3.png" group-title="Sports",TSN 3 ⚽️
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9097a1b7d04b7786b29f2b0e155316d:279695ebe0fb1bc5787422b6b59ce8a8
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mrskysvotx/out/v1/ad58961bd8fd48d2944e461c034b8914/cenc.mpd
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21812.ts
 
 #EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn4.png" group-title="Sports",TSN 4 ⚽️
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e1aa4c4daf6222a04f7ae80130495ea1:31bb1ee9a8d088f62b0103550c301449
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/irtfdsri14/out/v1/165128c314e944faa3d79e107974b323/cenc.mpd
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21823.ts
 
 #EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn5.png" group-title="Sports",TSN 5 ⚽️
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21824.ts
 
 #EXTINF:-1 tvg-id="TSN.4K.ca2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/xoa4nx1665920410.png" group-title="Sports",TSN 4K ⚽️
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/119333
 
 #EXTINF:-1 tvg-id="FUSSBALL.TV.1.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Sportdigital_Fu%C3%9Fball_Logo_2019.svg/1280px-Sportdigital_Fu%C3%9Fball_Logo_2019.svg.png" group-title="Sports",Fussball TV UHD ⚽️
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745269.ts
 
 #EXTINF:-1 tvg-id="Fox.Deportes.HD.us2" tvg-logo="https://www.foxdeportes.com/assets/images/banner.png" group-title="Sports",FOX Deportes ⚽️
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
@@ -1670,8 +1660,7 @@ https://www.dropbox.com/scl/fi/n4rimpq9hqcg3gbhb0nxb/FIFA-AD-OFFICIAL.mp4?rlkey=
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5187/default_primary.mpd
 
 #EXTINF:-1 tvg-id="253.StarHub" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 3
-#KODIPROP:inputstream.adaptive.license_key=d5249cb40505495494828f42c37087cb:d59f6a7bed00bd5348355ab5b3ee6aa0
-https://load.ptv2026.com/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&channel=ria
+http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/6408/index.m3u8
 
 #EXTINF:-1 tvg-id="254.StarHub" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
