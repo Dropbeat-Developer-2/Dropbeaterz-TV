@@ -6,11 +6,13 @@ In this playlist, you can watch everything you like based on your permission in 
 
 Contact admin in [Telegram](https://t.me/+tDP6Zdhm9iQyMzll).
 
-***Disclaimer: This playlist is kinda unstable and only available in several locations and only can be access through OTT TV/OTT Player/OTT Navigator by SIA Scillarium Studio. So, some channels can't be accessible.***
+> [!IMPORTANT]
+> ***Disclaimer: This playlist is kinda unstable and only available in several locations and only can be access through OTT TV/OTT Player/OTT Navigator by SIA Scillarium Studio. So, some channels can't be accessible.***
 
 # Admin's Word
 
-The administrator of this playlist identities are private. Don't ask anything personal on the [Telegram](https://t.me/+tDP6Zdhm9iQyMzll).
+> [!WARNING]
+> The administrator of this playlist identities are private. Don't ask anything personal on the [Telegram](https://t.me/+tDP6Zdhm9iQyMzll).
 
 Only two things that admin allow to spread.
 
