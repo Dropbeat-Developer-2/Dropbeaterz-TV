@@ -65,7 +65,7 @@ https://www.dropbox.com/scl/fi/r6bsfygltkzw6k8p8kt61/YouCut_20260705_212746135.m
 #EXTINF:-1 tvg-id="Draftkings.Network.DRAFTKINGS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/AwesomeTVMY.png" group-title="Malaysia",Awesome TV (Backup)
 http://31.42.187.37:25461/watchpad13158/1234/340
 
-#EXTINF:-1 tvg-id="Draftkings.Network.DRAFTKINGS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/AwesomeTVMY.png" group-title="Malaysia",Awesome TV (Backup 2)
+#EXTINF:-1 tvg-id="Draftkings.Network.DRAFTKINGS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/AwesomeTVMY.png" group-title="Malaysia",Awesome TV (Redirect to YouTube)
 https://www.youtube.com/@AwesomeTVmy/streams
 
 #EXTINF:-1 tvg-id="26.ManaTV" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png",TV Alhijrah
@@ -537,7 +537,7 @@ https://cdnjktbpid22.transvision.co.id/riutx01/dash/VFJBTlM3LW15/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
 
-#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia", SCTV (B)
+#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia",SCTV (B)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -1284,7 +1284,7 @@ https://xn--p3t879b.store/world1/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.tvzonehd.com/
 https://xn--ehqq0muwlk95a0vi.store/world2/index.m3u8
 
-#EXTINF:-1 tvg-id="DAZN.1.it.it" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2020/06/14111741/DAZN.jpg" group-title="Sport",DAZN Italy ⚽️
+#EXTINF:-1 tvg-id="DAZN.1.it.it" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2020/06/14111741/DAZN.jpg" group-title="Sports",DAZN Italy ⚽️
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/322341.ts
 
 #EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/1280px-TVRI_Sport_2022.svg.png" group-title="Sports",TVRI Sport (A) ⚽️
