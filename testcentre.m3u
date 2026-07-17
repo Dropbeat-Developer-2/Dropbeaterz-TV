@@ -1,0 +1,67 @@
+#EXTM3U billed-msg="Dropbeaterz IPTV (Test Centre)"
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+#EXTINF:-1 group-title="TSN" group-logo="https://cdn.prod.website-files.com/5d655866b2055c7cbb5d79a1/5d7a6396e5f68d18117c7c14_tsnarticle88_1.jpg" 
+
+#EXTINF:-1 group-title="TSN",TSN 4K (1)
+http://example.local/CAN-TSN4KR.ts
+
+#EXTINF:-1 group-title="TSN",TSN 4K (2)
+http://example.local/CAN-TSN4K3.ts
+
+#EXTINF:-1 group-title="TSN",TSN 4K (3)
+https://mlb.mrgamingstreams.com/tsn4.m3u8
+
+#EXTINF:-1 group-title="TSN",TSN 4K (4)
+http://example.local/USA-TSN4KC.ts
+
+#EXTINF:-1 group-title="TSN",TSN 4K (5)
+http://hardcoremedia.xyz/rabdsbmz/3731346838/260805
+
+#EXTINF:-1 group-title="TSN",TSN 4K (6)
+https://iptv.852851.xyz/ch/0942b9e96609f74d93c34c66d541751a/master.m3u8
+
+#EXTINF:-1 group-title="TSN",TSN 4K (7)
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/119333
+
+#EXTINF:-1 group-title="TSN",TSN 4K (8)
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/119334
+
+#EXTINF:-1 group-title="TSN",TSN 4K (9)
+https://idabest.danng.me/live/stream-966c958f-1bc4-480f-9bbf-1df6d85c0636/index.m3u8?u=gar&p=e0744c4f36a51868827d50f338da6b60a421e7ea12778cce6c0c06c0e9afa4e5
+
+#EXTINF:-1 group-title="TSN",TSN 4K (10)
+http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/119333
+
+#EXTINF:-1 group-title="TSN",TSN 4K (11)
+http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/119334
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+#EXTINF:-1 group-title="Sky Sports UK" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Sky_logo_2025.svg/1280px-Sky_logo_2025.svg.png" 
+
+#EXTINF:-1 group-title="Sky Sports UK",Sky Sports Main Event (UHD) (1)
+http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/118947
+
+#EXTINF:-1 group-title="Sky Sports UK",Sky Sports Main Event (1)
+http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/9308/index.m3u8
+
+#EXTINF:-1 group-title="Sky Sports UK",Sky Sports Premier League (1)
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1312177&extension=m3u8
+
+#EXTINF:-1 group-title="Sky Sports UK",Sky Sports Premier League (2)
+http://54.36.61.6:8000/live/SkySportsUK/Uio450@hjdyj/128.ts
+
+#EXTINF:-1 group-title="Sky Sports UK",Sky Sports Premier League (3)
+http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/2435812
+
+#EXTINF:-1 group-title="Sky Sports UK",Sky Sports Premier League (4)
+http://185.23.213.162:8789/live/ania/ania/23442.m3u8
+
+#EXTINF:-1 group-title="Sky Sports UK",Sky Sports Premier League (5)
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98775.m3u8
+
+
+
+
