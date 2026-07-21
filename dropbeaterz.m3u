@@ -408,9 +408,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/605/default_primary.mpd
 
-#EXTINF:-1 tvg-id="Telemundo.Satellite.Feed.us2" group-title="World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1280px-Telemundo_logo_2018.svg.png",Telemundo
-http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465856
-
 #EXTINF:-1 tvg-id="Telemadrid.es" group-title="World" tvg-logo="https://static.wikia.nocookie.net/pingu/images/2/20/TeleMadrid_%28Logo%29.svg.png/revision/latest?cb=20260119161432",Telemadrid Internacional
 #EXTVLCOPT:http-origin=https://www.telemadrid.es
 #EXTVLCOPT:http-referrer=https://www.telemadrid.es/
