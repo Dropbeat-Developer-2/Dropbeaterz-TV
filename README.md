@@ -14,7 +14,7 @@ Contact admin in [Telegram](https://t.me/+tDP6Zdhm9iQyMzll).
 > [!WARNING]
 > The administrator of this playlist identities are private. Don't ask anything personal on the [Telegram](https://t.me/+tDP6Zdhm9iQyMzll).
 > Only two things that admin allow to spread.
-> Today's Admin Favorite Song: [U.S.A. by Dubioza Kolektiv]([https://www.dropbox.com/scl/fi/qwsriqebtkj3lbhv53vc2/Felicia_Sweden_2026_-_My_System_-SkySound.cc.mp3?rlkey=gcvzpaiddik1q9jzp7a1fb0y3&st=jz74ev92&dl=0](https://www.dropbox.com/scl/fi/vguznmekphw12xh3yuqsv/U.S.A..mp3?rlkey=oq26s16e9iqi8f8ax3d1zruqc&st=1sqwikk4&dl=0))
+> Today's Admin Favorite Song: [U.S.A. by Dubioza Kolektiv](https://www.dropbox.com/scl/fi/vguznmekphw12xh3yuqsv/U.S.A..mp3?rlkey=oq26s16e9iqi8f8ax3d1zruqc&st=1sqwikk4&dl=0)
 > &
 > Today's Admin Favorite Memes: [Electric Blanket](https://www.dropbox.com/scl/fi/o3qsgr9tvd7re72269gm4/tmpgftrl12n.mp4?rlkey=4ke4cp9j5rxup7vrp7xbatgyy&st=g6ss1zvb&dl=0)
 
