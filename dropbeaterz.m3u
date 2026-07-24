@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U billed-msg="Dropbeaterz IPTV (Random update code: VOK8$E)" url-tvg="https://onm.rocket-ott.shop/test/astro_guide.xml,https://raw.githubusercontent.com/zultan-m/astro-epg/refs/heads/main/astro_old.xml,https://onm.rocket-ott.shop/test/rtmklik_guide.xml,https://onm.rocket-ott.shop/test/unifi_guide.xml,https://onm.rocket-ott.shop/test/manatv_guide.xml,https://onm.rocket-ott.shop/test/starhub_epg.xml,https://onm.rocket-ott.shop/test/visionplus_guide.xml,https://walpak1.github.io/epg/starhub.xml,https://walpak1.github.io/epg/mewatch.xml,https://onm.rocket-ott.shop/test/sooka_guide.xml,https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml,https://onm.rocket-ott.shop/test/cubmu_epg.xml,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://onm.rocket-ott.shop/test/vidio_epg.xml,https://warningfm.github.io/x1/epg/guide.xml.gz,https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml" refresh="9000" vod_library="https://github.com/Dropbeat-Developer-2/Dropbeaterz-TV/raw/refs/heads/General/VOD&MUSIC,https://github.com/Dropbeat-Developer-2/SERIES/raw/refs/heads/main/Quran.m3u,https://github.com/Dropbeat-Developer-2/SERIES/raw/refs/heads/main/SERIES.m3u,https://github.com/ediey7523017/freetv/raw/main/HBO_MAX.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Others.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Astro.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Collection.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Asean.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_English.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Indian.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Kids.m3u,https://github.com/ediey7523017/freetv/raw/refs/heads/main/my2.m3u,https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/DewaNonton,https://raw.githubusercontent.com/DinasKegelapanKotaKonoha/romlah-gunadi/refs/heads/main/romlahvodwleowleowleo.m3u"
+#EXTM3U billed-msg="Dropbeaterz IPTV (Random update code: CW6@GV)" url-tvg="https://onm.rocket-ott.shop/test/astro_guide.xml,https://raw.githubusercontent.com/zultan-m/astro-epg/refs/heads/main/astro_old.xml,https://onm.rocket-ott.shop/test/rtmklik_guide.xml,https://onm.rocket-ott.shop/test/unifi_guide.xml,https://onm.rocket-ott.shop/test/manatv_guide.xml,https://onm.rocket-ott.shop/test/starhub_epg.xml,https://onm.rocket-ott.shop/test/visionplus_guide.xml,https://walpak1.github.io/epg/starhub.xml,https://walpak1.github.io/epg/mewatch.xml,https://onm.rocket-ott.shop/test/sooka_guide.xml,https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml,https://onm.rocket-ott.shop/test/cubmu_epg.xml,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://onm.rocket-ott.shop/test/vidio_epg.xml,https://warningfm.github.io/x1/epg/guide.xml.gz,https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml" refresh="9000" vod_library="https://github.com/Dropbeat-Developer-2/Dropbeaterz-TV/raw/refs/heads/General/VOD&MUSIC,https://github.com/Dropbeat-Developer-2/SERIES/raw/refs/heads/main/Quran.m3u,https://github.com/Dropbeat-Developer-2/SERIES/raw/refs/heads/main/SERIES.m3u,https://github.com/ediey7523017/freetv/raw/main/HBO_MAX.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Others.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Astro.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Collection.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Asean.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_English.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Indian.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Kids.m3u,https://github.com/ediey7523017/freetv/raw/refs/heads/main/my2.m3u,https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/DewaNonton,https://raw.githubusercontent.com/DinasKegelapanKotaKonoha/romlah-gunadi/refs/heads/main/romlahvodwleowleowleo.m3u"
 
 #######################################################################################################################################################################
 
@@ -1603,28 +1603,28 @@ https://live-aburayhan1109.telewebion.ir/ek/varzesh/live/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://rtmklik.rtm.gov.my
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-https://d30aylox5wvifh.cloudfront.net/live/media0/cg1/HLS/cg1.m3u8?id=35272
+https://d30aylox5wvifh.cloudfront.net/live/media0/cg1/DASH/cg1.mpd
 
 #EXTINF:-1 tvg-id="95.RTMKlik" tvg-logo="https://rtm-images.glueapi.io/420x0/live_channel/CommonwealthLogo2.png" group-title="Events",RTMKlik Commonwealth Glasgow 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://rtmklik.rtm.gov.my
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-https://d30aylox5wvifh.cloudfront.net/live/media0/cg2/HLS/cg2.m3u8?id=35273
+https://d30aylox5wvifh.cloudfront.net/live/media0/cg2/DASH/cg2.mpd
 
 #EXTINF:-1 tvg-id="96.RTMKlik" tvg-logo="https://rtm-images.glueapi.io/420x0/live_channel/CommonwealthLogo3.png" group-title="Events",RTMKlik Commonwealth Glasgow 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://rtmklik.rtm.gov.my
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-https://d30aylox5wvifh.cloudfront.net/live/media0/cg3/HLS/cg3.m3u8?id=35274
+https://d30aylox5wvifh.cloudfront.net/live/media0/cg3/DASH/cg3.mpd
 
 #EXTINF:-1 tvg-id="96.RTMKlik" tvg-logo="https://rtm-images.glueapi.io/420x0/live_channel/CommonwealthLogo4.png" group-title="Events",RTMKlik Commonwealth Glasgow 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://rtmklik.rtm.gov.my
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-https://d30aylox5wvifh.cloudfront.net/live/media0/cg4/HLS/cg4.m3u8?id=37086
+https://d30aylox5wvifh.cloudfront.net/live/media0/cg4/DASH/cg4.mpd
 
 #EXTINF:-1 tvg-id="251.StarHub" tvg-logo="https://www.starhub.com/content/dam/starhub/2026/business/ebg/fifa-world-cup/SH-IPTV-FIFA-Tile.jpg" group-title="Events",Starhub/Mediacorp FIFA World Cup 2026™ (A) (MOBILE DATA RECOMMENDED)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
