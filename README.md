@@ -7,7 +7,7 @@ In this playlist, you can watch everything you like based on your permission in 
 Contact admin in [Telegram](https://t.me/+tDP6Zdhm9iQyMzll).
 
 > [!IMPORTANT]
-> ***Disclaimer: This playlist is kinda unstable and only available in several locations and only can be access through OTT TV/OTT Player/OTT Navigator by SIA Scillarium Studio. So, some channels can't be accessible.***
+> ***Disclaimer: This playlist is kinda unstable and only available in several locations and recommended to use OTT TV/OTT Player/OTT Navigator by SIA Scillarium Studio. So, some channels can't be accessible.***
 
 # Admin's Word
 
