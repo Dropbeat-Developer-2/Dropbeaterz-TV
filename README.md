@@ -14,7 +14,7 @@ Contact admin in [Telegram](https://t.me/+tDP6Zdhm9iQyMzll).
 > [!WARNING]
 > The administrator of this playlist identities are private. Don't ask anything personal on the [Telegram](https://t.me/+tDP6Zdhm9iQyMzll).
 > Only two things that admin allow to spread.
-> Today's Admin Favorite Song: [U.S.A. by Dubioza Kolektiv](https://www.dropbox.com/scl/fi/vguznmekphw12xh3yuqsv/U.S.A..mp3?rlkey=oq26s16e9iqi8f8ax3d1zruqc&st=1sqwikk4&dl=0)
+> Today's Admin Favorite Song: [Bosanska Artiljerija by Muhamed Brkić Hamo]([https://www.dropbox.com/scl/fi/9cuszv57qm815clui5xj5/Bosanska-artiljerija.mp3?rlkey=b23chgd6vtsuxjhoenlwkjw2f&st=5b5mtyou&dl=0))
 > &
 > Today's Admin Favorite Memes: [Electric Blanket](https://www.dropbox.com/scl/fi/o3qsgr9tvd7re72269gm4/tmpgftrl12n.mp4?rlkey=4ke4cp9j5rxup7vrp7xbatgyy&st=g6ss1zvb&dl=0)
 
