@@ -1633,16 +1633,6 @@ https://d30aylox5wvifh.cloudfront.net/live/media0/cg3/DASH/cg3.mpd
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://d30aylox5wvifh.cloudfront.net/live/media0/cg4/DASH/cg4.mpd
 
-#EXTINF:-1 tvg-id="251.StarHub" tvg-logo="https://www.starhub.com/content/dam/starhub/2026/business/ebg/fifa-world-cup/SH-IPTV-FIFA-Tile.jpg" group-title="Events and Activities",Starhub/Mediacorp FIFA World Cup 2026™ (A) (MOBILE DATA RECOMMENDED)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9e695f8c65d74c6a9827a2e35367c086:decde9976ea76d1a91f91d9bf068f413
-https://ucdn.starhubgo.com/bpk-tv/FIFAWCCh1/output/manifest.mpd|X-Forwarded-For=119.56.77.101
-
-#EXTINF:-1 tvg-id="251.StarHub" tvg-logo="https://www.starhub.com/content/dam/starhub/2026/business/ebg/fifa-world-cup/SH-IPTV-FIFA-Tile.jpg" group-title="Events and Activities",Starhub/Mediacorp FIFA World Cup 2026™ (B)
-http://starhub.pro/live/farhat-3379/67897-913379/742610.ts
-
 #EXTINF:-1 tvg-id="4k_DIGITAL_Mono_AR.bein" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_FARATAR_UHD.png/1280px-IRIB_FARATAR_UHD.png" group-title="Events and Activities",IRIB Iran Faratar 4K
 #EXTVLCOPT:http-origin=https://telewebion.ir
 #EXTVLCOPT:http-referrer=https://telewebion.ir/
@@ -1662,10 +1652,10 @@ https://xn--ehqq0muwlk95a0vi.store/world2/index.m3u8
 
 #EXTINF:-1 group-title="Test Centre" group-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif"
 
-#EXTINF:-1 tvg-id="HaIP.test.1.dk" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 1
+#EXTINF:-1 tvg-id="251.StarHub" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 1
 http://205.235.6.29:8000/play/a0xa/index.m3u8
 
-#EXTINF:-1 tvg-id="HaIP.test.1.dk" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 2
+#EXTINF:-1 tvg-id="251.StarHub" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1675,22 +1665,22 @@ http://205.235.6.29:8000/play/a0xa/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.tvsarawak.my/
 https://dmetpubdxs86y.cloudfront.net/smil:tvs/manifest.mpd?id=1
 
-#EXTINF:-1 tvg-id="HaIP.test.1.dk" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 3
+#EXTINF:-1 tvg-id="251.StarHub" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
 https://live1.pro2cdnlive.com/live/channel1.m3u8
 
-#EXTINF:-1 tvg-id="HaIP.test.1.dk" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 4
+#EXTINF:-1 tvg-id="251.StarHub" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 4
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://iptv.kilas7.com:80/kaukia/asdfrewq/272
 
-#EXTINF:-1 tvg-id="HaIP.test.1.dk" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 5
+#EXTINF:-1 tvg-id="251.StarHub" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 5
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
 
-#EXTINF:-1 tvg-id="HaIP.test.1.dk" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 6
+#EXTINF:-1 tvg-id="251.StarHub" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1699,63 +1689,63 @@ https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash3.antik.sk/stream/nvidia_rtvs_sport/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-id="HaIP.test.1.dk" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 7
+#EXTINF:-1 tvg-id="251.StarHub" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 tvg-id="HaIP.test.1.dk" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 8
+#EXTINF:-1 tvg-id="251.StarHub" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5e1c798b16d24dc8cbfc7819abf77b4d:4ba5d9aeba2239b425d1cf7b45474333
 https://video.beeline.tv/live/d/channel317.isml/manifest-stb.mpd
 
-#EXTINF:-1 tvg-id="HaIP.test.1.dk" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 9
+#EXTINF:-1 tvg-id="251.StarHub" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 9
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-id="HaIP.test.1.dk" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 10
+#EXTINF:-1 tvg-id="251.StarHub" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 10
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://dash3.antik.sk/stream/nvidia_joj_sport_2/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-id="HaIP.test.1.dk" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 11
+#EXTINF:-1 tvg-id="251.StarHub" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fsb1uhd.m3u8
 
-#EXTINF:-1 tvg-id="HaIP.test.1.dk" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 12
+#EXTINF:-1 tvg-id="251.StarHub" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 12
 http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 
-#EXTINF:-1 tvg-id="HaIP.test.1.dk" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 13
+#EXTINF:-1 tvg-id="251.StarHub" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 13
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://iptv.kilas7.com:80/kaukia/asdfrewq/272
 
-#EXTINF:-1 tvg-id="HaIP.test.1.dk" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 14
+#EXTINF:-1 tvg-id="251.StarHub" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 14
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/266808
 
-#EXTINF:-1 tvg-id="HaIP.test.1.dk" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 15
+#EXTINF:-1 tvg-id="251.StarHub" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 15
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=114
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
-#EXTINF:-1 tvg-id="HaIP.test.1.dk" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 16
+#EXTINF:-1 tvg-id="251.StarHub" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 16
 http://202.169.224.202:8800/udp/239.9.1.9:1234
 
-#EXTINF:-1 tvg-id="HaIP.test.1.dk" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 17
+#EXTINF:-1 tvg-id="251.StarHub" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 17
 http://202.169.224.202:8800/udp/239.9.1.10:1234
 
-#EXTINF:-1 tvg-id="HaIP.test.1.dk" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 18
+#EXTINF:-1 tvg-id="251.StarHub" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 18
 http://202.169.224.202:8800/udp/239.9.1.11:1234
 
-#EXTINF:-1 tvg-id="HaIP.test.1.dk" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 19
+#EXTINF:-1 tvg-id="251.StarHub" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 19
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://103.148.44.38:8000/play/a05u/index.m3u8
 
-#EXTINF:-1 tvg-id="HaIP.test.1.dk" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 20
+#EXTINF:-1 tvg-id="251.StarHub" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 20
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1766,8 +1756,15 @@ https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 
 #EXTINF:-1 group-title="Unactive Channels" group-logo="https://www.pngall.com/wp-content/uploads/13/Red-X-PNG-Cutout.png"
 
-#EXTINF:-1 tvg-id="720.Unifi" tvg-logo="https://www.pngall.com/wp-content/uploads/13/Red-X-PNG-Cutout.png" group-title="Unactive Channels",Not Available For This Time
-https://www.dropbox.com/scl/fi/r6bsfygltkzw6k8p8kt61/YouCut_20260705_212746135.mp4?rlkey=mpqouis6wsswqvojw0bexsnt6&st=z3clpocr&dl=1
+#EXTINF:-1 tvg-id="251.StarHub" tvg-logo="https://www.pngall.com/wp-content/uploads/13/Red-X-PNG-Cutout.png" ggroup-title="Unactive Channels",1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e695f8c65d74c6a9827a2e35367c086:decde9976ea76d1a91f91d9bf068f413
+https://ucdn.starhubgo.com/bpk-tv/FIFAWCCh1/output/manifest.mpd|X-Forwarded-For=119.56.77.101
+
+#EXTINF:-1 tvg-id="251.StarHub" tvg-logo="https://www.pngall.com/wp-content/uploads/13/Red-X-PNG-Cutout.png" group-title="Unactive Channels",2
+http://starhub.pro/live/farhat-3379/67897-913379/742610.ts
 
 ###############################################################RADIO###################################################################
 
