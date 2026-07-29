@@ -1333,7 +1333,7 @@ https://live05.paznhl.app/live/24561735.m3u8
 #EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/1280px-TVRI_Sport_2022.svg.png" group-title="Sports",TVRI Sport (C)
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
-#EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYeh83SinE7EU9kd4zaZ5e3GkKC2_VDlQPTA&s" group-title="Sports ,Prima Sport 1 
+#EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYeh83SinE7EU9kd4zaZ5e3GkKC2_VDlQPTA&s" group-title="Sports",Prima Sport 1 
 #EXTVLCOPT:http-referrer=https://saruman1.tharen1.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://saruman1.tharen1.cfd/puk1/usergenrx0cir27aq.m3u8
@@ -1381,7 +1381,7 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/xperu6ixu9/out/v1/31d3
 #KODIPROP:inputstream.adaptive.license_key=8ec2e6248abe2e10e16e439c9b85ffd8:f121b015c2a5197828355fb6a874c297
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd
 
-#EXTINF:-1 tvg-id="Canal.TNT.(Chile).cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzdk3eorgbb2jfSbOW-O1AOTQ6hilCdXeBzOwAtVQ7TtO0-PsiCC-f71rZ&s=10" group-title="Sports",TNT Sports Chile (UDP)
+#EXTINF:-1 tvg-id="Canal.TNT.(Chile).cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzdk3eorgbb2jfSbOW-O1AOTQ6hilCdXeBzOwAtVQ7TtO0-PsiCC-f71rZ&s=10" group-title="Sports",TNT Sports Chile
 http://205.235.6.29:8000/play/a0xa/index.m3u8
 
 #EXTINF:-1 tvg-id="SPOTV.id" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png",SPOTV
