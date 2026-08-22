@@ -969,7 +969,7 @@ http://136.239.158.18:6610/001/2/ch00000090990000001216/manifest.mpd?AuthInfo=v8
 #EXTINF:-1 tvg-id="TVR.International.ro" group-title="World" tvg-logo="https://i.cdn.dejacast.com/tvr-international/live-1768491625.png",TVR Internațional
 https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Digi.24.ro" group-title="World" tvg-logo="https://i.cdn.dejacast.com/tvr-international/live-1768491625.png",DIGI24 Romania
+#EXTINF:-1 tvg-id="Digi.24.ro" group-title="World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Logo_Digi_24_%282023%29.svg/1280px-Logo_Digi_24_%282023%29.svg.png",DIGI24 Romania
 #EXTVLCOPT:http-origin=https://www.digi24.ro
 #EXTVLCOPT:http-referrer=https://www.digi24.ro/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 OPR/134.0.0.0
@@ -1347,7 +1347,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg02159-kcglobalmediasi-kcm-asia-hl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd
 
-#EXTINF:-1 tvg-id="Cinemaworld.id" tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png" group-title="Movies", CinemaWorld
+#EXTINF:-1 tvg-id="Cinemaworld.id" tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png" group-title="Movies & Entertainment", CinemaWorld
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
