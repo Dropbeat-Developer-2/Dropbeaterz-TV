@@ -14,8 +14,6 @@ https://www.dropbox.com/scl/fi/9cuszv57qm815clui5xj5/Bosanska-artiljerija.mp3?rl
 [MOVIES]
 
 #EXTINF:-1 tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p187285_p_v8_af.jpg" group-title="Movies",Cirque Du Freak: The Vampire Assistant
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://movibox.net
 #EXTVLCOPT:http-referrer=https://movibox.net/movies/cirque-du-freak-4gZslrvBaa7?id=6012781913197397032&type=/movie/detail&detailSe=&detailEp=&lang=en
 https://sbcdnw.hakunaymatata.com/dash/6012781913197397032_0_0_480_h265_817/index_web.mpd
