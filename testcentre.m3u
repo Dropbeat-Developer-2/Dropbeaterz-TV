@@ -2,96 +2,20 @@
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-#EXTINF:-1 group-title="Unifi TV" group-logo="https://media.karousell.com/media/photos/products/2025/3/14/yunni_keychain_plushie_merchan_1741928253_97ceea02_progressive"
+#EXTINF:-1 group-title="FAHH TV" group-logo="https://media.karousell.com/media/photos/products/2025/3/14/yunni_keychain_plushie_merchan_1741928253_97ceea02_progressive"
 
-#EXTINF:-1 group-title="Unifi TV",TV3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce43641a061a44fb9d95d986cfc9a68f:3d63855ca5cdfcfb765f306b98bcc646
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(TV3)/master.mpd?kid=ce43641a-061a-44fb-9d95-d986cfc9a68f
+#EXTINF:-1 group-title="FAHH TV",FUFUH ONE
+https://www.dropbox.com/scl/fi/2k3ivpe7hcaaq0p8hqou2/document_6086846811740316419.mp4?rlkey=65w968n4fdt5ws60c694lh58f&st=cm47g40n&dl=1
 
-#EXTINF:-1 group-title="Unifi TV",Didik TV KPM
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6f9bd00304a34972a80e5ff79aff982f:95a9dfd543b897f8edebf6db32877d79
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Didik)/master.mpd?kid=6f9bd003-04a3-4972-a80e-5ff79aff982f
 
-#EXTINF:-1 group-title="Unifi TV",8TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=da1cb24f55db4ae1b32319c365920539:721af66b9c3e8c4166b8b4586d1fbefd
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(8TV)/master.mpd?kid=da1cb24f-55db-4ae1-b323-19c365920539
 
-#EXTINF:-1 group-title="Unifi TV",TV9
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=eea0828c38d74407a5c384ad730d7224:250605c3d9734f7777e9c46fe5a6b176
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(TV9)/master.mpd?kid=eea0828c-38d7-4407-a5c3-84ad730d7224
 
-#EXTINF:-1 group-title="Unifi TV",Salam HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=32b2e71761af4641900f87df03c48cb2:974839fd58393a4e16b07d7027b05868
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Salam)/master.mpd?kid=32b2e717-61af-4641-900f-87df03c48cb2
 
-#EXTINF:-1 group-title="Unifi TV",SIAR
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5489f58c64ad40dba471c8b1c2693e2a:24acd49fa8aa6a5532dd045bab1f53e4
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(SIAR)/master.mpd?kid=5489f58c-64ad-40db-a471-c8b1c2693e2a
 
-#EXTINF:-1 group-title="Unifi TV",Dunia Sinema
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=01a17625701e4734b02aa22c8657bd6f:975a483df422455dbc29a1d83ed6f154
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(DuniaSin)/master.mpd?kid=01a17625-701e-4734-b02a-a22c8657bd6f
 
-#EXTINF:-1 group-title="Unifi TV",Degup
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.6972359084 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=a1623b766e4b48eb88cea29e1c309cc7:c21b36991b29928a80dc0a146beeac90
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(DEGUP)/master.mpd?kid=a1623b76-6e4b-48eb-88ce-a29e1c309cc7
 
-#EXTINF:-1 group-title="Unifi TV",PESONA
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d6a2211cff9545979f6f1a09851fa495:804119b128f5fe51dba371d18b3c70c5
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Pesona)/master.mpd?kid=d6a2211c-ff95-4597-9f6f-1a09851fa495
 
-#EXTINF:-1 group-title="Unifi TV",beIN SPORTS 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d48b6088253c443eb94d27cb7828f707:e9776141f9e949273a072b0e035070ab
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Bein1)/master.mpd?kid=d48b6088-253c-443e-b94d-27cb7828f707
 
-#EXTINF:-1 group-title="Unifi TV",beIN SPORTS 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=efa6ff1acefa43048e8b7adc21d98871:5d0f448b52a92035e3763c4a60275933
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Bein2)/master.mpd?kid=efa6ff1a-cefa-4304-8e8b-7adc21d98871
 
-#EXTINF:-1 group-title="Unifi TV",beIN SPORTS 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=816ee2f7c19f49ed84276f34541b465b:ca764a9973b6123a1112cffd3b32010d
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Bein3)/master.mpd?kid=816ee2f7-c19f-49ed-8427-6f34541b465b
 
-#EXTINF:-1 group-title="Unifi TV",beIN SPORTS 4
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d561ff976397473e9b456b44cdffcdd2:2b6cff42f7fae7e8bc32f3d5c62dc3c2
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Bein4)/master.mpd?kid=d561ff97-6397-473e-9b45-6b44cdffcdd2
+
