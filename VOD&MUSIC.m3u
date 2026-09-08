@@ -76,6 +76,11 @@ https://d13snj70thqlha.cloudfront.net/14230623-c321-4fa5-90c4-3869fb65c58f/AdaAp
 #KODIPROP:inputstream.adaptive.license_key=88d4182265fa8433e01273c81973e710:21393b7127120e3589571b217765254b
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/dash-wv/vode/1088c05e-fd96-5330-9424-c3e7814e820d/default_dash.mpd
 
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5c/Insidious-out-of-the-further-poster.png" group-title="Movies",Insidious: Out Of The Further (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 OPR/135.0.0.0
+#EXTVLCOPT:http-referrer=https://dm.1024tera.com/
+https://v4.freeterabox.com/video/netdisk-videotran-tky/36178908f85010f2a295bcd0d795da74_1138_1_ts/44eb941c0ef9627343eaba0df23108a0?ts_size=8096408&region=tky&ccn=MY&from_type=3&fsid=1028329665624463&iv=0&ouk=4401816682305&sta_cs=17&to=any&vuk=81366990194712&app_id=250528&dp-logid=47324450600131414&fn=Insidious_Chapter_2_%282013%29_Hindi_Dubbed_720P_HDMOVIE5.mkv.mp4&hit_sl=0&isplayer=1&logid=47324450600131414&r=79849703&raw_appid=0&ref=0&size=991015382&sta_dt=video&sta_dx=945&start_ply=0&time=1788876734&tot=ctoW9&ts_sl=0&uo=any&uva=2551350209&csl=0&dtime=10&etag=44eb941c0ef9627343eaba0df23108a0&fid=e4d420a7971c7a4f5c4494e8b86657e7-81366990194712&len=250792&range=1788068-2038859&resv4=&sign=BOUTHNFRQ-F3530edecde9cd71b79378b290804a96-Otf5XseryPJpBGRIgNWEdpwsEiY%253D&xcode=2e0f08d2c7a943a85e5246990c50639aeee9e42227791f70288571a1df109e992d22c1df1daa4bf5d3bdc63f17241d1c316128a2cdfcce4d&xv=6&ogr=0&rrg=XVVi&need_suf=&pmk=140044eb941c0ef9627343eaba0df23108a034a21bb20000007b8a98&by=my-streaming
+
 [VIDEOS]
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/v_3pq8J3O3mr3ob0PRkjDbwAUiuR4P1iPPR4Zh88hj1ePZAVkc-b6-PJBNEyGG3uRHTgVD7T=s72-c-k-c0x00ffffff-no-rj" group-title="Videos",eNews
