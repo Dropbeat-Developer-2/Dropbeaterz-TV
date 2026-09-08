@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U billed-msg="Dropbeaterz IPTV (Random update code: M9ØŶ^P)" url-tvg="https://onm.rocket-ott.shop/test/astro_guide.xml,https://gist.githubusercontent.com/miece/e30ca1108c0dc027dab307cbcfeb9035/raw/2b1fcffac9549c9c01b87fdfdb386b3fada5a31d/epg.xml,https://raw.githubusercontent.com/zultan-m/astro-epg/refs/heads/main/astro.xml,https://onm.rocket-ott.shop/test/rtmklik_guide.xml,https://onm.rocket-ott.shop/test/unifi_guide.xml,https://onm.rocket-ott.shop/test/manatv_guide.xml,https://onm.rocket-ott.shop/test/starhub_epg.xml,https://onm.rocket-ott.shop/test/visionplus_guide.xml,https://walpak1.github.io/epg/starhub.xml,https://walpak1.github.io/epg/mewatch.xml,https://onm.rocket-ott.shop/test/sooka_guide.xml,https://onm.rocket-ott.shop/test/cubmu_epg.xml,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://onm.rocket-ott.shop/test/vidio_epg.xml,https://warningfm.github.io/x1/epg/guide.xml.gz,https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml" refresh="1080" vod_library="https://github.com/Dropbeat-Developer-2/Dropbeaterz-TV/raw/refs/heads/General/VOD&MUSIC.m3u,https://github.com/Dropbeat-Developer-2/SERIES/raw/refs/heads/main/Quran.m3u,https://github.com/Dropbeat-Developer-2/SERIES/raw/refs/heads/main/SERIES.m3u,https://github.com/ediey7523017/freetv/raw/main/HBO_MAX.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Others.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Astro.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Collection.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Asean.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_English.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Indian.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Kids.m3u,https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/DewaNonton,https://raw.githubusercontent.com/DinasKegelapanKotaKonoha/romlah-gunadi/refs/heads/main/romlahvodwleowleowleo.m3u"
+#EXTM3U billed-msg="Dropbeaterz IPTV (Random update code: 5&SÄKØ)" url-tvg="https://onm.rocket-ott.shop/test/astro_guide.xml,https://gist.githubusercontent.com/miece/e30ca1108c0dc027dab307cbcfeb9035/raw/2b1fcffac9549c9c01b87fdfdb386b3fada5a31d/epg.xml,https://raw.githubusercontent.com/zultan-m/astro-epg/refs/heads/main/astro.xml,https://onm.rocket-ott.shop/test/rtmklik_guide.xml,https://onm.rocket-ott.shop/test/unifi_guide.xml,https://onm.rocket-ott.shop/test/manatv_guide.xml,https://onm.rocket-ott.shop/test/starhub_epg.xml,https://onm.rocket-ott.shop/test/visionplus_guide.xml,https://walpak1.github.io/epg/starhub.xml,https://walpak1.github.io/epg/mewatch.xml,https://onm.rocket-ott.shop/test/sooka_guide.xml,https://onm.rocket-ott.shop/test/cubmu_epg.xml,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://onm.rocket-ott.shop/test/vidio_epg.xml,https://warningfm.github.io/x1/epg/guide.xml.gz,https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml" refresh="1080" vod_library="https://github.com/Dropbeat-Developer-2/Dropbeaterz-TV/raw/refs/heads/General/VOD&MUSIC.m3u,https://github.com/Dropbeat-Developer-2/SERIES/raw/refs/heads/main/Quran.m3u,https://github.com/Dropbeat-Developer-2/SERIES/raw/refs/heads/main/SERIES.m3u,https://github.com/ediey7523017/freetv/raw/main/HBO_MAX.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Others.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Astro.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Collection.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Asean.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_English.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Indian.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Kids.m3u,https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/DewaNonton,https://raw.githubusercontent.com/DinasKegelapanKotaKonoha/romlah-gunadi/refs/heads/main/romlahvodwleowleowleo.m3u"
 
 #######################################################################################################################################################################
 
@@ -1161,7 +1161,7 @@ https://ucdn.starhubgo.com/bpk-tv/ANC/output/manifest.mpd|X-Forwarded-For=119.56
 #EXTINF:-1 tvg-id="TVR.International.ro" group-title="World" tvg-logo="https://i.cdn.dejacast.com/tvr-international/live-1768491625.png",TVR Internațional
 https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Digi.24.ro" group-title="World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Logo_Digi_24_%282023%29.svg/1280px-Logo_Digi_24_%282023%29.svg.png",DIGI24 Romania
+#EXTINF:-1 tvg-id="Digi.24.ro" group-title="World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Logo_Digi_24_%282023%29.svg/1280px-Logo_Digi_24_%282023%29.svg.png",DIGI24 Romania (A)
 #EXTVLCOPT:http-origin=https://www.digi24.ro
 #EXTVLCOPT:http-referrer=https://www.digi24.ro/
 #EXTVLCOPT:network-caching=10000
@@ -1172,6 +1172,12 @@ https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.sm
 #EXTVLCOPT:http-continuous=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 OPR/134.0.0.0
 https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
+
+#EXTINF:-1 tvg-id="Digi.24.ro" group-title="World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Logo_Digi_24_%282023%29.svg/1280px-Logo_Digi_24_%282023%29.svg.png",DIGI24 Romania (B)
+http://vlue.vip:80/live/0505977160Ali/1814621320/777718.ts
+
+#EXTINF:-1 tvg-id="Digi.24.ro" group-title="World" tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/e/e9/Pro_TV_International_osb.svg/revision/latest/scale-to-width-down/2534?cb=20220824210536&path-prefix=pl",Pro TV International
+http://vlue.vip:80/live/0505977160Ali/1814621320/777718.ts
 
 #EXTINF:-1 group-title="World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/RTB_Sukmaindera_%282%29.png",RTB Sukmaindera
 #EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
@@ -1924,6 +1930,18 @@ http://opplextv.cyou:8080/nasir6160/nasir/351052
 #KODIPROP:inputstream.adaptive.license_key=618880fd141330378cf6aff5d48a252c:835e5fc97bfec870d8ac7e3d145e14ad
 https://tencent-css.byteplaycdn.com/0b3ac0d9e956a77cb058d9e2f780ccf5/6A2E46AB/Content/DASH_ENC2/Live/channel(tselwc2)/master.mpd
 
+#EXTINF:-1 tvg-id="Digi.Sport.1.HD.ro" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/svrprs1436105433.png" group-title="Sports",DIGI Sport 1
+http://vlue.vip:80/live/0505977160Ali/1814621320/777672.ts
+
+#EXTINF:-1 tvg-id="Digi.Sport.2.HD.ro" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/9/93/Digi_Sport_2_%282018-.n.v.%29.png" group-title="Sports",DIGI Sport 2
+http://vlue.vip:80/live/0505977160Ali/1814621320/777674.ts
+
+#EXTINF:-1 tvg-id="Digi.Sport.3.HD.ro" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/utuqys1454953276.png" group-title="Sports",DIGI Sport 3
+http://vlue.vip:80/live/0505977160Ali/1814621320/777676.ts
+
+#EXTINF:-1 tvg-id="Digi.Sport.4.HD.ro" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/d6/Digi_Sport_4_%282018-.n.v.%29.png" group-title="Sports",DIGI Sport 4
+http://vlue.vip:80/live/0505977160Ali/1814621320/777678.ts
+
 #EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Prima_Sport_1_new.svg/revision/latest/scale-to-width-down/150?cb=20220418213615" group-title="Sports",Prima Sport 1 
 #EXTVLCOPT:http-referrer=https://saruman1.tharen1.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
@@ -1949,7 +1967,7 @@ https://galandriel1.thobias11.cfd/puk4/usergendx42x9qrnd.m3u8
 #EXTVLCOPT:http-referrer=https://galandriel1.thobias11.cfd/000/
 https://galandriel1.thobias11.cfd/puk5/usergen0grnd3y8.m3u8
 
-#EXTINF:-1 tvg-id="Eurosport.4K.ro" tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/b/bf/ES4Kekr2018.png/revision/latest?cb=20240812094556&path-prefix=pl" group-title="Sports",Eurosport 4K (UNSTABLE)
+#EXTINF:-1 tvg-id="Eurosport.4K.IPTV.rs" tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/b/bf/ES4Kekr2018.png/revision/latest?cb=20240812094556&path-prefix=pl" group-title="Sports",Eurosport 4K (UNSTABLE)
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:deinterlace=1
 #EXTVLCOPT:deinterlace-mode=yadif
