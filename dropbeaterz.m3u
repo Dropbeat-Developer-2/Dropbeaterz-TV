@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U billed-msg="Dropbeaterz IPTV (Random update code: 4ÑÆẞ&Ž)" url-tvg="https://raw.githubusercontent.com/dbghelp/mewatch-EPG/refs/heads/main/mewatch.xml,https://onm.rocket-ott.shop/test/astro_guide.xml,https://gist.githubusercontent.com/miece/e30ca1108c0dc027dab307cbcfeb9035/raw/2b1fcffac9549c9c01b87fdfdb386b3fada5a31d/epg.xml,https://raw.githubusercontent.com/zultan-m/astro-epg/refs/heads/main/astro.xml,https://onm.rocket-ott.shop/test/rtmklik_guide.xml,https://onm.rocket-ott.shop/test/unifi_guide.xml,https://onm.rocket-ott.shop/test/manatv_guide.xml,https://onm.rocket-ott.shop/test/starhub_epg.xml,https://onm.rocket-ott.shop/test/visionplus_guide.xml,https://walpak1.github.io/epg/starhub.xml,https://walpak1.github.io/epg/mewatch.xml,https://onm.rocket-ott.shop/test/sooka_guide.xml,https://onm.rocket-ott.shop/test/cubmu_epg.xml,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://onm.rocket-ott.shop/test/vidio_epg.xml,https://warningfm.github.io/x1/epg/guide.xml.gz,https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml" refresh="1080" vod_library="https://github.com/Dropbeat-Developer-2/Dropbeaterz-TV/raw/refs/heads/General/VOD&MUSIC.m3u,https://github.com/Dropbeat-Developer-2/SERIES/raw/refs/heads/main/Quran.m3u,https://github.com/Dropbeat-Developer-2/SERIES/raw/refs/heads/main/SERIES.m3u,https://github.com/ediey7523017/freetv/raw/main/HBO_MAX.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Others.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Astro.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Collection.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Asean.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_English.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Indian.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Kids.m3u,https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/DewaNonton,https://raw.githubusercontent.com/DinasKegelapanKotaKonoha/romlah-gunadi/refs/heads/main/romlahvodwleowleowleo.m3u"
+#EXTM3U billed-msg="Dropbeaterz IPTV (Random update code: ÆĶẞU&8)" url-tvg="https://raw.githubusercontent.com/dbghelp/mewatch-EPG/refs/heads/main/mewatch.xml,https://onm.rocket-ott.shop/test/astro_guide.xml,https://raw.githubusercontent.com/zultan-m/astro-epg/refs/heads/main/astro.xml,https://onm.rocket-ott.shop/test/rtmklik_guide.xml,https://onm.rocket-ott.shop/test/unifi_guide.xml,https://onm.rocket-ott.shop/test/manatv_guide.xml,https://onm.rocket-ott.shop/test/starhub_epg.xml,https://onm.rocket-ott.shop/test/visionplus_guide.xml,https://walpak1.github.io/epg/starhub.xml,https://walpak1.github.io/epg/mewatch.xml,https://onm.rocket-ott.shop/test/sooka_guide.xml,https://onm.rocket-ott.shop/test/cubmu_epg.xml,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://onm.rocket-ott.shop/test/vidio_epg.xml,https://warningfm.github.io/x1/epg/guide.xml.gz,https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml" refresh="1080" vod_library="https://github.com/Dropbeat-Developer-2/Dropbeaterz-TV/raw/refs/heads/General/VOD&MUSIC.m3u,https://github.com/Dropbeat-Developer-2/SERIES/raw/refs/heads/main/Quran.m3u,https://github.com/Dropbeat-Developer-2/SERIES/raw/refs/heads/main/SERIES.m3u,https://github.com/Dropbeat-Developer-2/singleplay/raw/refs/heads/main/VOD-ASIA.m3u,https://github.com/ediey7523017/freetv/raw/main/HBO_MAX.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Others.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Astro.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Collection.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_English.m3u,https://free.ptv2026.com/PerfecttvFree3.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Indian.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Kids.m3u,https://raw.githubusercontent.com/DinasKegelapanKotaKonoha/romlah-gunadi/refs/heads/main/romlahvodwleowleowleo.m3u"
 
 #######################################################################################################################################################################
 
@@ -955,7 +955,7 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 #EXTINF:-1 tvg-id="WION.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/WION_news_Logo.svg/960px-WION_news_Logo.svg.png" group-title="World",WION 
 #EXTVLCOPT:http-origin=https://www.wionews.com
 #EXTVLCOPT:http-referrer=https://www.wionews.com/
-https://d7x8z4yuq42qn.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODcwNDM2NDR9.IpxrJ6XAL2d1JfA2MIWUN6EMgNK7I_L3HaZ7g2cBDpg
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 
 #EXTINF:-1 tvg-id="503.astro" group-title="World" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CGTN_v1.png",CGTN (English)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1009,12 +1009,20 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/605/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=bef2c7c91c7841d3bce5338fe469d302:f2bf28552449a758c950e84bddc6f150
 https://tglmp03.akamaized.net/out/v1/f97b5eedb5ec4b4ea770859bd4e9d28e/manifest.mpd
 
-#EXTINF:-1 tvg-id="NHKWORLDJAPANHD.sg" group-title="World" tvg-logo="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=272",NHK World (Japan Feed)
+#EXTINF:-1 tvg-id="NHKWORLDJAPANHD.sg" group-title="World" tvg-logo="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=272",NHK World (Japan Feed A)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=62057e40fcd64088a7fb8ae537047af2:1a0c2df99e5048484b35835e9fcd7a0d
 https://ucdn.starhubgo.com/bpk-tv/NHKWORLDJAPAN/output/manifest.mpd|X-Forwarded-For=119.56.77.101
+
+#EXTINF:-1 tvg-id="NHKWORLDJAPANHD.sg" group-title="World" tvg-logo="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=272",NHK World (Japan Feed B)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd1e473b4fac4c13b6bd73014a14df4e:602617c77b787b240308567f1f04df20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=NHK&kid=bd1e473b-4fac-4c13-b6bd-73014a14df4e
 
 #EXTINF:-1 tvg-id="398.astro" group-title="World" tvg-logo="http://linear-poster.astro.com.my/prod/logo/NHK_World_v1.png",NHK World (Premium Edition)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1558,18 +1566,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
 
-#EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-logo="https://www.visionplus.id/images/repository/616/616-LOGO-m.png" group-title="Movies & Entertainment",Galaxy Premium
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-http://zozotv.xyz:8080/live/DW3152A/@my8074/109.ts
-
-#EXTINF:-1 tvg-id="StudioUniversal.id" tvg-logo="https://i.ibb.co/LDCzm6wP/Studio-Universal.webp" group-title="Movies & Entertainment",Studio Universal
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://live-channel4-cdn.visionplus.id/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
-
 #EXTINF:-1 tvg-id="Uniques.id" tvg-logo="https://www.visionplus.id/images/repository/397/273397-LOGO-m.png" group-title="Movies & Entertainment",Uniques
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5a6668f3a5d64338bce13307e5c570be:d0c76237c5ee38e7a420e9c83323023e
@@ -1587,12 +1583,6 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/in
 #KODIPROP:inputstream.adaptive.license_key=c7b3852d9c84418f942923e41c31e633:ddb99755e0bebd98c92c7eab974bf161
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
-
-#EXTINF:-1 tvg-id="BuddyStar.id" tvg-logo="https://www.visionplus.id/images/repository/392/273392-LOGO-m.png" group-title="Movies & Entertainment",Buddystar
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2bfc3e059a9f4176b835a15c9a0c0dac:265c00f7fd825ad3e092b56081953b60
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://live-channel4-cdn.visionplus.id/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
 
 #EXTINF:-1 tvg-id="Superrix.id" tvg-logo="https://www.visionplus.id/images/repository/394/273394-LOGO-m.png" group-title="Movies & Entertainment",SuperRix
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1861,7 +1851,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991696/hls/playlist.m3u8?ads.xumo_c
 #KODIPROP:inputstream.adaptive.license_key=a4b2fe10c9d62d32220e8ea2dceda6f9:e6e1173c892f7fbd60a37a76a78935cb
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/out/v1/813bba04214e4f4dab57f0129365635a/cenc.mpd
 
-#EXTINF:-1 tvg-id="82.Sooka" group-title="Sports" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/257dcfWD_Sports.png",WeDoTV Sports
+#EXTINF:-1 tvg-id="78.Sooka" group-title="Sports" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/257dcfWD_Sports.png",WeDoTV Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://amg00735-amg00735c45-astrosooka-singapore-7035.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedosportsasia-astrosookasingapore/playlist.m3u8
@@ -1887,15 +1877,39 @@ https://pildun.cob.web.id/hls3-lo/index.m3u8
 http://opplextv.cyou:8080/nasir6160/nasir/351052
 
 #EXTINF:-1 tvg-id="Digi.Sport.1.HD.ro" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/svrprs1436105433.png" group-title="Sports",DIGI Sport 1
-https://raw.githubusercontent.com/B-inal-123/s-eropa/refs/heads/inal-22/Digisport1.m3u8
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:deinterlace=1
+#EXTVLCOPT:deinterlace-mode=yadif
+#EXTVLCOPT:avcodec-hw=any
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+http://cmskos.bekaks.net:777/valard_klient2/PhcWLtKTuc/2466
 
 #EXTINF:-1 tvg-id="Digi.Sport.2.HD.ro" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/9/93/Digi_Sport_2_%282018-.n.v.%29.png" group-title="Sports",DIGI Sport 2
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:deinterlace=1
+#EXTVLCOPT:deinterlace-mode=yadif
+#EXTVLCOPT:avcodec-hw=any
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
 http://lite1kh.com:80/190799414865/CDt6HaugYo2jLWl/170934
 
 #EXTINF:-1 tvg-id="Digi.Sport.3.HD.ro" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/utuqys1454953276.png" group-title="Sports",DIGI Sport 3
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:deinterlace=1
+#EXTVLCOPT:deinterlace-mode=yadif
+#EXTVLCOPT:avcodec-hw=any
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
 http://lite1kh.com:80/190799414865/CDt6HaugYo2jLWl/170935
 
 #EXTINF:-1 tvg-id="Digi.Sport.4.HD.ro" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/d6/Digi_Sport_4_%282018-.n.v.%29.png" group-title="Sports",DIGI Sport 4
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:deinterlace=1
+#EXTVLCOPT:deinterlace-mode=yadif
+#EXTVLCOPT:avcodec-hw=any
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
 http://lite1kh.com:80/190799414865/CDt6HaugYo2jLWl/170937
 
 #EXTINF:-1 tvg-id="Eurosport.4K.IPTV.rs" tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/b/bf/ES4Kekr2018.png/revision/latest?cb=20240812094556&path-prefix=pl" group-title="Sports",Eurosport 4K (UNSTABLE)
@@ -2040,7 +2054,7 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41RzlfyNlv70__ShdhqI6ny-uFPYctPvKGdiO8al98r9Q=qmon/dash-wv/jitp-linearwm/408/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/41RzlfyNlv70__ShdhqI6nyzhtmZG78UrI2hHyHmxx8C4=RtOg/dash-wv/jitp-linearwm/408/default_primary.mpd
 
 #EXTINF:-1 tvg-id="beINSports1.au" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORT1.png" group-title="Sports",beIN SPORTS 1 (Australia Feed)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -2068,7 +2082,7 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41181DXn8LK0ABYk-9vGnrc20AQ28APqzuAHKtK32EUjs=5tCd/dash-wv/jitp-linearwm/5066/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/41181DXn8LK0ABYk-9vGnrczpa5s86CRCA-_3ve_6lLJE=Ywz8/dash-wv/jitp-linearwm/5066/default_primary.mpd
 
 #EXTINF:-1 tvg-id="beINSports2.au" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png" group-title="Sports",beIN SPORTS 2 (Australia Feed)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -2217,7 +2231,7 @@ https://load.ptv2026.com/dash3.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://4c0a6c7981954190aba1739e27e3dec8.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH28-dash/vsg/41RQx4PiH7uDuNeQnn_GK6CxsOWf-4Hx6J8Ic80b7M4FU=Lp1-/dash-wv/jitp-dashisowm/2701/default_primary.mpd
+https://4c0a6c7981954190aba1739e27e3dec8.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH28-dash/vsg/41RQx4PiH7uDuNeQnn_GK6C_RMvYCjwtaImjDsJE19f5g=j4iV/dash-wv/jitp-dashisowm/2701/default_primary.mpd
 
 #EXTINF:-1 tvg-id="810.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroGrandstand_2024.png" group-title="Sports",Astro Grandstand (C)
 #EXTVLCOPT:network-caching=10000
@@ -2226,13 +2240,12 @@ https://4c0a6c7981954190aba1739e27e3dec8.mediatailor.ap-southeast-1.amazonaws.co
 #EXTVLCOPT:avcodec-hw=any
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-continuous=true
-http://91.231.229.1:2005/live/play/UkVvdmJrMUxWMHhJZVcxMFUxQXdRMlpRYkdGcFJuRkdkeko1UW14NFRIZzBNVkkwZFVOUFkxWldTVDA9/115617
 
 #EXTINF:-1 tvg-id="811.astro" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png",Astro Premier League (A)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://53308ba99bd1418388e4bff908902bf9.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH26-dash/vsg/41vtsIyDk7vi_kLoDPK3f_TbFqSYJ1aLHn_HSPKDd1AWQ=lBG-/dash-wv/jitp-dashisowm/601/default_primary.mpd
+https://53308ba99bd1418388e4bff908902bf9.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH26-dash/vsg/41vtsIyDk7vi_kLoDPK3f_TSe5ahdep2NNlpzC1_oZ5vo=vRhA/dash-wv/jitp-dashisowm/601/default_primary.mpd
 
 #EXTINF:-1 tvg-id="811.astro" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png",Astro Premier League (B)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2243,7 +2256,7 @@ https://load.ptv2026.com/dash3.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=c1dc92f0789f112503c0db3bde2f1210:ddfa6e8d549b4d5177a9cade7f9a0b23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://09494360a707453480cd47f514ea1800.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH27-dash/vsg/41syRtykKLO7mP1DjFqHDmUh7NxN4NFa7oZ996yrZXCp0=DTBZ/dash-wv/jitp-dashisowm/2104/default_primary.mpd
+https://09494360a707453480cd47f514ea1800.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH27-dash/vsg/41syRtykKLO7mP1DjFqHDmUoduO_d-nTiScdNo--gKR_g=Ig82/dash-wv/jitp-dashisowm/2104/default_primary.mpd
 
 #EXTINF:-1 tvg-id="812.astro" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png",Astro Premier League 2 (B)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2407,31 +2420,31 @@ https://d30aylox5wvifh.cloudfront.net/live/media0/event5/DASH/event5.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 https://d30aylox5wvifh.cloudfront.net/live/media0/event6/DASH/event6.mpd
 
-#EXTINF:-1 tvg-id="795.astro" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/4/4d/2026_Asian_Games_logo.svg/500px-2026_Asian_Games_logo.svg.png" group-title="Live Events & Pop-up Channels",Asian Games ASTRO-CH1
+#EXTINF:-1 tvg-id="81.Sooka" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/4/4d/2026_Asian_Games_logo.svg/500px-2026_Asian_Games_logo.svg.png" group-title="Live Events & Pop-up Channels",Asian Games ASTRO-CH1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e6284c2123706edefc59bb0c0548e10:c5f3d526135aa295d290f76ee6cb7479
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5601/default_primary.mpd
 
-#EXTINF:-1 tvg-id="796.astro" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/4/4d/2026_Asian_Games_logo.svg/500px-2026_Asian_Games_logo.svg.png" group-title="Live Events & Pop-up Channels",Asian Games ASTRO-CH2
+#EXTINF:-1 tvg-id="82.Sooka" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/4/4d/2026_Asian_Games_logo.svg/500px-2026_Asian_Games_logo.svg.png" group-title="Live Events & Pop-up Channels",Asian Games ASTRO-CH2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=339cbed6dbf4fef81a19d9168feb7910:52a5c7fecad0558e094903fdc8b7cd77
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5602/default_primary.mpd
 
-#EXTINF:-1 tvg-id="797.astro" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/4/4d/2026_Asian_Games_logo.svg/500px-2026_Asian_Games_logo.svg.png" group-title="Live Events & Pop-up Channels",Asian Games ASTRO-CH3
+#EXTINF:-1 tvg-id="83.Sooka" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/4/4d/2026_Asian_Games_logo.svg/500px-2026_Asian_Games_logo.svg.png" group-title="Live Events & Pop-up Channels",Asian Games ASTRO-CH3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=500b319392940c187ba932a698780710:ebeae1a0c632461ef99d19122e9408e5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5603/default_primary.mpd
 
-#EXTINF:-1 tvg-id="798.astro" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/4/4d/2026_Asian_Games_logo.svg/500px-2026_Asian_Games_logo.svg.png" group-title="Live Events & Pop-up Channels",Asian Games ASTRO-CH4
+#EXTINF:-1 tvg-id="84.Sooka" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/4/4d/2026_Asian_Games_logo.svg/500px-2026_Asian_Games_logo.svg.png" group-title="Live Events & Pop-up Channels",Asian Games ASTRO-CH4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c4895263310ac2bdaa9ccff1b654510:81e12ab4c7bb25b2d9f5849c794379de
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5604/default_primary.mpd
 
-#EXTINF:-1 tvg-id="799.astro" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/4/4d/2026_Asian_Games_logo.svg/500px-2026_Asian_Games_logo.svg.png" group-title="Live Events & Pop-up Channels",Asian Games ASTRO-CH5
+#EXTINF:-1 tvg-id="85.Sooka" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/4/4d/2026_Asian_Games_logo.svg/500px-2026_Asian_Games_logo.svg.png" group-title="Live Events & Pop-up Channels",Asian Games ASTRO-CH5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=19632b63cf668de01b77ded6d7a9af10:d69222bf7b387b1b72a358e0b8db5402
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
@@ -2458,7 +2471,7 @@ https://vodcdn.bamboo-cloud.com/livehls/6a81edf1063044437202e65c/master.m3u8
 #EXTINF:-1 group-title="Test Centre" group-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif"
 
 #EXTINF:-1 tvg-id="101.StarHub" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 1
-https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist/rum/live_hd.m3u8?offsetSeconds=0&url=0
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist/rum/live_hd.m3u8
 
 #EXTINF:-1 tvg-id="101.StarHub" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2574
@@ -2473,10 +2486,14 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2574
 https://s.id/Shareext_liga1_m3u8
 
 #EXTINF:-1 tvg-id="101.StarHub" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 4
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+https://www.dropbox.com/scl/fi/m47boybcoyedikarxgkv7/YouCut_20260923_214059311.mp4?rlkey=h3czmeeoian5cmphlvnnlc568&st=znsf8lpn&dl=1
 
 #EXTINF:-1 tvg-id="101.StarHub" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 5
-http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=94472526cc92471493d46543faefadda:36658f2faa1f09f206a2f448ac653e2d
+https://ucdn.starhubgo.com/bpk-tv/Preview/output/manifest.mpd|X-Forwarded-For=119.56.77.101
 
 #EXTINF:-1 tvg-id="101.StarHub" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 6
 #EXTVLCOPT:network-caching=10000
@@ -2506,13 +2523,7 @@ http://mains.services:80/live/9982659680/2285211317/116069.ts
 http://supgom.xyz:80/44659DC712A881F/z1QCJdKfa4/17286
 
 #EXTINF:-1 tvg-id="101.StarHub" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 9
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:deinterlace=1
-#EXTVLCOPT:deinterlace-mode=yadif
-#EXTVLCOPT:avcodec-hw=any
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-http://cmskos.bekaks.net:777/valard_klient2/PhcWLtKTuc/2466
+https://jmp2.uk/sam-USBB1000002TK.m3u8
 
 #EXTINF:-1 tvg-id="101.StarHub" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 10
 http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
@@ -2562,15 +2573,10 @@ https://ucdn.starhubgo.com/bpk-tv/ETTVHD/output/manifest.mpd|X-Forwarded-For=119
 https://ucdn.starhubgo.com/bpk-tv/DragonTV/output/manifest.mpd|X-Forwarded-For=119.56.77.101
 
 #EXTINF:-1 tvg-id="101.StarHub" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 19
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=94472526cc92471493d46543faefadda:36658f2faa1f09f206a2f448ac653e2d
-https://ucdn.starhubgo.com/bpk-tv/Preview/output/manifest.mpd|X-Forwarded-For=119.56.77.101
+https://jmp2.uk/sam-INBD4000058T.m3u8
 
 #EXTINF:-1 tvg-id="101.StarHub" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 20
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://103.170.100.42:6799/live/stream/channelid/21976998.m3u8?profile=pass
+https://jmp2.uk/sam-USBA3800004EL.m3u8
 
 #EXTINF:-1 tvg-id="101.StarHub" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 21
 #EXTVLCOPT:network-caching=10000
