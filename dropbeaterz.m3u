@@ -30,7 +30,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="101.ManaTV" group-title="Malaysia" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv1_Trans.png",TV1 (MYTV MM2)
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.mpd
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
 #EXTINF:-1 tvg-id="101.Unifi" group-title="Malaysia" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv1_Trans.png",TV1 (UNIFITV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -55,7 +55,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="102.ManaTV" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv2_Trans.png" group-title="Malaysia",TV2 (MYTV MM2)
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.mpd
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 #EXTINF:-1 tvg-id="102.Unifi" group-title="Malaysia" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv2_Trans.png",TV2 (UNIFITV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -185,37 +185,37 @@ https://d25tgymtnqzu8s.cloudfront.net/live/media0/negara/DASH/negara.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
-https://d1sq2slp9afh7o.cloudfront.net/smil:snap/playlist.mpd
+https://d1sq2slp9afh7o.cloudfront.net/smil:snap/manifest.mpd
 
 #EXTINF:-1 tvg-id="81.RTMKlik" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/LEAD_CHANNEL.jpg" group-title="Malaysia",RTM Lead
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://d1sq2slp9afh7o.cloudfront.net/smil:lead/playlist.mpd
+https://d1sq2slp9afh7o.cloudfront.net/smil:lead/manifest.mpd
 
 #EXTINF:-1 tvg-id="85.RTMKlik" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/APETITO_CHANNEL.jpg" group-title="Malaysia",RTM Apetito
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/playlist.mpd
+https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/manifest.mpd
 
 #EXTINF:-1 tvg-id="89.RTMKlik" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/FITRAH_CHANNEL.jpg" group-title="Malaysia",RTM Fitrah
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/playlist.mpd
+https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/manifest.mpd
 
 #EXTINF:-1 tvg-id="83.RTMKlik tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/JR_CHANNEL.jpg" group-title="Malaysia",RTM Junior
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://d1sq2slp9afh7o.cloudfront.net/smil:jr/playlist.mpd
+https://d1sq2slp9afh7o.cloudfront.net/smil:jr/manifest.mpd
 
 #EXTINF:-1 tvg-id="70.RTMKlik" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/ROLL_CHANNEL.jpg" group-title="Malaysia",RTM Roll
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://d1sq2slp9afh7o.cloudfront.net/smil:roll/playlist.mpd
+https://d1sq2slp9afh7o.cloudfront.net/smil:roll/manifest.mpd
 
 #EXTINF:-1 tvg-id="88.RTMKlik" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/AURA_CHANNEL.jpg" group-title="Malaysia",RTM Aura
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://d1sq2slp9afh7o.cloudfront.net/smil:aura/playlist.mpd
+https://d1sq2slp9afh7o.cloudfront.net/smil:aura/manifest.mpd
 
 #EXTINF:-1 tvg-id="123.ManaTV" group-title="Malaysia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Berita_Perdana_April_2026.png",Berita RTM/RTM World (MYTV MM2)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
