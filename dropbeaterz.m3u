@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U billed-msg="Dropbeaterz IPTV (Random update code: Þ6%ΩЖÇ)" url-tvg="https://raw.githubusercontent.com/dbghelp/mewatch-EPG/refs/heads/main/mewatch.xml,https://onm.rocket-ott.shop/test/astro_guide.xml,https://raw.githubusercontent.com/zultan-m/astro-epg/refs/heads/main/astro.xml,https://onm.rocket-ott.shop/test/rtmklik_guide.xml,https://onm.rocket-ott.shop/test/unifi_guide.xml,https://onm.rocket-ott.shop/test/manatv_guide.xml,https://onm.rocket-ott.shop/test/starhub_epg.xml,https://onm.rocket-ott.shop/test/visionplus_guide.xml,https://walpak1.github.io/epg/starhub.xml,https://walpak1.github.io/epg/mewatch.xml,https://onm.rocket-ott.shop/test/sooka_guide.xml,https://onm.rocket-ott.shop/test/cubmu_epg.xml,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://onm.rocket-ott.shop/test/vidio_epg.xml,https://warningfm.github.io/x1/epg/guide.xml.gz,https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml" refresh="1080" vod_library="https://github.com/Dropbeat-Developer-2/Dropbeaterz-TV/raw/refs/heads/General/VOD&MUSIC.m3u,https://github.com/Dropbeat-Developer-2/SERIES/raw/refs/heads/main/Quran.m3u,https://github.com/Dropbeat-Developer-2/SERIES/raw/refs/heads/main/SERIES.m3u,https://github.com/Dropbeat-Developer-2/singleplay/raw/refs/heads/main/VOD-ASIA.m3u,https://github.com/ediey7523017/freetv/raw/main/HBO_MAX.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Others.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Astro.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Collection.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_English.m3u,https://free.ptv2026.com/PerfecttvFree3.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Indian.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Kids.m3u,https://raw.githubusercontent.com/DinasKegelapanKotaKonoha/romlah-gunadi/refs/heads/main/romlahvodwleowleowleo.m3u"
+#EXTM3U billed-msg="Dropbeaterz IPTV (Random update code: ¥ËÑ5£Ł)" url-tvg="https://raw.githubusercontent.com/dbghelp/mewatch-EPG/refs/heads/main/mewatch.xml,https://onm.rocket-ott.shop/test/astro_guide.xml,https://raw.githubusercontent.com/zultan-m/astro-epg/refs/heads/main/astro.xml,https://onm.rocket-ott.shop/test/rtmklik_guide.xml,https://onm.rocket-ott.shop/test/unifi_guide.xml,https://onm.rocket-ott.shop/test/manatv_guide.xml,https://onm.rocket-ott.shop/test/starhub_epg.xml,https://onm.rocket-ott.shop/test/visionplus_guide.xml,https://walpak1.github.io/epg/starhub.xml,https://walpak1.github.io/epg/mewatch.xml,https://onm.rocket-ott.shop/test/sooka_guide.xml,https://onm.rocket-ott.shop/test/cubmu_epg.xml,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://onm.rocket-ott.shop/test/vidio_epg.xml,https://warningfm.github.io/x1/epg/guide.xml.gz,https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml" refresh="1080" vod_library="https://github.com/Dropbeat-Developer-2/Dropbeaterz-TV/raw/refs/heads/General/VOD&MUSIC.m3u,https://github.com/Dropbeat-Developer-2/SERIES/raw/refs/heads/main/Quran.m3u,https://github.com/Dropbeat-Developer-2/SERIES/raw/refs/heads/main/SERIES.m3u,https://github.com/Dropbeat-Developer-2/singleplay/raw/refs/heads/main/VOD-ASIA.m3u,https://github.com/ediey7523017/freetv/raw/main/HBO_MAX.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Others.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Astro.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Collection.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_English.m3u,https://free.ptv2026.com/PerfecttvFree3.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Indian.m3u,https://github.com/ediey7523017/freetv/raw/main/VOD_Kids.m3u,https://raw.githubusercontent.com/DinasKegelapanKotaKonoha/romlah-gunadi/refs/heads/main/romlahvodwleowleowleo.m3u"
 
 #######################################################################################################################################################################
 
@@ -33,12 +33,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
 #EXTINF:-1 tvg-id="101.Unifi" group-title="Malaysia" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv1_Trans.png",TV1 (UNIFITV)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-#KODIPROP:inputstream.adaptive.license_key=1fe3d74e8cbc4ee0b071a64257068e38:77ece75d9526f5beac0ab6bf1ee3bd89
-https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=TV1&kid=1fe3d74e-8cbc-4ee0-b071a-64257068e38
+http://sharkiptvpro.xyz:80/live/gs72cd991v3/bd75veo92b3/749322.m3u8
 
 #EXTINF:-1 tvg-id="1.RTMKlik" group-title="Malaysia" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv1_Trans.png",TV1 (RTMKLIK)
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
@@ -58,12 +53,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 #EXTINF:-1 tvg-id="102.Unifi" group-title="Malaysia" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv2_Trans.png",TV2 (UNIFITV)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-#KODIPROP:inputstream.adaptive.license_key=0749c883bbdb4d5a9483a65e719a13dc:24c0fce8e6c3bf6b43790b117e0e89e3
-https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=TV2&kid=0749c883-bbdb-4d5a-9483-a65e719a13dc
+http://sharkiptvpro.xyz:80/live/gs72cd991v3/bd75veo92b3/749321.m3u8
 
 #EXTINF:-1 tvg-id="2.RTMKlik" group-title="Malaysia" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv2_Trans.png",TV2 (RTMKLIK)
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
@@ -78,12 +68,7 @@ https://d25tgymtnqzu8s.cloudfront.net/live/media0/tv2/DASH/tv2.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 
 #EXTINF:-1 tvg-id="103.Unifi" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png",TV3 (B)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce43641a061a44fb9d95d986cfc9a68f:3d63855ca5cdfcfb765f306b98bcc646
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=TV3&kid=ce43641a-061a-44fb-9d95-d986cfc9a68f
+http://sharkiptvpro.xyz:80/live/gs72cd991v3/bd75veo92b3/749291.m3u8
 
 #EXTINF:-1 tvg-id="114.ManaTV" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png",TV Alhijrah
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -128,12 +113,7 @@ https://d25tgymtnqzu8s.cloudfront.net/live/media0/okey1/DASH/okey1.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/707/default_primary.mpd
 
 #EXTINF:-1 tvg-id="107.Unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/4504543C-34AB-456E-940F-72431972DC9C/0-16x9.png?width=530" group-title="Malaysia",DidikTV KPM (B)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6f9bd00304a34972a80e5ff79aff982f:95a9dfd543b897f8edebf6db32877d79
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Didik&kid=6f9bd003-04a3-4972-a80e-5ff79aff982f
+http://sharkiptvpro.xyz:80/live/gs72cd991v3/bd75veo92b3/749302.m3u8
 
 #EXTINF:-1 tvg-id="108.Unifi" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/8TV_v1.png",8TV (八度空间) (A)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -142,12 +122,7 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default_primary.mpd
 
 #EXTINF:-1 tvg-id="108.Unifi" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/8TV_v1.png",8TV (八度空间) (B)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=da1cb24f55db4ae1b32319c365920539:721af66b9c3e8c4166b8b4586d1fbefd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=8TV&kid=da1cb24f-55db-4ae1-b323-19c365920539
+http://sharkiptvpro.xyz:80/live/gs72cd991v3/bd75veo92b3/749409.m3u8
 
 #EXTINF:-1 tvg-id="109.Unifi" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV9_NEW.png",TV9 (A)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -156,12 +131,7 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default_primary.mpd
 
 #EXTINF:-1 tvg-id="109.Unifi" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV9_NEW.png",TV9 (B)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=eea0828c38d74407a5c384ad730d7224:250605c3d9734f7777e9c46fe5a6b176
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=TV9&kid=eea0828c-38d7-4407-a5c3-84ad730d7224
+http://sharkiptvpro.xyz:80/live/gs72cd991v3/bd75veo92b3/749320.m3u8
 
 #EXTINF:-1 tvg-id="633.Unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/85286732-64A6-4885-B02A-ED0383F4319D/0-16x9.png?width=530" group-title="Malaysia",Parlimen Malaysia by Unifi TV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -184,7 +154,6 @@ https://d25tgymtnqzu8s.cloudfront.net/live/media0/negara/DASH/negara.mpd
 #EXTINF:-1 tvg-id="84.RTMKlik" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/SNAP_CHANNEL.jpg" group-title="Malaysia",RTM Snap
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-
 https://d1sq2slp9afh7o.cloudfront.net/smil:snap/manifest.mpd
 
 #EXTINF:-1 tvg-id="81.RTMKlik" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/LEAD_CHANNEL.jpg" group-title="Malaysia",RTM Lead
@@ -329,16 +298,13 @@ https://mvts.live/zes-ria
 http://tv.cloudcdn.me/live.ts?channelId=132152&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 tvg-id="105.astro" group-title="Malaysian Satellite Channels" tvg-logo="https://cdn-icons-png.flaticon.com/512/12211/12211763.png",MPRM-105 (A)
-https://load.ptv2026.com/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&channel=prima
-
-#EXTINF:-1 tvg-id="105.astro" group-title="Malaysian Satellite Channels" tvg-logo="https://cdn-icons-png.flaticon.com/512/12211/12211763.png",MPRM-105 (B)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://mvts.live/zes-prima
 
-#EXTINF:-1 tvg-id="105.astro" group-title="Malaysian Satellite Channels" tvg-logo="https://cdn-icons-png.flaticon.com/512/12211/12211763.png",MPRM-105 (C)
+#EXTINF:-1 tvg-id="105.astro" group-title="Malaysian Satellite Channels" tvg-logo="https://cdn-icons-png.flaticon.com/512/12211/12211763.png",MPRM-105 (B)
 http://fixtv.shop:888/yusman18/yusman1234/18738
 
 #EXTINF:-1 tvg-id="106.astro" group-title="Malaysian Satellite Channels" tvg-logo="https://cdn-icons-png.flaticon.com/512/11516/11516658.png",MOIS-106
@@ -1311,19 +1277,10 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Sensasi&kid=6ba27002-6f0a-4b29-956a-ce51335fb1ac
 
 #EXTINF:-1 tvg-id="118.Unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/571B75B0-7857-425F-BB88-9D8E12E7903B/0-16x9.png?width=530" group-title="Movies & Entertainment",Unifi Inspirasi
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=94bfaa51ce3c4acfb8a8d5a7229316b6:1bc4bd67943da9eae142af71e31727af
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Inspirasi&kid=94bfaa51-ce3c-4acf-b8a8-d5a7229316b6
+http://sharkiptvpro.xyz:80/live/gs72cd991v3/bd75veo92b3/749432.m3u8
 
 #EXTINF:-1 tvg-id="120.Unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/07A79742-0FA2-4DD8-8F98-929157AE96DF/0-16x9.png?width=530" group-title="Movies & Entertainment",Unifi Degup
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a1623b766e4b48eb88cea29e1c309cc7:c21b36991b29928a80dc0a146beeac90
-https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DEGUP&kid=a1623b76-6e4b-48eb-88ce-a29e1c309cc7
+http://sharkiptvpro.xyz:80/live/gs72cd991v3/bd75veo92b3/749447.m3u8
 
 #EXTINF:-1 tvg-id="121.Unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F101B330-8D9C-4670-9DE3-2C53E8866EA0/0-16x9.png?width=530" group-title="Movies & Entertainment",Unifi Siar
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1333,11 +1290,7 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=SIAR&kid=5489f58c-64ad-40db-a471-c8b1c2693e2a
 
 #EXTINF:-1 tvg-id="128.Unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/66BD76C5-BEFD-476A-9688-87AFCE8E8526/0-16x9.png?width=530" group-title="Movies & Entertainment",Unifi Dunia Sinema
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=01a17625701e4734b02aa22c8657bd6f:975a483df422455dbc29a1d83ed6f154
-https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DuniaSin&kid=01a17625-701e-4734-b02a-a22c8657bd6f
+http://sharkiptvpro.xyz:80/live/gs72cd991v3/bd75veo92b3/749449.m3u8
 
 #EXTINF:-1 tvg-id="Zee.Bioskop.id" group-title="Movies & Entertainment" tvg-logo="https://yt3.googleusercontent.com/R7Dl3OUQsID8TK6lARx83pBc5x-zD_xatx-j0b4h6P1Xd__sc4E13DPxKCHLbycrVleUQ-XhQA=s900-c-k-c0x00ffffff-no-rj",Zee Bioskop (A)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
