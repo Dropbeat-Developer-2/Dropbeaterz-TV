@@ -422,7 +422,7 @@ https://tglmp02.akamaized.net/out/v1/8e5c0396bfbc4a668fac323649dc6aa1/manifest.m
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b152e2ae339c477aa4821eafb9c83c8c:e862ceb5df4fb9efcb013999e200b5bb
-https://ucdn.starhubgo.com/bpk-tv/Mediacorp_CH5_DASH/output/manifest.mpd|X-Forwarded-For=192.168.0.25
+https://ucdn.starhubgo.com/bpk-tv/Mediacorp_CH5_DASH/output/manifest.mpd|X-Forwarded-For=119.56.77.101
 
 #EXTINF:-1 group-title="Singapore" tvg-id="Ch.8.(HD).sg" tvg-logo="https://images.seeklogo.com/logo-png/46/2/mediacorp-channel-8-2023-logo-png_seeklogo-469515.png",Channel 8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -447,17 +447,17 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8b08559f2efb4075b6b31666b412932d:f574a17ae1805bf390b58d2bf814c062
 #EXTINF:-1 tvg-id="AstroWarnaHD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/118_1920x1080_HTV.png?w=272?13404" group-title="Singapore",Astro/Starhub Warna (RECOMMENDED USE HIGH-SPEED DATA)
-https://ucdn.starhubgo.com/bpk-tv/Astro_warna_new/output/manifest.mpd|X-Forwarded-For=192.168.0.25
+https://ucdn.starhubgo.com/bpk-tv/Astro_warna_new/output/manifest.mpd|X-Forwarded-For=119.56.77.101
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0510cd2f13504601956fb58167de6beb:bdd71968a15b634b3e097173a8b7ea7b
 #EXTINF:-1 tvg-id="AstroSensasiHD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/123_1920x1080_HTV.png?w=272?13404" group-title="Singapore",Astro/Starhub Sensasi (RECOMMENDED USE HIGH-SPEED DATA)
-https://ucdn.starhubgo.com/bpk-tv/HubSensasiHD/output/manifest.mpd|X-Forwarded-For=192.168.0.25
+https://ucdn.starhubgo.com/bpk-tv/HubSensasiHD/output/manifest.mpd|X-Forwarded-For=119.56.77.101
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5f3a6256209f40028a2954d02f3de31d:15e506cc2530e5e7c0a71d5561dc4d02
 #EXTINF:-1 tvg-id="Karisma.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/116_1920x1080_HTV.png?w=272?13404" group-title="Singapore",Starhub Karisma (RECOMMENDED USE HIGH-SPEED DATA)
-https://ucdn.starhubgo.com/bpk-tv/Karisma/output/manifest.mpd|X-Forwarded-For=192.168.0.25
+https://ucdn.starhubgo.com/bpk-tv/Karisma/output/manifest.mpd|X-Forwarded-For=119.56.77.101
 
 #######################################################################################################################################
 
@@ -584,12 +584,6 @@ https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NaZ0x0ZXFPbysvMVBvYjc1eXFMemc1a3UxOWR6NmYxUTllMi80N1IzM2tGWQ
 
-#EXTINF:-1 tvg-id="205.Vidio" tvg-logo="https://statik.tempo.co/data/2023/07/06/id_1217478/1217478_720.jpg" group-title="Indonesia",Indosiar (D)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvvision?contentId=indosiar
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://ptv2026.com/get_vision.mpd?contentId=indosiar
-
 #EXTINF:-1 tvg-id="206.Vidio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/3840px-Moji_blue.svg.png" group-title="Indonesia",Moji (A)
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:deinterlace=1
@@ -617,26 +611,13 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
 #EXTVLCOPT:http-continuous=true
 https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=206
 
-#EXTINF:-1 tvg-id="800.Trans" tvg-logo="https://thumbor.prod.vidiocdn.com/NK4FDuTsmSh5KibVRH61dJRuXGM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg" group-title="Indonesia",Trans TV (A)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=edf4f4ef3ffa4737b48a29e6c6be63a8:cc9cfb1f392e4b4180d79fa8178ab041
-https://cdnjkt913.transvision.co.id:1000/live/master/108/4028c685651d7bcc01651f0b6d210096/manifest.mpd
-
-#EXTINF:-1 tvg-id="800.Trans" tvg-logo="https://thumbor.prod.vidiocdn.com/NK4FDuTsmSh5KibVRH61dJRuXGM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg" group-title="Indonesia",Trans TV (B)
+#EXTINF:-1 tvg-id="800.Trans" tvg-logo="https://thumbor.prod.vidiocdn.com/NK4FDuTsmSh5KibVRH61dJRuXGM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg" group-title="Indonesia",Trans TV
 #EXTVLCOPT:http-origin=https://www.cnnindonesia.com
 #EXTVLCOPT:http-referrer=https://www.cnnindonesia.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0
 https://live.cnnindonesia.com/transtv/smil:transtv/chunklist.m3u8
 
-#EXTINF:-1 group-title="Indonesia" tvg-id="801.Trans" tvg-logo="https://www.transtv.co.id/themes/v25.7/src/assets/logo/livetv/TRANS7.png",Trans 7 (A)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvvision?contentId=trans7
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://ptv2026.com/get_vision.mpd?contentId=trans7
-
-#EXTINF:-1 group-title="Indonesia" tvg-id="801.Trans" tvg-logo="https://www.transtv.co.id/themes/v25.7/src/assets/logo/livetv/TRANS7.png",Trans 7 (B)
+#EXTINF:-1 group-title="Indonesia" tvg-id="801.Trans" tvg-logo="https://www.transtv.co.id/themes/v25.7/src/assets/logo/livetv/TRANS7.png",Trans 7
 #EXTVLCOPT:http-origin=https://www.cnnindonesia.com
 #EXTVLCOPT:http-referrer=https://www.cnnindonesia.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0
@@ -989,7 +970,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default_primary.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d397ab72f1e44b3abea34e879511cdad:e4a449c98410d136b21ddef7f58c5a6d
-https://ucdn.starhubgo.com/bpk-tv/SkyNewsHD/output/manifest.mpd|X-Forwarded-For=192.168.0.25
+https://ucdn.starhubgo.com/bpk-tv/SkyNewsHD/output/manifest.mpd|X-Forwarded-For=119.56.77.101
 
 #EXTINF:-1 tvg-id="513.astro" group-title="World" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AlJazeera_v1.png",Al-Jazeera English
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1013,7 +994,7 @@ https://tglmp03.akamaized.net/out/v1/f97b5eedb5ec4b4ea770859bd4e9d28e/manifest.m
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=62057e40fcd64088a7fb8ae537047af2:1a0c2df99e5048484b35835e9fcd7a0d
-https://ucdn.starhubgo.com/bpk-tv/NHKWORLDJAPAN/output/manifest.mpd|X-Forwarded-For=192.168.0.25
+https://ucdn.starhubgo.com/bpk-tv/NHKWORLDJAPAN/output/manifest.mpd|X-Forwarded-For=119.56.77.101
 
 #EXTINF:-1 tvg-id="NHKWORLDJAPANHD.sg" group-title="World" tvg-logo="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=272",NHK World (Japan Feed B)
 https://nhk.lls.pbs.org/index.m3u8
@@ -1130,7 +1111,7 @@ http://136.239.158.18:6610/001/2/ch00000090990000001216/manifest.mpd?AuthInfo=v8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5fb01414e3464af4a2683cf7847a2ab0:4faf90b7e72e099c871558754f23fa3a
-https://ucdn.starhubgo.com/bpk-tv/ANC/output/manifest.mpd|X-Forwarded-For=192.168.0.25
+https://ucdn.starhubgo.com/bpk-tv/ANC/output/manifest.mpd|X-Forwarded-For=119.56.77.101
 
 #EXTINF:-1 tvg-id="TVR.International.ro" group-title="World" tvg-logo="https://i.cdn.dejacast.com/tvr-international/live-1768491625.png",TVR Internațional
 https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/chunklist.m3u8
@@ -1434,7 +1415,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5144/default_primary.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=05e817347131436ab754a7367ab7cbf4:d50056adfc6ee86e7dfa2ccf0b8b9872
-https://ucdn.starhubgo.com/bpk-tv/BlueAntEntertainmentHD/output/manifest.mpd|X-Forwarded-For=192.168.0.25
+https://ucdn.starhubgo.com/bpk-tv/BlueAntEntertainmentHD/output/manifest.mpd|X-Forwarded-For=119.56.77.101
 
 #EXTINF:-1 tvg-id="37.Sooka" group-title="Movies & Entertainment" tvg-logo="https://aqfadtv.xyz/logos/FreeMovies.png",Sooka Free Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1452,7 +1433,7 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eec131c3a0af46359a1734acfa9b0e50:fbd97ce2ca444ba3090bd2968809511c
-https://ucdn.starhubgo.com/bpk-tv/HBOHD/output/manifest.mpd|X-Forwarded-For=192.168.0.25
+https://ucdn.starhubgo.com/bpk-tv/HBOHD/output/manifest.mpd|X-Forwarded-For=119.56.77.101
 
 #EXTINF:-1 tvg-id="HBO.Family.th" group-title="Movies & Entertainment" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_Family.png",HBO Family (A)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1465,7 +1446,7 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7d012c1b7ebe4232b9c9868b8d4af1e7:44bf6fb3a4e044ec4469d6f5588b09f6
-https://ucdn.starhubgo.com/bpk-tv/HBOFamilyHD/output/manifest.mpd|X-Forwarded-For=192.168.0.25
+https://ucdn.starhubgo.com/bpk-tv/HBOFamilyHD/output/manifest.mpd|X-Forwarded-For=119.56.77.101
 
 #EXTINF:-1 tvg-id="HBO.Hits.th" group-title="Movies & Entertainment" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_Hits.png",HBO Hits (A)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1478,14 +1459,14 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b3087019c53476da5bf58ff3092f49b:1a6e037e898efb04cd33419486a096fe
-https://ucdn.starhubgo.com/bpk-tv/HBOHitsHD/output/manifest.mpd|X-Forwarded-For=192.168.0.25
+https://ucdn.starhubgo.com/bpk-tv/HBOHitsHD/output/manifest.mpd|X-Forwarded-For=119.56.77.101
 
 #EXTINF:-1 tvg-id="HBOSignatureHD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png?w=272" group-title="Movies & Entertainment",HBO Signature
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7dd4f16f5fd647d79589d923060df12d:e29e7f9e4bd59c0515dd0ad1e83b18a7
-https://ucdn.starhubgo.com/bpk-tv/HBOSignatureHD/output/manifest.mpd|X-Forwarded-For=192.168.0.25
+https://ucdn.starhubgo.com/bpk-tv/HBOSignatureHD/output/manifest.mpd|X-Forwarded-For=119.56.77.101
 
 #EXTINF:-1 tvg-id="Cinemax.th" group-title="Movies & Entertainment" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png",Cinemax (A)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1498,7 +1479,7 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d4c9462406784dc1ae136960ce519d9f:088f3518471c22767c0cf0e4372bccac
-https://ucdn.starhubgo.com/bpk-tv/CinemaxHD/output/manifest.mpd|X-Forwarded-For=192.168.0.25
+https://ucdn.starhubgo.com/bpk-tv/CinemaxHD/output/manifest.mpd|X-Forwarded-For=119.56.77.101
 
 #EXTINF:-1 tvg-id="451.Unifi" group-title="Movies & Entertainment" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png",Warner TV (A)
 https://play-drm.aliiptv.com/live/warnertv.m3u8?verify=1790056290-4w7vbzmuwXKZyBBGiSOJERiRrXvWX5rqEGe_H61vbuQ
@@ -1619,7 +1600,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_primary.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1bf777a86b244608948e5d4c272ade19:a7c600a766773809cb56dc1791831247
-https://ucdn.starhubgo.com/bpk-tv/CCM/output/manifest.mpd|X-Forwarded-For=192.168.0.25
+https://ucdn.starhubgo.com/bpk-tv/CCM/output/manifest.mpd|X-Forwarded-For=119.56.77.101
 
 #EXTINF:-1 tvg-id="フジテレビ.jp" tvg-name="Fuji TV" tvg-logo="https://upload.wikimedia.org/wikipedia/it/a/ad/Fuji_tv_logo.png" group-title="Movies & Entertainment",Fuji TV
 https://fujitv4.mov3.co/hls/fujitv.m3u8
@@ -1657,7 +1638,7 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8421c9bc0b5241e59fe4377405a5305e:a8570f08dd26e5210041d85d7a84d6f4
-https://ucdn.starhubgo.com/bpk-tv/AnimaxHD/output/manifest.mpd|X-Forwarded-For=192.168.0.25
+https://ucdn.starhubgo.com/bpk-tv/AnimaxHD/output/manifest.mpd|X-Forwarded-For=119.56.77.101
 
 #EXTINF:-1 tvg-id="120.astro" tvg-logo="https://yt3.googleusercontent.com/roaWDy65Nql1AE6UwnxnjT_W1JEe-p_vxXitHruarjiB9uAMH4Egl-LCW1pX0qeGhpymPiu3heA=s900-c-k-c0x00ffffff-no-rj" group-title="Movies & Entertainment",Aniplus (Malaysia Feed)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2475,7 +2456,7 @@ https://www.dropbox.com/scl/fi/m47boybcoyedikarxgkv7/YouCut_20260923_214059311.m
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=94472526cc92471493d46543faefadda:36658f2faa1f09f206a2f448ac653e2d
-https://ucdn.starhubgo.com/bpk-tv/Preview/output/manifest.mpd|X-Forwarded-For=192.168.0.25
+https://ucdn.starhubgo.com/bpk-tv/Preview/output/manifest.mpd|X-Forwarded-For=119.56.77.101
 
 #EXTINF:-1 tvg-id="101.StarHub" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 6
 #EXTVLCOPT:network-caching=10000
@@ -2518,7 +2499,7 @@ http://74.91.26.218:82/live/cctv16hd.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8446bf3c61cb46e48efeb9303c98f651:274c6891982e220669ef82c1f6c1bde7
-https://ucdn.starhubgo.com/bpk-tv/HubECityHD825/output/manifest.mpd|X-Forwarded-For=192.168.0.25
+https://ucdn.starhubgo.com/bpk-tv/HubECityHD825/output/manifest.mpd|X-Forwarded-For=119.56.77.101
 
 #EXTINF:-1 tvg-id="101.StarHub" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 13
 https://event.pull.hebtv.com:443/live/live101.m3u8
@@ -2531,28 +2512,28 @@ https://d9ssxzmclhfo4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da6
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f8c6b1144723408ca3635040b159d5d1:127040955c9dc320212f110d31f7aac9
-https://ucdn.starhubgo.com/bpk-tv/HubECityHD/output/manifest.mpd|X-Forwarded-For=192.168.0.25
+https://ucdn.starhubgo.com/bpk-tv/HubECityHD/output/manifest.mpd|X-Forwarded-For=119.56.77.101
 
 #EXTINF:-1 tvg-id="101.StarHub" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 16
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9712e0043af4a4e9e6b50fc304581c7:021e2862340e8956d8ce548af7ef0839
-https://ucdn.starhubgo.com/bpk-tv/HubVVDramaHD/output/manifest.mpd|X-Forwarded-For=192.168.0.25
+https://ucdn.starhubgo.com/bpk-tv/HubVVDramaHD/output/manifest.mpd|X-Forwarded-For=119.56.77.101
 
 #EXTINF:-1 tvg-id="101.StarHub" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 17
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dac34964e0094890a3c7f45e1fe6a697:452682f2f5ec1e42c4771abbc04c40f7
-https://ucdn.starhubgo.com/bpk-tv/ETTVHD/output/manifest.mpd|X-Forwarded-For=192.168.0.25
+https://ucdn.starhubgo.com/bpk-tv/ETTVHD/output/manifest.mpd|X-Forwarded-For=119.56.77.101
 
 #EXTINF:-1 tvg-id="101.StarHub" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 18
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc39dc63f3e84bceb6c5a59b058a5349:d0b825d0aeb64f1d4e4dba32ef2d907c
-https://ucdn.starhubgo.com/bpk-tv/DragonTV/output/manifest.mpd|X-Forwarded-For=192.168.0.25
+https://ucdn.starhubgo.com/bpk-tv/DragonTV/output/manifest.mpd|X-Forwarded-For=119.56.77.101
 
 #EXTINF:-1 tvg-id="101.StarHub" group-title="Test Centre" tvg-logo="https://i.giphy.com/eNSnITXi6bdrLeabGL.gif",TEST CENTRE 19
 https://jmp2.uk/sam-INBD4000058T.m3u8
