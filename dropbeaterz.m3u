@@ -12,10 +12,10 @@ https://drive.usercontent.google.com/download?id=1ZjYbMvuZkldBkaW0ljvzWLpX0PXLek
 https://www.dropbox.com/scl/fi/n37vb5syns6e5ptd6478b/YouCut_20260711_133627292.mp4?rlkey=fkugdpngop46mg8ybimogi8wb&st=b3uxhz9h&dl=1
 
 #EXTINF:-1 tvg-id="101.StarHub" group-title="Info" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/026/161/911/small_2x/information-icon-illustration-in-flat-style-isolated-on-blue-background-with-long-shadow-speech-symbol-for-web-site-design-logo-app-ui-vector.jpg", Admin may hiatus for a while for personal matters. Stay tuned!
-https://www.dropbox.com/scl/fi/9cuszv57qm815clui5xj5/Bosanska-artiljerija.mp3?rlkey=b23chgd6vtsuxjhoenlwkjw2f&st=ut9oqru6&dl=1
+https://www.dropbox.com/scl/fi/ge0q405y1lv0qqa9ahe8r/document_6203921512785780703.mp4?rlkey=w14blyed1scu3ree6i3ru4dd4&st=oq2reg40&dl=1
 
-#EXTINF:-1 tvg-id="101.StarHub" group-title="Info" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-256,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/623_144.png", Aichi-Nagoya Asian Games/FIFA Asian Cup 2026 available here.
-https://www.dropbox.com/scl/fi/8rox3thvatstrehjfyffx/YouCut_20260911_175226666.mp4?rlkey=uwslzfbs87pbs10tero0ty99w&st=jr75u2d7&dl=1
+#EXTINF:-1 tvg-id="101.StarHub" group-title="Info" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/026/161/911/small_2x/information-icon-illustration-in-flat-style-isolated-on-blue-background-with-long-shadow-speech-symbol-for-web-site-design-logo-app-ui-vector.jpg", More events coming soon!
+https://www.dropbox.com/scl/fi/gbfqumt61kyf84zcsi8p8/document_6203921512785780704.mp4?rlkey=4nvtft9tko5yya00l6xex1pq9&st=5accl9tt&dl=1
 
 ################################################################################################
 
@@ -489,9 +489,9 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
 https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/R1RWLUNIQU5ORUw/manifest.mpd
 
 #EXTINF:-1 tvg-id="4.VPlus" tvg-logo="https://thumbor.prod.vidiocdn.com/CwjyFnvRo2k0014bLre-8FC_rBQ=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-1b9437.jpg" group-title="Indonesia",iNews (A)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://beetv.my.id/xstreamx/rctiplus.m3u8?id=inews
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 
 #EXTINF:-1 tvg-id="4.VPlus" tvg-logo="https://thumbor.prod.vidiocdn.com/CwjyFnvRo2k0014bLre-8FC_rBQ=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-1b9437.jpg" group-title="Indonesia",iNews (B)
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
@@ -505,8 +505,11 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?id=inews
 #EXTVLCOPT:http-continuous=true
 https://cdnbal1.indihometv.com/atm/DASH/inews/inews.mpd
 
+#EXTINF:-1 tvg-id="4.VPlus" tvg-logo="https://thumbor.prod.vidiocdn.com/CwjyFnvRo2k0014bLre-8FC_rBQ=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-1b9437.jpg" group-title="Indonesia",iNews (C)
+
+
 #EXTINF:-1 group-title="Indonesia" tvg-id="806.Trans" tvg-logo="https://images.seeklogo.com/logo-png/45/2/sctv-hd-logo-png_seeklogo-456921.png",SCTV (A)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
 https://beetv.my.id/xstreamx/vd.m3u8?ch=sctv
@@ -525,12 +528,15 @@ https://beetv.my.id/xstreamx/vd.m3u8?ch=sctv
 https://cdnbal1.indihometv.com/atm/DASH/sctv/manifest.mpd
 
 #EXTINF:-1 tvg-id="806.Trans" tvg-logo="https://images.seeklogo.com/logo-png/45/2/sctv-hd-logo-png_seeklogo-456921.png" group-title="Indonesia",SCTV (C)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
 https://bintangstreaming.my.id/forsat23/pido.php/.mpd?id=204
 
 #EXTINF:-1 tvg-id="806.Trans" tvg-logo="https://images.seeklogo.com/logo-png/45/2/sctv-hd-logo-png_seeklogo-456921.png" group-title="Indonesia",SCTV (D)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
 https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=204
 
 #EXTINF:-1 tvg-id="205.Vidio" tvg-logo="https://statik.tempo.co/data/2023/07/06/id_1217478/1217478_720.jpg" group-title="Indonesia",Indosiar (A)
@@ -558,8 +564,10 @@ https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
 http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NaZ0x0ZXFPbysvMVBvYjc1eXFMemc1a3UxOWR6NmYxUTllMi80N1IzM2tGWQ
 
 #EXTINF:-1 tvg-id="205.Vidio" tvg-logo="https://statik.tempo.co/data/2023/07/06/id_1217478/1217478_720.jpg" group-title="Indonesia",Indosiar (D)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://bintangstreaming.my.id/forsat23/pido.php/.mpd?id=205
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://teagan.mvksstick9uq6cprotection.cfd
+#EXTVLCOPT:http-referrer=https://teagan.mvksstick9uq6cprotection.cfd/
+https://beetv.my.id/rbtv/indosiar.m3u
 
 #EXTINF:-1 tvg-id="206.Vidio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/3840px-Moji_blue.svg.png" group-title="Indonesia",Moji (A)
 #EXTVLCOPT:network-caching=10000
@@ -589,8 +597,10 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
 https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=206
 
 #EXTINF:-1 tvg-id="206.Vidio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/3840px-Moji_blue.svg.png" group-title="Indonesia",Moji (D)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://bintangstreaming.my.id/forsat23/pido.php/.mpd?id=206
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://may.2f17ubowlsjn46easier.cfd
+#EXTVLCOPT:http-referrer=https://may.2f17ubowlsjn46easier.cfd/
+https://beetv.my.id/rbtv/moji.m3u
 
 #EXTINF:-1 tvg-id="800.Trans" tvg-logo="https://thumbor.prod.vidiocdn.com/NK4FDuTsmSh5KibVRH61dJRuXGM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg" group-title="Indonesia",Trans TV
 #EXTVLCOPT:http-origin=https://www.cnnindonesia.com
@@ -2327,31 +2337,31 @@ https://d30aylox5wvifh.cloudfront.net/live/media0/event6/DASH/event6.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 https://d30aylox5wvifh.cloudfront.net/smil:ag1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="795.astro" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/4/4d/2026_Asian_Games_logo.svg/500px-2026_Asian_Games_logo.svg.png" group-title="Live Events & Pop-up Channels",Asian Games ASTRO-CH1
+#EXTINF:-1 tvg-id="795.astro" tvg-logo="https://banner2.cleanpng.com/20180530/tkj/avp6ltdm6.webp" group-title="Live Events & Pop-up Channels",Astro Event CH1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e6284c2123706edefc59bb0c0548e10:c5f3d526135aa295d290f76ee6cb7479
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5601/default_primary.mpd
 
-#EXTINF:-1 tvg-id="796.astro" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/4/4d/2026_Asian_Games_logo.svg/500px-2026_Asian_Games_logo.svg.png" group-title="Live Events & Pop-up Channels",Asian Games ASTRO-CH2
+#EXTINF:-1 tvg-id="796.astro" tvg-logo="https://banner2.cleanpng.com/20180530/tkj/avp6ltdm6.webp" group-title="Live Events & Pop-up Channels",Astro Event CH2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=339cbed6dbf4fef81a19d9168feb7910:52a5c7fecad0558e094903fdc8b7cd77
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5602/default_primary.mpd
 
-#EXTINF:-1 tvg-id="797.astro" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/4/4d/2026_Asian_Games_logo.svg/500px-2026_Asian_Games_logo.svg.png" group-title="Live Events & Pop-up Channels",Asian Games ASTRO-CH3
+#EXTINF:-1 tvg-id="797.astro" tvg-logo="https://banner2.cleanpng.com/20180530/tkj/avp6ltdm6.webp" group-title="Live Events & Pop-up Channels",Astro Event CH3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=500b319392940c187ba932a698780710:ebeae1a0c632461ef99d19122e9408e5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5603/default_primary.mpd
 
-#EXTINF:-1 tvg-id="798.astro" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/4/4d/2026_Asian_Games_logo.svg/500px-2026_Asian_Games_logo.svg.png" group-title="Live Events & Pop-up Channels",Asian Games ASTRO-CH4
+#EXTINF:-1 tvg-id="798.astro" tvg-logo="https://banner2.cleanpng.com/20180530/tkj/avp6ltdm6.webp" group-title="Live Events & Pop-up Channels",Astro Event CH4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c4895263310ac2bdaa9ccff1b654510:81e12ab4c7bb25b2d9f5849c794379de
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5604/default_primary.mpd
 
-#EXTINF:-1 tvg-id="799.astro" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/4/4d/2026_Asian_Games_logo.svg/500px-2026_Asian_Games_logo.svg.png" group-title="Live Events & Pop-up Channels",Asian Games ASTRO-CH5
+#EXTINF:-1 tvg-id="799.astro" tvg-logo="https://banner2.cleanpng.com/20180530/tkj/avp6ltdm6.webp" group-title="Live Events & Pop-up Channels",Astro Event CH5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=19632b63cf668de01b77ded6d7a9af10:d69222bf7b387b1b72a358e0b8db5402
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
