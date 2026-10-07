@@ -20,7 +20,7 @@ To all Dropbeaterz IPTV users, starting from **6 Oct until 14 Oct**, the admin w
 > [!WARNING]
 > The administrator of this playlist identities are private. Don't ask anything personal on the [Telegram](https://t.me/+tDP6Zdhm9iQyMzll).
 > Only two things that admin allow to spread.
-> Today's Admin Favorite Song: [Bosanska Artiljerija by Muhamed Brkić Hamo](https://www.dropbox.com/scl/fi/9cuszv57qm815clui5xj5/Bosanska-artiljerija.mp3?rlkey=b23chgd6vtsuxjhoenlwkjw2f&st=5b5mtyou&dl=0)
+> Today's Admin Favorite Song: [Whiskey, Cola & Tequila by Maco Mamuko](https://www.dropbox.com/scl/fi/p1ejnofuzydy6hkuhwfwn/Whiskey-Cola-Tequila-Cover-UpwEfhqv0NI.mp3?rlkey=91tijktg0abfsp8xfycyzu9nr&st=mxkq84mt&dl=0)
 > &
 > Today's Admin Favorite Memes: [Electric Blanket](https://www.dropbox.com/scl/fi/o3qsgr9tvd7re72269gm4/tmpgftrl12n.mp4?rlkey=4ke4cp9j5rxup7vrp7xbatgyy&st=g6ss1zvb&dl=0)
 
