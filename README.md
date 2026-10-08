@@ -13,7 +13,7 @@ Contact admin in [Telegram](https://t.me/+tDP6Zdhm9iQyMzll).
 
 **IMPORTANT ANNOUNCEMENT!**
 
-To all Dropbeaterz IPTV users, starting from **6 Oct until 14 Oct**, the admin will be on **hiatus** for a while because the admin is **focusing on the exam.** I will edit when I have short time. **Pray for the admin to pass** 🤲 > and if **anyone has the #EXTINF text** for the channels **S-THROW POKEMON, YOUNIFY SIAR, YOUNIFY DEGUP, YOUNIFY SALAM HD, YOUNIFY SENSASI, YOUNIFY INSPIRASI, YOUNIFY PESONA HD, YOUNIFY DUNIA SINEMA** and there are **channels that need to be fixed/added**, you can **DM** (*I don't know if I can DM or not*).
+To all Dropbeaterz IPTV users, starting from **6 Oct until 14 Oct**, the admin will be on **hiatus** for a while because the admin is **focusing on the exam.** I will edit when I have short time. **Pray for the admin to pass 🤲** and if **anyone has the #EXTINF text** for the channels **S-THROW POKEMON, YOUNIFY SIAR, YOUNIFY DEGUP, YOUNIFY SALAM HD, YOUNIFY SENSASI, YOUNIFY INSPIRASI, YOUNIFY PESONA HD, YOUNIFY DUNIA SINEMA** and there are **channels that need to be fixed/added**, you can **DM** (*I don't know if I can DM or not*).
 
 #dropbeaterzIPTV #GREENAPPLE
 
