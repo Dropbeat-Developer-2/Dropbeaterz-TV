@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="Dropbeaterz IPTV | ANTI-K-POP MOVEMENT! ✊🏼✊🏼✊🏼✊🏼 | FORMATIVE TEST CENTRE"
+#EXTM3U billed-msg="Dropbeaterz IPTV | ANTI-K-POP MOVEMENT! ✊🏼✊🏼✊🏼✊🏼 | FORMATIVE TEST CENTRE 1"
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
@@ -9,7 +9,6 @@
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce43641a061a44fb9d95d986cfc9a68f:3d63855ca5cdfcfb765f306b98bcc646
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(TV3)/master.mpd?kid=ce43641a-061a-44fb-9d95-d986cfc9a68f
 
 #EXTINF:-1 group-title="TV3 UNIFI",MANIFEST MPD
@@ -17,7 +16,6 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(TV3)/master.mpd?kid=ce43
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce43641a061a44fb9d95d986cfc9a68f:3d63855ca5cdfcfb765f306b98bcc646
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(TV3)/manifest.mpd?kid=ce43641a-061a-44fb-9d95-d986cfc9a68f
 
 #EXTINF:-1 group-title="TV3 UNIFI",STREAM MPD
@@ -25,7 +23,6 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(TV3)/manifest.mpd?kid=ce
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce43641a061a44fb9d95d986cfc9a68f:3d63855ca5cdfcfb765f306b98bcc646
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(TV3)/stream.mpd?kid=ce43641a-061a-44fb-9d95-d986cfc9a68f
 
 #EXTINF:-1 group-title="TV3 UNIFI",PLST MPD
@@ -33,7 +30,6 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(TV3)/stream.mpd?kid=ce43
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce43641a061a44fb9d95d986cfc9a68f:3d63855ca5cdfcfb765f306b98bcc646
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(TV3)/playlist.mpd?kid=ce43641a-061a-44fb-9d95-d986cfc9a68f
 
 #EXTINF:-1 group-title="TV3 UNIFI",INDEX MPD
@@ -41,7 +37,6 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(TV3)/playlist.mpd?kid=ce
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce43641a061a44fb9d95d986cfc9a68f:3d63855ca5cdfcfb765f306b98bcc646
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(TV3)/index.mpd?kid=ce43641a-061a-44fb-9d95-d986cfc9a68f
 
 #EXTINF:-1 group-title="TV3 UNIFI",MA1N MPD
@@ -49,7 +44,6 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(TV3)/index.mpd?kid=ce436
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce43641a061a44fb9d95d986cfc9a68f:3d63855ca5cdfcfb765f306b98bcc646
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(TV3)/main.mpd?kid=ce43641a-061a-44fb-9d95-d986cfc9a68f
 
 #EXTINF:-1 group-title="TV3 UNIFI",PR1ME MPD
@@ -57,7 +51,6 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(TV3)/main.mpd?kid=ce4364
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce43641a061a44fb9d95d986cfc9a68f:3d63855ca5cdfcfb765f306b98bcc646
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(TV3)/primary.mpd?kid=ce43641a-061a-44fb-9d95-d986cfc9a68f
 
 
