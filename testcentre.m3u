@@ -1,16 +1,64 @@
-#EXTM3U billed-msg="Dropbeaterz IPTV (Test Centre)"
+#EXTM3U billed-msg="Dropbeaterz IPTV | ANTI-K-POP MOVEMENT! ✊🏼✊🏼✊🏼✊🏼 | FORMATIVE TEST CENTRE"
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-#EXTINF:-1 group-title="FAHH TV" group-logo="https://media.karousell.com/media/photos/products/2025/3/14/yunni_keychain_plushie_merchan_1741928253_97ceea02_progressive"
+#EXTINF:-1 group-title="TV3 UNIFI" group-logo="https://media.karousell.com/media/photos/products/2025/3/14/yunni_keychain_plushie_merchan_1741928253_97ceea02_progressive"
 
-#EXTINF:-1 group-title="FAHH TV",FUFUH ONE
-https://www.dropbox.com/scl/fi/2k3ivpe7hcaaq0p8hqou2/document_6086846811740316419.mp4?rlkey=65w968n4fdt5ws60c694lh58f&st=cm47g40n&dl=1
+#EXTINF:-1 group-title="TV3 UNIFI",MASTER MPD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce43641a061a44fb9d95d986cfc9a68f:3d63855ca5cdfcfb765f306b98bcc646
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(TV3)/master.mpd?kid=ce43641a-061a-44fb-9d95-d986cfc9a68f
 
+#EXTINF:-1 group-title="TV3 UNIFI",MANIFEST MPD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce43641a061a44fb9d95d986cfc9a68f:3d63855ca5cdfcfb765f306b98bcc646
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(TV3)/manifest.mpd?kid=ce43641a-061a-44fb-9d95-d986cfc9a68f
 
+#EXTINF:-1 group-title="TV3 UNIFI",STREAM MPD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce43641a061a44fb9d95d986cfc9a68f:3d63855ca5cdfcfb765f306b98bcc646
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(TV3)/stream.mpd?kid=ce43641a-061a-44fb-9d95-d986cfc9a68f
 
+#EXTINF:-1 group-title="TV3 UNIFI",PLST MPD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce43641a061a44fb9d95d986cfc9a68f:3d63855ca5cdfcfb765f306b98bcc646
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(TV3)/playlist.mpd?kid=ce43641a-061a-44fb-9d95-d986cfc9a68f
 
+#EXTINF:-1 group-title="TV3 UNIFI",INDEX MPD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce43641a061a44fb9d95d986cfc9a68f:3d63855ca5cdfcfb765f306b98bcc646
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(TV3)/index.mpd?kid=ce43641a-061a-44fb-9d95-d986cfc9a68f
 
+#EXTINF:-1 group-title="TV3 UNIFI",MA1N MPD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce43641a061a44fb9d95d986cfc9a68f:3d63855ca5cdfcfb765f306b98bcc646
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(TV3)/main.mpd?kid=ce43641a-061a-44fb-9d95-d986cfc9a68f
+
+#EXTINF:-1 group-title="TV3 UNIFI",PR1ME MPD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce43641a061a44fb9d95d986cfc9a68f:3d63855ca5cdfcfb765f306b98bcc646
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(TV3)/primary.mpd?kid=ce43641a-061a-44fb-9d95-d986cfc9a68f
 
 
 
