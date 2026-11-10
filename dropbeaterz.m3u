@@ -405,6 +405,9 @@ https://www.youtube.com/@AwesomeTVmyPlus/streams
 
 #EXTINF:-1 group-title="Malaysian Satellite Channels" group-logo="https://media.tenor.com/OA1caTjfG94AAAAM/alfa7.gif"
 
+#EXTINF:-1 tvg-id="DROPBEATERZ" group-title="Malaysian Satellite Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_RNr7jAUrAS1ac4GsHMaPZogf0Zneqegjz19a4JjIag&s=10",Remember! This category is under long maintenance! Please be patient!
+https://www.dropbox.com/scl/fi/1m4t4bfeo7955jv8iw5gf/Testcard.mp4?rlkey=w3r7jilqlh52ryz9xnz2fi7lm&st=ancbifg3&dl=1
+
 #EXTINF:-1 tvg-id="104.Astro" group-title="Malaysian Satellite Channels" tvg-logo="https://cdn-icons-png.flaticon.com/512/11516/11516602.png",MRIA-104 (A)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -470,27 +473,7 @@ https://mvts.live/zes-prima
 #EXTVLCOPT:avcodec-hw=any
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-continuous=true
-http://iptv12k.com:35461/m260715462111857/111111/734
-
-#EXTINF:-1 tvg-id="105.Astro" group-title="Malaysian Satellite Channels" tvg-logo="https://cdn-icons-png.flaticon.com/512/12211/12211763.png",MPRM-105 (C)
-#EXTVLCOPT:network-caching=12000
-#EXTVLCOPT:deinterlace=1
-#EXTVLCOPT:deinterlace-mode=linear
-#EXTVLCOPT:avcodec-hw=any
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-http://iptv12k.com:35461/m260715462111857/111111/5959
-
-#EXTINF:-1 tvg-id="105.Astro" group-title="Malaysian Satellite Channels" tvg-logo="https://cdn-icons-png.flaticon.com/512/12211/12211763.png",MPRM-105 (D)
-#EXTVLCOPT:network-caching=12000
-#EXTVLCOPT:deinterlace=1
-#EXTVLCOPT:deinterlace-mode=linear
-#EXTVLCOPT:avcodec-hw=any
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-http://iptv12k.com:35461/m260715462111857/111111/5958
+http://tv.cloudcdn.me/live.ts?channelId=93734&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 tvg-id="106.Astro" group-title="Malaysian Satellite Channels" tvg-logo="https://cdn-icons-png.flaticon.com/512/11516/11516658.png",MOIS-106
 #KODIPROP:inputstream.adaptive.license_type=clearkey
