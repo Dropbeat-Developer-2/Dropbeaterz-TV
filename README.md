@@ -18,3 +18,7 @@ Contact admin in [Telegram](https://t.me/+tDP6Zdhm9iQyMzll).
 > &
 > Today's Admin Favorite Memes: [Pitipiwpiw Wiwiwiw Phillipines Village](https://www.dropbox.com/scl/fi/jgytlibxgz4uw5v5oamo2/YouCut_20261122_133536158.mp4?rlkey=s0iw4g4ghuuen86ofjlh3g00u&st=26jwpb4l&dl=0)
 
+# For Tivimate Users
+
+> [You can install premium unlocked Tivimate app by click this sentence to download the APK file.](https://www.dropbox.com/scl/fi/ra8w9mrn0uqd7fbunnl71/TiviMate_5.3.3_mod.apk?rlkey=0nlfx14utqvvk1s11d8f6y2m8&st=6h73ys3k&dl=1)
+
