@@ -14,11 +14,7 @@ Contact admin in [Telegram](https://t.me/+tDP6Zdhm9iQyMzll).
 > [!WARNING]
 > The administrator of this playlist identities are private. Don't ask anything personal on the [Telegram](https://t.me/+tDP6Zdhm9iQyMzll).
 > Only two things that admin allow to spread.
-> Today's Admin Favorite Song: [Whiskey, Cola & Tequila by Maco Mamuko](https://www.dropbox.com/scl/fi/p1ejnofuzydy6hkuhwfwn/Whiskey-Cola-Tequila-Cover-UpwEfhqv0NI.mp3?rlkey=91tijktg0abfsp8xfycyzu9nr&st=mxkq84mt&dl=0)
+> Today's Admin Favorite Song: [Reeky by Luciid](https://www.dropbox.com/scl/fi/hlb6zd63x6okin9oso2e7/SpotiDownloader.com-Reeky-Luciid.mp3?rlkey=h1mg83xkooal744ygut1ti9ot&st=uv78omtk&dl=0)
 > &
-> Today's Admin Favorite Memes: [Electric Blanket](https://www.dropbox.com/scl/fi/o3qsgr9tvd7re72269gm4/tmpgftrl12n.mp4?rlkey=4ke4cp9j5rxup7vrp7xbatgyy&st=g6ss1zvb&dl=0)
+> Today's Admin Favorite Memes: [Pitipiwpiw Wiwiwiw Phillipines Village](https://www.dropbox.com/scl/fi/jgytlibxgz4uw5v5oamo2/YouCut_20261122_133536158.mp4?rlkey=s0iw4g4ghuuen86ofjlh3g00u&st=26jwpb4l&dl=0)
 
-# External Test Centre
-[4K TEST (ITS CONTENT)](https://www.dropbox.com/scl/fi/xspg3edh0ub6p9k4foy2a/FWC26-4K.mp4?rlkey=ksa28c7e0brjd0ne8vsm2tqvn&st=1zcvvwlp&dl=0)
-/
-[4K TEST (DOWNLOAD)](https://www.dropbox.com/scl/fi/xspg3edh0ub6p9k4foy2a/FWC26-4K.mp4?rlkey=ksa28c7e0brjd0ne8vsm2tqvn&st=1zcvvwlp&dl=1)
